@@ -1,0 +1,31 @@
+{
+  "step": "STEP_19_FINAL_ANALYSIS_LOCK_AND_MANUSCRIPT_RESULTS_EXPORT",
+  "step_key": "step19_v1_1_final_analysis_lock_and_manuscript_export",
+  "step_version": "1.1.0",
+  "fresh_run_token": "step19_v1_1_checkpoint_completion_semantics",
+  "completed_at_utc": "2026-07-21T22:28:25.317515+00:00",
+  "python_version": "3.12.13 (main, Mar  4 2026, 09:23:07) [GCC 11.4.0]",
+  "platform": "Linux-6.6.122+-x86_64-with-glibc2.35",
+  "numpy_version": "2.0.2",
+  "pandas_version": "2.2.2",
+  "models_retrained": false,
+  "shap_recomputed": false,
+  "prior_steps_verified": [
+    "step15",
+    "step16",
+    "step17",
+    "step18"
+  ],
+  "prior_checkpoint_completion_semantics_verified": true,
+  "step16_completion_rule": "all_quality_gates_passed + analysis_complete + rank_bug_corrected",
+  "prior_manifest_entries_verified": 104,
+  "scenario_code": "A+D+G",
+  "scenario_label": "Strong source dependence with outcome-specific residual transfer; hierarchical correction benefits represented sources but does not improve unseen-source prediction.",
+  "continuous_gap_outcome_count": 2,
+  "sensitivity_scenario_count": 14,
+  "classification_outcome_count": 2,
+  "stable_feature_rows": 20,
+  "automatic_finalization_complete": true,
+  "analysis_lock_complete": true,
+  "all_quality_gates_passed": true
+}

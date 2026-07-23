@@ -1,0 +1,7 @@
+dataset,dataset_label,stage_order,stage,row_count
+cell_viability,Cell viability,1,Raw supplementary data,617
+cell_viability,Cell viability,2,Exact duplicates excluded,9
+cell_viability,Cell viability,3,Primary analysis dataset,608
+filament_diameter,Filament diameter,1,Raw supplementary data,339
+filament_diameter,Filament diameter,2,Exact duplicates excluded,53
+filament_diameter,Filament diameter,3,Primary analysis dataset,286

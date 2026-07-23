@@ -1,0 +1,22 @@
+{
+  "step": "STEP_11_FULL_ONE_RUN_NESTED_CROSS_VALIDATION",
+  "step_version": "2.0.0",
+  "fresh_run_token": "step11_full_run_from_001_v1",
+  "updated_at_utc": "2026-07-21T10:06:50.266896+00:00",
+  "python_version": "3.12.13 (main, Mar  4 2026, 09:23:07) [GCC 11.4.0]",
+  "platform": "Linux-6.6.122+-x86_64-with-glibc2.35",
+  "numpy_version": "2.0.2",
+  "pandas_version": "2.2.2",
+  "scikit_learn_version": "1.6.1",
+  "run_all_pending_tasks": true,
+  "tasks_completed_before_run": 0,
+  "tasks_completed_this_run": 999,
+  "tasks_completed_after_run": 999,
+  "tasks_remaining": 0,
+  "completion_percent": 100.0,
+  "run_elapsed_seconds": 19601.272479819,
+  "outer_test_used_for_selection": false,
+  "analysis_complete": true,
+  "all_completed_tasks_valid": true,
+  "all_quality_gates_passed": true
+}

@@ -1,0 +1,10 @@
+dataset,target_family,feature_set,feature_count,rows,complete_case_rows,complete_case_percent,median_observed_features,median_observed_fraction,minimum_observed_fraction,publications,publications_with_complete_row
+cell_viability,raw_outcome,core_physics,15,608,83,13.651315789473683,13.0,0.8666666666666667,0.6,75,12
+cell_viability,raw_outcome,full_retrospective,46,608,0,0.0,42.0,0.9130434782608695,0.782608695652174,75,0
+cell_viability,raw_outcome,prospective_design,44,608,0,0.0,41.0,0.9318181818181818,0.8181818181818182,75,0
+filament_diameter,filament_to_nozzle_ratio,core_physics,13,286,34,11.888111888111888,11.0,0.8461538461538461,0.5384615384615384,54,8
+filament_diameter,filament_to_nozzle_ratio,full_retrospective,39,286,0,0.0,36.0,0.9230769230769231,0.7948717948717948,54,0
+filament_diameter,filament_to_nozzle_ratio,prospective_design,37,286,0,0.0,34.0,0.918918918918919,0.7837837837837838,54,0
+filament_diameter,raw_outcome,core_physics,14,286,34,11.888111888111888,12.0,0.8571428571428571,0.5714285714285714,54,8
+filament_diameter,raw_outcome,full_retrospective,40,286,0,0.0,37.0,0.925,0.8,54,0
+filament_diameter,raw_outcome,prospective_design,38,286,0,0.0,35.0,0.9210526315789473,0.7894736842105263,54,0

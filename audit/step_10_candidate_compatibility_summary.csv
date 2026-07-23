@@ -1,0 +1,5 @@
+model_key,preprocessing_variant,feature_target_combinations,candidate_ids_tested,smoke_fit_count,failed_fit_count,minimum_elapsed_seconds,median_elapsed_seconds,maximum_elapsed_seconds,all_runs_passed
+elastic_net,scaled,81,9,81,0,0.022145404999719176,0.0408775579999201,0.2021459319994392,True
+random_forest,unscaled,54,6,54,0,0.5651857510001719,0.7881452485003138,2.3508471320001263,True
+rbf_svr,scaled,108,12,108,0,0.027855072999955155,0.039253072000065004,0.31409336799970333,True
+ridge,scaled,45,5,45,0,0.023716492999483307,0.04087808900021628,0.18551425199984806,True

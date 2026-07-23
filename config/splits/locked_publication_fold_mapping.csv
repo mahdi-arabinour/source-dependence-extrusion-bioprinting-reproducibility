@@ -1,0 +1,775 @@
+dataset,validation_design,repeat,assignment_seed,source_id,assigned_fold,source_row_count
+cell_viability,publication_grouped,1,1050824782,doi:10.1002/mabi.201600472,5,42.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1115/1.4024575,2,30.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1007/s10439-016-1704-5,4,30.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1089/ten.a.2007.0004,1,21.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1038/s41598-018-26407-3,3,20.0
+cell_viability,publication_grouped,1,1050824782,doi:10.18063/ijb.v5i2.2.204,3,19.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1038/s41598-020-65050-9,1,18.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1002/smll.201905505,2,18.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1038/s41598-019-55034-9,4,15.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1002/adma.201604983,1,15.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1088/1758-5090/abc39b,3,14.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1088/1758-5090/8/3/035020,5,14.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1002/adma.201703443,4,13.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1021/acs.biomac.9b01204,2,12.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1021/acsami.7b16059,3,12.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1021/acsbiomaterials.9b00167,1,12.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1002/biot.200900004,5,12.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1088/1758-5090/7/4/045012,4,11.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1089/ten.tec.2015.0307,2,10.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1088/1758-5090/7/4/044102,3,10.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1002/adma.201305506,1,10.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1016/j.actbio.2014.06.034,5,9.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1088/1758-5082/6/2/024105,4,9.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1002/adma.201503310,2,9.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1016/j.biomaterials.2016.07.038,3,9.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1002/adhm.201601451,1,9.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1088/1758-5090/ab2622,5,9.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1089/ten.a.2007.0158,4,9.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1088/1758-5090/ab19fd,2,8.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1016/j.actbio.2018.10.028,3,8.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1088/1758-5090/aa7b1d,1,8.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1002/adhm.201500677,5,7.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1016/j.biomaterials.2015.05.031,2,6.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1039/c3bm00012e,4,6.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1088/1758-5090/ab15cb,3,6.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1088/1758-5090/aacd30,5,6.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1021/acsami.9b09782,2,6.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1089/ten.tec.2007.0392,4,6.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1016/j.actbio.2020.07.016,1,6.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1016/j.mtbio.2020.100078,3,5.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1002/adhm.201901792,5,4.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1002/adfm.201700798,2,4.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1089/biores.2013.0031,4,4.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1016/j.actbio.2014.09.023,1,4.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1115/1.3128729,5,4.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1088/0960-1317/22/8/085014,2,4.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1002/adhm.201901544,4,4.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1002/term.1682,1,4.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1088/1758-5090/8/4/045001,3,4.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1016/j.actbio.2014.09.033,5,4.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1016/j.addma.2020.101640,2,4.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1088/1758-5082/6/3/035001,4,4.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1088/1758-5090/8/4/045002,1,4.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1088/1758-5090/ab0692,3,4.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1088/1758-5090/ab7553,5,4.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1002/jbm.a.36036,2,4.0
+cell_viability,publication_grouped,1,1050824782,doi:10.3390/ma13194237,4,3.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1038/srep29977,1,3.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1039/c4bm00234b,3,3.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1007/s10856-019-6258-2,4,3.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1088/1758-5090/7/4/044101,1,3.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1021/acsami.7b04216,3,3.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1016/j.jmbbm.2017.12.018,5,3.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1002/adhm.201801631,2,3.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1088/1758-5082/5/2/025004,4,3.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1007/s13205-018-1341-9,1,3.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1038/s41598-017-17286-1,3,2.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1021/acs.biomac.5b00188,5,2.0
+cell_viability,publication_grouped,1,1050824782,doi:10.18063/ijb.v6i1.250,2,2.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1115/1.4043960,3,2.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1002/jbm.a.34420,5,2.0
+cell_viability,publication_grouped,1,1050824782,doi:10.3390/polym12102346,2,2.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1088/1758-5090/ab38ef,4,1.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1088/1758-5090/8/4/045005,1,1.0
+cell_viability,publication_grouped,1,1050824782,doi:10.1007/s00289-020-03421-y,4,1.0
+cell_viability,publication_grouped,2,869111205,doi:10.1002/mabi.201600472,3,42.0
+cell_viability,publication_grouped,2,869111205,doi:10.1007/s10439-016-1704-5,4,30.0
+cell_viability,publication_grouped,2,869111205,doi:10.1115/1.4024575,1,30.0
+cell_viability,publication_grouped,2,869111205,doi:10.1089/ten.a.2007.0004,2,21.0
+cell_viability,publication_grouped,2,869111205,doi:10.1038/s41598-018-26407-3,5,20.0
+cell_viability,publication_grouped,2,869111205,doi:10.18063/ijb.v5i2.2.204,5,19.0
+cell_viability,publication_grouped,2,869111205,doi:10.1002/smll.201905505,2,18.0
+cell_viability,publication_grouped,2,869111205,doi:10.1038/s41598-020-65050-9,4,18.0
+cell_viability,publication_grouped,2,869111205,doi:10.1038/s41598-019-55034-9,1,15.0
+cell_viability,publication_grouped,2,869111205,doi:10.1002/adma.201604983,2,15.0
+cell_viability,publication_grouped,2,869111205,doi:10.1088/1758-5090/8/3/035020,5,14.0
+cell_viability,publication_grouped,2,869111205,doi:10.1088/1758-5090/abc39b,3,14.0
+cell_viability,publication_grouped,2,869111205,doi:10.1002/adma.201703443,1,13.0
+cell_viability,publication_grouped,2,869111205,doi:10.1021/acs.biomac.9b01204,4,12.0
+cell_viability,publication_grouped,2,869111205,doi:10.1021/acsbiomaterials.9b00167,5,12.0
+cell_viability,publication_grouped,2,869111205,doi:10.1002/biot.200900004,2,12.0
+cell_viability,publication_grouped,2,869111205,doi:10.1021/acsami.7b16059,3,12.0
+cell_viability,publication_grouped,2,869111205,doi:10.1088/1758-5090/7/4/045012,1,11.0
+cell_viability,publication_grouped,2,869111205,doi:10.1089/ten.tec.2015.0307,4,10.0
+cell_viability,publication_grouped,2,869111205,doi:10.1002/adma.201305506,5,10.0
+cell_viability,publication_grouped,2,869111205,doi:10.1088/1758-5090/7/4/044102,2,10.0
+cell_viability,publication_grouped,2,869111205,doi:10.1088/1758-5082/6/2/024105,3,9.0
+cell_viability,publication_grouped,2,869111205,doi:10.1016/j.biomaterials.2016.07.038,1,9.0
+cell_viability,publication_grouped,2,869111205,doi:10.1089/ten.a.2007.0158,4,9.0
+cell_viability,publication_grouped,2,869111205,doi:10.1002/adhm.201601451,5,9.0
+cell_viability,publication_grouped,2,869111205,doi:10.1002/adma.201503310,2,9.0
+cell_viability,publication_grouped,2,869111205,doi:10.1088/1758-5090/ab2622,3,9.0
+cell_viability,publication_grouped,2,869111205,doi:10.1016/j.actbio.2014.06.034,1,9.0
+cell_viability,publication_grouped,2,869111205,doi:10.1016/j.actbio.2018.10.028,4,8.0
+cell_viability,publication_grouped,2,869111205,doi:10.1088/1758-5090/ab19fd,5,8.0
+cell_viability,publication_grouped,2,869111205,doi:10.1088/1758-5090/aa7b1d,2,8.0
+cell_viability,publication_grouped,2,869111205,doi:10.1002/adhm.201500677,3,7.0
+cell_viability,publication_grouped,2,869111205,doi:10.1021/acsami.9b09782,4,6.0
+cell_viability,publication_grouped,2,869111205,doi:10.1088/1758-5090/ab15cb,1,6.0
+cell_viability,publication_grouped,2,869111205,doi:10.1089/ten.tec.2007.0392,5,6.0
+cell_viability,publication_grouped,2,869111205,doi:10.1039/c3bm00012e,3,6.0
+cell_viability,publication_grouped,2,869111205,doi:10.1016/j.actbio.2020.07.016,4,6.0
+cell_viability,publication_grouped,2,869111205,doi:10.1088/1758-5090/aacd30,1,6.0
+cell_viability,publication_grouped,2,869111205,doi:10.1016/j.biomaterials.2015.05.031,2,6.0
+cell_viability,publication_grouped,2,869111205,doi:10.1016/j.mtbio.2020.100078,5,5.0
+cell_viability,publication_grouped,2,869111205,doi:10.1088/1758-5090/ab7553,3,4.0
+cell_viability,publication_grouped,2,869111205,doi:10.1016/j.addma.2020.101640,4,4.0
+cell_viability,publication_grouped,2,869111205,doi:10.1115/1.3128729,1,4.0
+cell_viability,publication_grouped,2,869111205,doi:10.1002/adfm.201700798,2,4.0
+cell_viability,publication_grouped,2,869111205,doi:10.1002/jbm.a.36036,3,4.0
+cell_viability,publication_grouped,2,869111205,doi:10.1002/adhm.201901544,4,4.0
+cell_viability,publication_grouped,2,869111205,doi:10.1002/adhm.201901792,1,4.0
+cell_viability,publication_grouped,2,869111205,doi:10.1016/j.actbio.2014.09.033,2,4.0
+cell_viability,publication_grouped,2,869111205,doi:10.1088/0960-1317/22/8/085014,5,4.0
+cell_viability,publication_grouped,2,869111205,doi:10.1088/1758-5082/6/3/035001,3,4.0
+cell_viability,publication_grouped,2,869111205,doi:10.1088/1758-5090/8/4/045001,4,4.0
+cell_viability,publication_grouped,2,869111205,doi:10.1089/biores.2013.0031,1,4.0
+cell_viability,publication_grouped,2,869111205,doi:10.1088/1758-5090/ab0692,2,4.0
+cell_viability,publication_grouped,2,869111205,doi:10.1002/term.1682,5,4.0
+cell_viability,publication_grouped,2,869111205,doi:10.1088/1758-5090/8/4/045002,3,4.0
+cell_viability,publication_grouped,2,869111205,doi:10.1016/j.actbio.2014.09.023,4,4.0
+cell_viability,publication_grouped,2,869111205,doi:10.1007/s10856-019-6258-2,1,3.0
+cell_viability,publication_grouped,2,869111205,doi:10.1088/1758-5090/7/4/044101,2,3.0
+cell_viability,publication_grouped,2,869111205,doi:10.1038/srep29977,5,3.0
+cell_viability,publication_grouped,2,869111205,doi:10.1039/c4bm00234b,1,3.0
+cell_viability,publication_grouped,2,869111205,doi:10.3390/ma13194237,2,3.0
+cell_viability,publication_grouped,2,869111205,doi:10.1002/adhm.201801631,5,3.0
+cell_viability,publication_grouped,2,869111205,doi:10.1021/acsami.7b04216,3,3.0
+cell_viability,publication_grouped,2,869111205,doi:10.1088/1758-5082/5/2/025004,4,3.0
+cell_viability,publication_grouped,2,869111205,doi:10.1016/j.jmbbm.2017.12.018,1,3.0
+cell_viability,publication_grouped,2,869111205,doi:10.1007/s13205-018-1341-9,2,3.0
+cell_viability,publication_grouped,2,869111205,doi:10.1002/jbm.a.34420,5,2.0
+cell_viability,publication_grouped,2,869111205,doi:10.1038/s41598-017-17286-1,3,2.0
+cell_viability,publication_grouped,2,869111205,doi:10.1021/acs.biomac.5b00188,4,2.0
+cell_viability,publication_grouped,2,869111205,doi:10.1115/1.4043960,5,2.0
+cell_viability,publication_grouped,2,869111205,doi:10.3390/polym12102346,3,2.0
+cell_viability,publication_grouped,2,869111205,doi:10.18063/ijb.v6i1.250,4,2.0
+cell_viability,publication_grouped,2,869111205,doi:10.1088/1758-5090/ab38ef,1,1.0
+cell_viability,publication_grouped,2,869111205,doi:10.1007/s00289-020-03421-y,2,1.0
+cell_viability,publication_grouped,2,869111205,doi:10.1088/1758-5090/8/4/045005,1,1.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1002/mabi.201600472,5,42.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1115/1.4024575,2,30.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1007/s10439-016-1704-5,1,30.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1089/ten.a.2007.0004,4,21.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1038/s41598-018-26407-3,3,20.0
+cell_viability,publication_grouped,3,3547288985,doi:10.18063/ijb.v5i2.2.204,3,19.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1038/s41598-020-65050-9,4,18.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1002/smll.201905505,2,18.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1002/adma.201604983,1,15.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1038/s41598-019-55034-9,4,15.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1088/1758-5090/8/3/035020,3,14.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1088/1758-5090/abc39b,5,14.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1002/adma.201703443,1,13.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1021/acsbiomaterials.9b00167,2,12.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1021/acsami.7b16059,3,12.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1002/biot.200900004,4,12.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1021/acs.biomac.9b01204,5,12.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1088/1758-5090/7/4/045012,1,11.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1089/ten.tec.2015.0307,2,10.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1088/1758-5090/7/4/044102,3,10.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1002/adma.201305506,4,10.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1016/j.biomaterials.2016.07.038,5,9.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1088/1758-5082/6/2/024105,1,9.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1088/1758-5090/ab2622,2,9.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1002/adma.201503310,3,9.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1002/adhm.201601451,4,9.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1089/ten.a.2007.0158,5,9.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1016/j.actbio.2014.06.034,1,9.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1088/1758-5090/aa7b1d,2,8.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1016/j.actbio.2018.10.028,3,8.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1088/1758-5090/ab19fd,4,8.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1002/adhm.201500677,5,7.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1088/1758-5090/ab15cb,2,6.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1039/c3bm00012e,1,6.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1016/j.biomaterials.2015.05.031,3,6.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1089/ten.tec.2007.0392,5,6.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1088/1758-5090/aacd30,2,6.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1016/j.actbio.2020.07.016,1,6.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1021/acsami.9b09782,4,6.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1016/j.mtbio.2020.100078,3,5.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1088/1758-5090/ab0692,5,4.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1016/j.actbio.2014.09.033,2,4.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1002/jbm.a.36036,1,4.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1088/0960-1317/22/8/085014,4,4.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1002/adhm.201901544,5,4.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1088/1758-5082/6/3/035001,2,4.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1088/1758-5090/8/4/045002,1,4.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1002/adhm.201901792,4,4.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1016/j.addma.2020.101640,3,4.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1115/1.3128729,5,4.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1089/biores.2013.0031,2,4.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1088/1758-5090/8/4/045001,1,4.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1002/adfm.201700798,4,4.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1088/1758-5090/ab7553,3,4.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1016/j.actbio.2014.09.023,5,4.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1002/term.1682,2,4.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1038/srep29977,1,3.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1021/acsami.7b04216,4,3.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1007/s13205-018-1341-9,3,3.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1088/1758-5082/5/2/025004,1,3.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1002/adhm.201801631,4,3.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1088/1758-5090/7/4/044101,3,3.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1039/c4bm00234b,5,3.0
+cell_viability,publication_grouped,3,3547288985,doi:10.3390/ma13194237,2,3.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1016/j.jmbbm.2017.12.018,1,3.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1007/s10856-019-6258-2,4,3.0
+cell_viability,publication_grouped,3,3547288985,doi:10.3390/polym12102346,3,2.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1002/jbm.a.34420,5,2.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1038/s41598-017-17286-1,2,2.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1115/1.4043960,3,2.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1021/acs.biomac.5b00188,5,2.0
+cell_viability,publication_grouped,3,3547288985,doi:10.18063/ijb.v6i1.250,2,2.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1088/1758-5090/ab38ef,1,1.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1007/s00289-020-03421-y,4,1.0
+cell_viability,publication_grouped,3,3547288985,doi:10.1088/1758-5090/8/4/045005,1,1.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1002/mabi.201600472,4,42.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1007/s10439-016-1704-5,3,30.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1115/1.4024575,5,30.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1089/ten.a.2007.0004,1,21.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1038/s41598-018-26407-3,2,20.0
+cell_viability,publication_grouped,4,2828049170,doi:10.18063/ijb.v5i2.2.204,2,19.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1038/s41598-020-65050-9,1,18.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1002/smll.201905505,3,18.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1038/s41598-019-55034-9,5,15.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1002/adma.201604983,1,15.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1088/1758-5090/abc39b,2,14.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1088/1758-5090/8/3/035020,4,14.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1002/adma.201703443,5,13.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1021/acsami.7b16059,3,12.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1021/acs.biomac.9b01204,2,12.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1002/biot.200900004,1,12.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1021/acsbiomaterials.9b00167,4,12.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1088/1758-5090/7/4/045012,5,11.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1088/1758-5090/7/4/044102,3,10.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1089/ten.tec.2015.0307,2,10.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1002/adma.201305506,1,10.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1088/1758-5090/ab2622,4,9.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1089/ten.a.2007.0158,5,9.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1088/1758-5082/6/2/024105,3,9.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1002/adhm.201601451,2,9.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1016/j.actbio.2014.06.034,1,9.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1016/j.biomaterials.2016.07.038,4,9.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1002/adma.201503310,5,9.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1088/1758-5090/aa7b1d,3,8.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1088/1758-5090/ab19fd,2,8.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1016/j.actbio.2018.10.028,1,8.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1002/adhm.201500677,4,7.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1088/1758-5090/aacd30,3,6.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1021/acsami.9b09782,5,6.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1088/1758-5090/ab15cb,2,6.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1039/c3bm00012e,4,6.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1016/j.actbio.2020.07.016,3,6.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1089/ten.tec.2007.0392,5,6.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1016/j.biomaterials.2015.05.031,1,6.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1016/j.mtbio.2020.100078,2,5.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1002/term.1682,4,4.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1088/1758-5090/ab7553,3,4.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1016/j.addma.2020.101640,5,4.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1002/adhm.201901792,1,4.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1088/1758-5090/ab0692,4,4.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1002/adfm.201700798,3,4.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1089/biores.2013.0031,5,4.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1088/1758-5090/8/4/045001,1,4.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1088/1758-5090/8/4/045002,2,4.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1002/jbm.a.36036,4,4.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1016/j.actbio.2014.09.023,3,4.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1016/j.actbio.2014.09.033,5,4.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1115/1.3128729,1,4.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1002/adhm.201901544,2,4.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1088/0960-1317/22/8/085014,4,4.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1088/1758-5082/6/3/035001,3,4.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1088/1758-5090/7/4/044101,5,3.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1038/srep29977,1,3.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1007/s10856-019-6258-2,2,3.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1016/j.jmbbm.2017.12.018,5,3.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1007/s13205-018-1341-9,1,3.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1002/adhm.201801631,2,3.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1088/1758-5082/5/2/025004,4,3.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1021/acsami.7b04216,3,3.0
+cell_viability,publication_grouped,4,2828049170,doi:10.3390/ma13194237,5,3.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1039/c4bm00234b,1,3.0
+cell_viability,publication_grouped,4,2828049170,doi:10.18063/ijb.v6i1.250,2,2.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1002/jbm.a.34420,4,2.0
+cell_viability,publication_grouped,4,2828049170,doi:10.3390/polym12102346,3,2.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1115/1.4043960,2,2.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1021/acs.biomac.5b00188,4,2.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1038/s41598-017-17286-1,3,2.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1088/1758-5090/8/4/045005,5,1.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1007/s00289-020-03421-y,1,1.0
+cell_viability,publication_grouped,4,2828049170,doi:10.1088/1758-5090/ab38ef,5,1.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1002/mabi.201600472,1,42.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1115/1.4024575,5,30.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1007/s10439-016-1704-5,3,30.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1089/ten.a.2007.0004,2,21.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1038/s41598-018-26407-3,4,20.0
+cell_viability,publication_grouped,5,2063338900,doi:10.18063/ijb.v5i2.2.204,4,19.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1002/smll.201905505,2,18.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1038/s41598-020-65050-9,5,18.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1038/s41598-019-55034-9,3,15.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1002/adma.201604983,2,15.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1088/1758-5090/abc39b,4,14.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1088/1758-5090/8/3/035020,1,14.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1002/adma.201703443,3,13.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1021/acsami.7b16059,5,12.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1021/acs.biomac.9b01204,4,12.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1002/biot.200900004,2,12.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1021/acsbiomaterials.9b00167,1,12.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1088/1758-5090/7/4/045012,3,11.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1002/adma.201305506,5,10.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1089/ten.tec.2015.0307,4,10.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1088/1758-5090/7/4/044102,2,10.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1002/adhm.201601451,1,9.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1088/1758-5082/6/2/024105,3,9.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1002/adma.201503310,5,9.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1016/j.biomaterials.2016.07.038,4,9.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1016/j.actbio.2014.06.034,2,9.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1088/1758-5090/ab2622,1,9.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1089/ten.a.2007.0158,3,9.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1016/j.actbio.2018.10.028,5,8.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1088/1758-5090/aa7b1d,4,8.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1088/1758-5090/ab19fd,2,8.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1002/adhm.201500677,1,7.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1016/j.actbio.2020.07.016,5,6.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1021/acsami.9b09782,3,6.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1016/j.biomaterials.2015.05.031,4,6.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1088/1758-5090/ab15cb,1,6.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1089/ten.tec.2007.0392,5,6.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1088/1758-5090/aacd30,3,6.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1039/c3bm00012e,2,6.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1016/j.mtbio.2020.100078,4,5.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1002/term.1682,1,4.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1016/j.addma.2020.101640,5,4.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1002/adfm.201700798,3,4.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1088/1758-5090/8/4/045002,2,4.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1088/1758-5082/6/3/035001,1,4.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1088/1758-5090/8/4/045001,5,4.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1089/biores.2013.0031,3,4.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1002/adhm.201901544,2,4.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1088/0960-1317/22/8/085014,4,4.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1016/j.actbio.2014.09.023,1,4.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1115/1.3128729,5,4.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1016/j.actbio.2014.09.033,3,4.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1088/1758-5090/ab0692,2,4.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1002/jbm.a.36036,4,4.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1088/1758-5090/ab7553,1,4.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1002/adhm.201901792,5,4.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1021/acsami.7b04216,3,3.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1002/adhm.201801631,2,3.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1016/j.jmbbm.2017.12.018,4,3.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1007/s10856-019-6258-2,3,3.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1088/1758-5090/7/4/044101,2,3.0
+cell_viability,publication_grouped,5,2063338900,doi:10.3390/ma13194237,4,3.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1007/s13205-018-1341-9,1,3.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1039/c4bm00234b,5,3.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1038/srep29977,3,3.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1088/1758-5082/5/2/025004,2,3.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1115/1.4043960,4,2.0
+cell_viability,publication_grouped,5,2063338900,doi:10.3390/polym12102346,1,2.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1021/acs.biomac.5b00188,5,2.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1038/s41598-017-17286-1,4,2.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1002/jbm.a.34420,1,2.0
+cell_viability,publication_grouped,5,2063338900,doi:10.18063/ijb.v6i1.250,5,2.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1007/s00289-020-03421-y,3,1.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1088/1758-5090/ab38ef,2,1.0
+cell_viability,publication_grouped,5,2063338900,doi:10.1088/1758-5090/8/4/045005,3,1.0
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1002/adfm.201700798,1,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1002/adhm.201500677,2,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1002/adhm.201601451,3,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1002/adhm.201801631,4,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1002/adhm.201901544,5,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1002/adhm.201901792,6,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1002/adma.201305506,7,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1002/adma.201503310,8,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1002/adma.201604983,9,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1002/adma.201703443,10,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1002/biot.200900004,11,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1002/jbm.a.34420,12,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1002/jbm.a.36036,13,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1002/mabi.201600472,14,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1002/smll.201905505,15,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1002/term.1682,16,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1007/s00289-020-03421-y,17,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1007/s10439-016-1704-5,18,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1007/s10856-019-6258-2,19,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1007/s13205-018-1341-9,20,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1016/j.actbio.2014.06.034,21,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1016/j.actbio.2014.09.023,22,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1016/j.actbio.2014.09.033,23,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1016/j.actbio.2018.10.028,24,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1016/j.actbio.2020.07.016,25,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1016/j.addma.2020.101640,26,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1016/j.biomaterials.2015.05.031,27,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1016/j.biomaterials.2016.07.038,28,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1016/j.jmbbm.2017.12.018,29,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1016/j.mtbio.2020.100078,30,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1021/acs.biomac.5b00188,31,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1021/acs.biomac.9b01204,32,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1021/acsami.7b04216,33,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1021/acsami.7b16059,34,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1021/acsami.9b09782,35,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1021/acsbiomaterials.9b00167,36,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1038/s41598-017-17286-1,37,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1038/s41598-018-26407-3,38,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1038/s41598-019-55034-9,39,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1038/s41598-020-65050-9,40,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1038/srep29977,41,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1039/c3bm00012e,42,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1039/c4bm00234b,43,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1088/0960-1317/22/8/085014,44,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1088/1758-5082/5/2/025004,45,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1088/1758-5082/6/2/024105,46,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1088/1758-5082/6/3/035001,47,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1088/1758-5090/7/4/044101,48,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1088/1758-5090/7/4/044102,49,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1088/1758-5090/7/4/045012,50,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1088/1758-5090/8/3/035020,51,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1088/1758-5090/8/4/045001,52,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1088/1758-5090/8/4/045002,53,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1088/1758-5090/8/4/045005,54,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1088/1758-5090/aa7b1d,55,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1088/1758-5090/aacd30,56,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1088/1758-5090/ab0692,57,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1088/1758-5090/ab15cb,58,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1088/1758-5090/ab19fd,59,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1088/1758-5090/ab2622,60,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1088/1758-5090/ab38ef,61,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1088/1758-5090/ab7553,62,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1088/1758-5090/abc39b,63,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1089/biores.2013.0031,64,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1089/ten.a.2007.0004,65,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1089/ten.a.2007.0158,66,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1089/ten.tec.2007.0392,67,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1089/ten.tec.2015.0307,68,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1115/1.3128729,69,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1115/1.4024575,70,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.1115/1.4043960,71,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.18063/ijb.v5i2.2.204,72,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.18063/ijb.v6i1.250,73,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.3390/ma13194237,74,
+cell_viability,leave_one_publication_out,1,3691203163,doi:10.3390/polym12102346,75,
+filament_diameter,publication_grouped,1,448464143,ref:mistry yang biomacromolj 2018,5,30.0
+filament_diameter,publication_grouped,1,448464143,ref:yu ozbolat jbiomecheng 2013,3,18.0
+filament_diameter,publication_grouped,1,448464143,ref:tigner alge biomacromol 2020,2,12.0
+filament_diameter,publication_grouped,1,448464143,ref:kang jin small 2020,1,12.0
+filament_diameter,publication_grouped,1,448464143,ref:kilian ahlfeld akkineni bioprint 2020,4,12.0
+filament_diameter,publication_grouped,1,448464143,ref:ouyang 2016,2,11.0
+filament_diameter,publication_grouped,1,448464143,ref:ouyang burdick advmat 2017,1,10.0
+filament_diameter,publication_grouped,1,448464143,ref:yin suo appmatint 2018,4,9.0
+filament_diameter,publication_grouped,1,448464143,ref:colosi khademhosseini advmat 2016,3,9.0
+filament_diameter,publication_grouped,1,448464143,ref:soltan chen acsbiomat 2019,4,9.0
+filament_diameter,publication_grouped,1,448464143,ref:jia khademhosseini biomat 2016,1,9.0
+filament_diameter,publication_grouped,1,448464143,ref:shin burdick actabiomat 2019,2,8.0
+filament_diameter,publication_grouped,1,448464143,ref:li fu scirep 2018,3,8.0
+filament_diameter,publication_grouped,1,448464143,ref:ning chen biofab 2018,5,6.0
+filament_diameter,publication_grouped,1,448464143,ref:kolan leu bioprintamer 2019,4,6.0
+filament_diameter,publication_grouped,1,448464143,ref:yang zhao matsciengc 2018,2,6.0
+filament_diameter,publication_grouped,1,448464143,ref:kosik koziol swieszkowski biofab 2019,1,6.0
+filament_diameter,publication_grouped,1,448464143,ref:ojansivu mustafa biofab 2019,3,6.0
+filament_diameter,publication_grouped,1,448464143,ref:fedorovich dhe22 tissueeng 2008,5,5.0
+filament_diameter,publication_grouped,1,448464143,ref:lim levato advhealthmat 2020,4,4.0
+filament_diameter,publication_grouped,1,448464143,ref:soliman lim advhealthmat 2020,2,4.0
+filament_diameter,publication_grouped,1,448464143,ref:kolesky lewis advmat 2014,1,4.0
+filament_diameter,publication_grouped,1,448464143,ref:daly kelly biofab 2016,4,4.0
+filament_diameter,publication_grouped,1,448464143,ref:zhao 2014,5,4.0
+filament_diameter,publication_grouped,1,448464143,ref:gao cho advfuncmat 2017,3,4.0
+filament_diameter,publication_grouped,1,448464143,ref:fisch zenobi wong biofab 2021,2,4.0
+filament_diameter,publication_grouped,1,448464143,ref:shim cho jmicromechmicroeng 2012,1,4.0
+filament_diameter,publication_grouped,1,448464143,ref:li zhou addman 2021,4,4.0
+filament_diameter,publication_grouped,1,448464143,ref:mondal singh scirep 2019,5,4.0
+filament_diameter,publication_grouped,1,448464143,ref:chen zhang appmatint 2019,3,3.0
+filament_diameter,publication_grouped,1,448464143,ref:das ghosh actabiomat 2015,2,3.0
+filament_diameter,publication_grouped,1,448464143,ref:chung wallace biomatsci 2013,1,3.0
+filament_diameter,publication_grouped,1,448464143,ref:idaszek swieszkowski biofab 2019,3,3.0
+filament_diameter,publication_grouped,1,448464143,ref:be22assoni khademhosseini biofab 2014,2,3.0
+filament_diameter,publication_grouped,1,448464143,ref:liu zhang advhealthmat 2017,1,3.0
+filament_diameter,publication_grouped,1,448464143,ref:zhang ozbolat biomatsci 2015,4,3.0
+filament_diameter,publication_grouped,1,448464143,ref:bociaga rosinska mat 2020,5,3.0
+filament_diameter,publication_grouped,1,448464143,ref:ouyang 2015,3,3.0
+filament_diameter,publication_grouped,1,448464143,ref:li xu 3biotech 2018,2,3.0
+filament_diameter,publication_grouped,1,448464143,ref:giuseppe 2018,1,3.0
+filament_diameter,publication_grouped,1,448464143,ref:akkineni gelinsky biofab 2016,4,2.0
+filament_diameter,publication_grouped,1,448464143,ref:gantumar sakai,5,2.0
+filament_diameter,publication_grouped,1,448464143,ref:markstedt mantas biomacromol 2015,4,2.0
+filament_diameter,publication_grouped,1,448464143,ref:duan butcher jbiomedmatres 2012,5,2.0
+filament_diameter,publication_grouped,1,448464143,ref:duin 2019,3,2.0
+filament_diameter,publication_grouped,1,448464143,ref:sanz garcia escobedo lucea polymers 2020,2,2.0
+filament_diameter,publication_grouped,1,448464143,ref:li li acsapplmatinterf 2017,1,2.0
+filament_diameter,publication_grouped,1,448464143,ref:sakai nagasuna mattodbio 2020,4,1.0
+filament_diameter,publication_grouped,1,448464143,ref:cidonio oreffo biofab 2019,5,1.0
+filament_diameter,publication_grouped,1,448464143,ref:dai 2016,3,1.0
+filament_diameter,publication_grouped,1,448464143,ref:moncal ozbolat jmatscimatmed 2019,2,1.0
+filament_diameter,publication_grouped,1,448464143,ref:othman 2020,1,1.0
+filament_diameter,publication_grouped,1,448464143,ref:yao 2019,4,1.0
+filament_diameter,publication_grouped,1,448464143,ref:gao ma biomat 2015,5,1.0
+filament_diameter,publication_grouped,2,1159476889,ref:mistry yang biomacromolj 2018,4,30.0
+filament_diameter,publication_grouped,2,1159476889,ref:yu ozbolat jbiomecheng 2013,5,18.0
+filament_diameter,publication_grouped,2,1159476889,ref:tigner alge biomacromol 2020,3,12.0
+filament_diameter,publication_grouped,2,1159476889,ref:kilian ahlfeld akkineni bioprint 2020,2,12.0
+filament_diameter,publication_grouped,2,1159476889,ref:kang jin small 2020,1,12.0
+filament_diameter,publication_grouped,2,1159476889,ref:ouyang 2016,3,11.0
+filament_diameter,publication_grouped,2,1159476889,ref:ouyang burdick advmat 2017,2,10.0
+filament_diameter,publication_grouped,2,1159476889,ref:soltan chen acsbiomat 2019,1,9.0
+filament_diameter,publication_grouped,2,1159476889,ref:jia khademhosseini biomat 2016,5,9.0
+filament_diameter,publication_grouped,2,1159476889,ref:yin suo appmatint 2018,1,9.0
+filament_diameter,publication_grouped,2,1159476889,ref:colosi khademhosseini advmat 2016,2,9.0
+filament_diameter,publication_grouped,2,1159476889,ref:shin burdick actabiomat 2019,3,8.0
+filament_diameter,publication_grouped,2,1159476889,ref:li fu scirep 2018,5,8.0
+filament_diameter,publication_grouped,2,1159476889,ref:ojansivu mustafa biofab 2019,4,6.0
+filament_diameter,publication_grouped,2,1159476889,ref:kosik koziol swieszkowski biofab 2019,1,6.0
+filament_diameter,publication_grouped,2,1159476889,ref:yang zhao matsciengc 2018,3,6.0
+filament_diameter,publication_grouped,2,1159476889,ref:kolan leu bioprintamer 2019,2,6.0
+filament_diameter,publication_grouped,2,1159476889,ref:ning chen biofab 2018,5,6.0
+filament_diameter,publication_grouped,2,1159476889,ref:fedorovich dhe22 tissueeng 2008,4,5.0
+filament_diameter,publication_grouped,2,1159476889,ref:lim levato advhealthmat 2020,1,4.0
+filament_diameter,publication_grouped,2,1159476889,ref:li zhou addman 2021,3,4.0
+filament_diameter,publication_grouped,2,1159476889,ref:mondal singh scirep 2019,2,4.0
+filament_diameter,publication_grouped,2,1159476889,ref:gao cho advfuncmat 2017,1,4.0
+filament_diameter,publication_grouped,2,1159476889,ref:daly kelly biofab 2016,4,4.0
+filament_diameter,publication_grouped,2,1159476889,ref:zhao 2014,5,4.0
+filament_diameter,publication_grouped,2,1159476889,ref:soliman lim advhealthmat 2020,3,4.0
+filament_diameter,publication_grouped,2,1159476889,ref:kolesky lewis advmat 2014,2,4.0
+filament_diameter,publication_grouped,2,1159476889,ref:shim cho jmicromechmicroeng 2012,1,4.0
+filament_diameter,publication_grouped,2,1159476889,ref:fisch zenobi wong biofab 2021,4,4.0
+filament_diameter,publication_grouped,2,1159476889,ref:zhang ozbolat biomatsci 2015,5,3.0
+filament_diameter,publication_grouped,2,1159476889,ref:idaszek swieszkowski biofab 2019,3,3.0
+filament_diameter,publication_grouped,2,1159476889,ref:chen zhang appmatint 2019,2,3.0
+filament_diameter,publication_grouped,2,1159476889,ref:be22assoni khademhosseini biofab 2014,5,3.0
+filament_diameter,publication_grouped,2,1159476889,ref:li xu 3biotech 2018,3,3.0
+filament_diameter,publication_grouped,2,1159476889,ref:giuseppe 2018,2,3.0
+filament_diameter,publication_grouped,2,1159476889,ref:bociaga rosinska mat 2020,1,3.0
+filament_diameter,publication_grouped,2,1159476889,ref:chung wallace biomatsci 2013,4,3.0
+filament_diameter,publication_grouped,2,1159476889,ref:das ghosh actabiomat 2015,5,3.0
+filament_diameter,publication_grouped,2,1159476889,ref:liu zhang advhealthmat 2017,3,3.0
+filament_diameter,publication_grouped,2,1159476889,ref:ouyang 2015,2,3.0
+filament_diameter,publication_grouped,2,1159476889,ref:akkineni gelinsky biofab 2016,1,2.0
+filament_diameter,publication_grouped,2,1159476889,ref:duan butcher jbiomedmatres 2012,4,2.0
+filament_diameter,publication_grouped,2,1159476889,ref:duin 2019,1,2.0
+filament_diameter,publication_grouped,2,1159476889,ref:li li acsapplmatinterf 2017,4,2.0
+filament_diameter,publication_grouped,2,1159476889,ref:gantumar sakai,5,2.0
+filament_diameter,publication_grouped,2,1159476889,ref:sanz garcia escobedo lucea polymers 2020,3,2.0
+filament_diameter,publication_grouped,2,1159476889,ref:markstedt mantas biomacromol 2015,2,2.0
+filament_diameter,publication_grouped,2,1159476889,ref:cidonio oreffo biofab 2019,1,1.0
+filament_diameter,publication_grouped,2,1159476889,ref:othman 2020,4,1.0
+filament_diameter,publication_grouped,2,1159476889,ref:dai 2016,5,1.0
+filament_diameter,publication_grouped,2,1159476889,ref:gao ma biomat 2015,3,1.0
+filament_diameter,publication_grouped,2,1159476889,ref:sakai nagasuna mattodbio 2020,2,1.0
+filament_diameter,publication_grouped,2,1159476889,ref:yao 2019,1,1.0
+filament_diameter,publication_grouped,2,1159476889,ref:moncal ozbolat jmatscimatmed 2019,4,1.0
+filament_diameter,publication_grouped,3,815483958,ref:mistry yang biomacromolj 2018,4,30.0
+filament_diameter,publication_grouped,3,815483958,ref:yu ozbolat jbiomecheng 2013,1,18.0
+filament_diameter,publication_grouped,3,815483958,ref:tigner alge biomacromol 2020,5,12.0
+filament_diameter,publication_grouped,3,815483958,ref:kilian ahlfeld akkineni bioprint 2020,2,12.0
+filament_diameter,publication_grouped,3,815483958,ref:kang jin small 2020,3,12.0
+filament_diameter,publication_grouped,3,815483958,ref:ouyang 2016,5,11.0
+filament_diameter,publication_grouped,3,815483958,ref:ouyang burdick advmat 2017,2,10.0
+filament_diameter,publication_grouped,3,815483958,ref:yin suo appmatint 2018,3,9.0
+filament_diameter,publication_grouped,3,815483958,ref:colosi khademhosseini advmat 2016,1,9.0
+filament_diameter,publication_grouped,3,815483958,ref:soltan chen acsbiomat 2019,3,9.0
+filament_diameter,publication_grouped,3,815483958,ref:jia khademhosseini biomat 2016,2,9.0
+filament_diameter,publication_grouped,3,815483958,ref:shin burdick actabiomat 2019,5,8.0
+filament_diameter,publication_grouped,3,815483958,ref:li fu scirep 2018,1,8.0
+filament_diameter,publication_grouped,3,815483958,ref:kolan leu bioprintamer 2019,4,6.0
+filament_diameter,publication_grouped,3,815483958,ref:ning chen biofab 2018,3,6.0
+filament_diameter,publication_grouped,3,815483958,ref:yang zhao matsciengc 2018,5,6.0
+filament_diameter,publication_grouped,3,815483958,ref:ojansivu mustafa biofab 2019,2,6.0
+filament_diameter,publication_grouped,3,815483958,ref:kosik koziol swieszkowski biofab 2019,1,6.0
+filament_diameter,publication_grouped,3,815483958,ref:fedorovich dhe22 tissueeng 2008,4,5.0
+filament_diameter,publication_grouped,3,815483958,ref:shim cho jmicromechmicroeng 2012,3,4.0
+filament_diameter,publication_grouped,3,815483958,ref:li zhou addman 2021,5,4.0
+filament_diameter,publication_grouped,3,815483958,ref:daly kelly biofab 2016,2,4.0
+filament_diameter,publication_grouped,3,815483958,ref:zhao 2014,3,4.0
+filament_diameter,publication_grouped,3,815483958,ref:lim levato advhealthmat 2020,4,4.0
+filament_diameter,publication_grouped,3,815483958,ref:kolesky lewis advmat 2014,1,4.0
+filament_diameter,publication_grouped,3,815483958,ref:fisch zenobi wong biofab 2021,5,4.0
+filament_diameter,publication_grouped,3,815483958,ref:gao cho advfuncmat 2017,2,4.0
+filament_diameter,publication_grouped,3,815483958,ref:mondal singh scirep 2019,3,4.0
+filament_diameter,publication_grouped,3,815483958,ref:soliman lim advhealthmat 2020,4,4.0
+filament_diameter,publication_grouped,3,815483958,ref:li xu 3biotech 2018,1,3.0
+filament_diameter,publication_grouped,3,815483958,ref:zhang ozbolat biomatsci 2015,5,3.0
+filament_diameter,publication_grouped,3,815483958,ref:idaszek swieszkowski biofab 2019,2,3.0
+filament_diameter,publication_grouped,3,815483958,ref:chung wallace biomatsci 2013,1,3.0
+filament_diameter,publication_grouped,3,815483958,ref:liu zhang advhealthmat 2017,5,3.0
+filament_diameter,publication_grouped,3,815483958,ref:giuseppe 2018,2,3.0
+filament_diameter,publication_grouped,3,815483958,ref:chen zhang appmatint 2019,3,3.0
+filament_diameter,publication_grouped,3,815483958,ref:das ghosh actabiomat 2015,4,3.0
+filament_diameter,publication_grouped,3,815483958,ref:ouyang 2015,1,3.0
+filament_diameter,publication_grouped,3,815483958,ref:be22assoni khademhosseini biofab 2014,5,3.0
+filament_diameter,publication_grouped,3,815483958,ref:bociaga rosinska mat 2020,2,3.0
+filament_diameter,publication_grouped,3,815483958,ref:markstedt mantas biomacromol 2015,3,2.0
+filament_diameter,publication_grouped,3,815483958,ref:akkineni gelinsky biofab 2016,4,2.0
+filament_diameter,publication_grouped,3,815483958,ref:sanz garcia escobedo lucea polymers 2020,3,2.0
+filament_diameter,publication_grouped,3,815483958,ref:duin 2019,4,2.0
+filament_diameter,publication_grouped,3,815483958,ref:gantumar sakai,1,2.0
+filament_diameter,publication_grouped,3,815483958,ref:li li acsapplmatinterf 2017,5,2.0
+filament_diameter,publication_grouped,3,815483958,ref:duan butcher jbiomedmatres 2012,2,2.0
+filament_diameter,publication_grouped,3,815483958,ref:gao ma biomat 2015,3,1.0
+filament_diameter,publication_grouped,3,815483958,ref:moncal ozbolat jmatscimatmed 2019,4,1.0
+filament_diameter,publication_grouped,3,815483958,ref:othman 2020,1,1.0
+filament_diameter,publication_grouped,3,815483958,ref:sakai nagasuna mattodbio 2020,5,1.0
+filament_diameter,publication_grouped,3,815483958,ref:yao 2019,2,1.0
+filament_diameter,publication_grouped,3,815483958,ref:dai 2016,3,1.0
+filament_diameter,publication_grouped,3,815483958,ref:cidonio oreffo biofab 2019,4,1.0
+filament_diameter,publication_grouped,4,2982755346,ref:mistry yang biomacromolj 2018,5,30.0
+filament_diameter,publication_grouped,4,2982755346,ref:yu ozbolat jbiomecheng 2013,4,18.0
+filament_diameter,publication_grouped,4,2982755346,ref:kilian ahlfeld akkineni bioprint 2020,2,12.0
+filament_diameter,publication_grouped,4,2982755346,ref:tigner alge biomacromol 2020,1,12.0
+filament_diameter,publication_grouped,4,2982755346,ref:kang jin small 2020,3,12.0
+filament_diameter,publication_grouped,4,2982755346,ref:ouyang 2016,2,11.0
+filament_diameter,publication_grouped,4,2982755346,ref:ouyang burdick advmat 2017,1,10.0
+filament_diameter,publication_grouped,4,2982755346,ref:colosi khademhosseini advmat 2016,3,9.0
+filament_diameter,publication_grouped,4,2982755346,ref:soltan chen acsbiomat 2019,4,9.0
+filament_diameter,publication_grouped,4,2982755346,ref:jia khademhosseini biomat 2016,3,9.0
+filament_diameter,publication_grouped,4,2982755346,ref:yin suo appmatint 2018,1,9.0
+filament_diameter,publication_grouped,4,2982755346,ref:li fu scirep 2018,2,8.0
+filament_diameter,publication_grouped,4,2982755346,ref:shin burdick actabiomat 2019,4,8.0
+filament_diameter,publication_grouped,4,2982755346,ref:ojansivu mustafa biofab 2019,5,6.0
+filament_diameter,publication_grouped,4,2982755346,ref:kosik koziol swieszkowski biofab 2019,3,6.0
+filament_diameter,publication_grouped,4,2982755346,ref:kolan leu bioprintamer 2019,2,6.0
+filament_diameter,publication_grouped,4,2982755346,ref:ning chen biofab 2018,1,6.0
+filament_diameter,publication_grouped,4,2982755346,ref:yang zhao matsciengc 2018,4,6.0
+filament_diameter,publication_grouped,4,2982755346,ref:fedorovich dhe22 tissueeng 2008,5,5.0
+filament_diameter,publication_grouped,4,2982755346,ref:li zhou addman 2021,3,4.0
+filament_diameter,publication_grouped,4,2982755346,ref:soliman lim advhealthmat 2020,2,4.0
+filament_diameter,publication_grouped,4,2982755346,ref:daly kelly biofab 2016,1,4.0
+filament_diameter,publication_grouped,4,2982755346,ref:mondal singh scirep 2019,3,4.0
+filament_diameter,publication_grouped,4,2982755346,ref:kolesky lewis advmat 2014,5,4.0
+filament_diameter,publication_grouped,4,2982755346,ref:shim cho jmicromechmicroeng 2012,4,4.0
+filament_diameter,publication_grouped,4,2982755346,ref:lim levato advhealthmat 2020,2,4.0
+filament_diameter,publication_grouped,4,2982755346,ref:fisch zenobi wong biofab 2021,1,4.0
+filament_diameter,publication_grouped,4,2982755346,ref:gao cho advfuncmat 2017,3,4.0
+filament_diameter,publication_grouped,4,2982755346,ref:zhao 2014,5,4.0
+filament_diameter,publication_grouped,4,2982755346,ref:liu zhang advhealthmat 2017,4,3.0
+filament_diameter,publication_grouped,4,2982755346,ref:das ghosh actabiomat 2015,2,3.0
+filament_diameter,publication_grouped,4,2982755346,ref:giuseppe 2018,1,3.0
+filament_diameter,publication_grouped,4,2982755346,ref:ouyang 2015,4,3.0
+filament_diameter,publication_grouped,4,2982755346,ref:chen zhang appmatint 2019,2,3.0
+filament_diameter,publication_grouped,4,2982755346,ref:zhang ozbolat biomatsci 2015,1,3.0
+filament_diameter,publication_grouped,4,2982755346,ref:li xu 3biotech 2018,3,3.0
+filament_diameter,publication_grouped,4,2982755346,ref:chung wallace biomatsci 2013,5,3.0
+filament_diameter,publication_grouped,4,2982755346,ref:be22assoni khademhosseini biofab 2014,4,3.0
+filament_diameter,publication_grouped,4,2982755346,ref:bociaga rosinska mat 2020,2,3.0
+filament_diameter,publication_grouped,4,2982755346,ref:idaszek swieszkowski biofab 2019,1,3.0
+filament_diameter,publication_grouped,4,2982755346,ref:akkineni gelinsky biofab 2016,3,2.0
+filament_diameter,publication_grouped,4,2982755346,ref:li li acsapplmatinterf 2017,5,2.0
+filament_diameter,publication_grouped,4,2982755346,ref:markstedt mantas biomacromol 2015,3,2.0
+filament_diameter,publication_grouped,4,2982755346,ref:sanz garcia escobedo lucea polymers 2020,5,2.0
+filament_diameter,publication_grouped,4,2982755346,ref:duan butcher jbiomedmatres 2012,4,2.0
+filament_diameter,publication_grouped,4,2982755346,ref:gantumar sakai,2,2.0
+filament_diameter,publication_grouped,4,2982755346,ref:duin 2019,1,2.0
+filament_diameter,publication_grouped,4,2982755346,ref:othman 2020,3,1.0
+filament_diameter,publication_grouped,4,2982755346,ref:moncal ozbolat jmatscimatmed 2019,5,1.0
+filament_diameter,publication_grouped,4,2982755346,ref:cidonio oreffo biofab 2019,4,1.0
+filament_diameter,publication_grouped,4,2982755346,ref:gao ma biomat 2015,2,1.0
+filament_diameter,publication_grouped,4,2982755346,ref:dai 2016,1,1.0
+filament_diameter,publication_grouped,4,2982755346,ref:yao 2019,3,1.0
+filament_diameter,publication_grouped,4,2982755346,ref:sakai nagasuna mattodbio 2020,5,1.0
+filament_diameter,publication_grouped,5,1026411584,ref:mistry yang biomacromolj 2018,2,30.0
+filament_diameter,publication_grouped,5,1026411584,ref:yu ozbolat jbiomecheng 2013,3,18.0
+filament_diameter,publication_grouped,5,1026411584,ref:tigner alge biomacromol 2020,4,12.0
+filament_diameter,publication_grouped,5,1026411584,ref:kang jin small 2020,5,12.0
+filament_diameter,publication_grouped,5,1026411584,ref:kilian ahlfeld akkineni bioprint 2020,1,12.0
+filament_diameter,publication_grouped,5,1026411584,ref:ouyang 2016,4,11.0
+filament_diameter,publication_grouped,5,1026411584,ref:ouyang burdick advmat 2017,5,10.0
+filament_diameter,publication_grouped,5,1026411584,ref:yin suo appmatint 2018,1,9.0
+filament_diameter,publication_grouped,5,1026411584,ref:soltan chen acsbiomat 2019,3,9.0
+filament_diameter,publication_grouped,5,1026411584,ref:colosi khademhosseini advmat 2016,1,9.0
+filament_diameter,publication_grouped,5,1026411584,ref:jia khademhosseini biomat 2016,5,9.0
+filament_diameter,publication_grouped,5,1026411584,ref:li fu scirep 2018,4,8.0
+filament_diameter,publication_grouped,5,1026411584,ref:shin burdick actabiomat 2019,3,8.0
+filament_diameter,publication_grouped,5,1026411584,ref:ojansivu mustafa biofab 2019,2,6.0
+filament_diameter,publication_grouped,5,1026411584,ref:kosik koziol swieszkowski biofab 2019,1,6.0
+filament_diameter,publication_grouped,5,1026411584,ref:kolan leu bioprintamer 2019,4,6.0
+filament_diameter,publication_grouped,5,1026411584,ref:yang zhao matsciengc 2018,5,6.0
+filament_diameter,publication_grouped,5,1026411584,ref:ning chen biofab 2018,3,6.0
+filament_diameter,publication_grouped,5,1026411584,ref:fedorovich dhe22 tissueeng 2008,2,5.0
+filament_diameter,publication_grouped,5,1026411584,ref:daly kelly biofab 2016,1,4.0
+filament_diameter,publication_grouped,5,1026411584,ref:kolesky lewis advmat 2014,4,4.0
+filament_diameter,publication_grouped,5,1026411584,ref:soliman lim advhealthmat 2020,5,4.0
+filament_diameter,publication_grouped,5,1026411584,ref:gao cho advfuncmat 2017,1,4.0
+filament_diameter,publication_grouped,5,1026411584,ref:li zhou addman 2021,2,4.0
+filament_diameter,publication_grouped,5,1026411584,ref:fisch zenobi wong biofab 2021,3,4.0
+filament_diameter,publication_grouped,5,1026411584,ref:lim levato advhealthmat 2020,4,4.0
+filament_diameter,publication_grouped,5,1026411584,ref:mondal singh scirep 2019,5,4.0
+filament_diameter,publication_grouped,5,1026411584,ref:zhao 2014,1,4.0
+filament_diameter,publication_grouped,5,1026411584,ref:shim cho jmicromechmicroeng 2012,2,4.0
+filament_diameter,publication_grouped,5,1026411584,ref:bociaga rosinska mat 2020,3,3.0
+filament_diameter,publication_grouped,5,1026411584,ref:ouyang 2015,4,3.0
+filament_diameter,publication_grouped,5,1026411584,ref:chung wallace biomatsci 2013,5,3.0
+filament_diameter,publication_grouped,5,1026411584,ref:be22assoni khademhosseini biofab 2014,3,3.0
+filament_diameter,publication_grouped,5,1026411584,ref:das ghosh actabiomat 2015,4,3.0
+filament_diameter,publication_grouped,5,1026411584,ref:giuseppe 2018,5,3.0
+filament_diameter,publication_grouped,5,1026411584,ref:li xu 3biotech 2018,1,3.0
+filament_diameter,publication_grouped,5,1026411584,ref:liu zhang advhealthmat 2017,2,3.0
+filament_diameter,publication_grouped,5,1026411584,ref:chen zhang appmatint 2019,3,3.0
+filament_diameter,publication_grouped,5,1026411584,ref:zhang ozbolat biomatsci 2015,4,3.0
+filament_diameter,publication_grouped,5,1026411584,ref:idaszek swieszkowski biofab 2019,5,3.0
+filament_diameter,publication_grouped,5,1026411584,ref:duan butcher jbiomedmatres 2012,1,2.0
+filament_diameter,publication_grouped,5,1026411584,ref:markstedt mantas biomacromol 2015,2,2.0
+filament_diameter,publication_grouped,5,1026411584,ref:sanz garcia escobedo lucea polymers 2020,1,2.0
+filament_diameter,publication_grouped,5,1026411584,ref:li li acsapplmatinterf 2017,2,2.0
+filament_diameter,publication_grouped,5,1026411584,ref:gantumar sakai,3,2.0
+filament_diameter,publication_grouped,5,1026411584,ref:akkineni gelinsky biofab 2016,4,2.0
+filament_diameter,publication_grouped,5,1026411584,ref:duin 2019,5,2.0
+filament_diameter,publication_grouped,5,1026411584,ref:sakai nagasuna mattodbio 2020,1,1.0
+filament_diameter,publication_grouped,5,1026411584,ref:gao ma biomat 2015,2,1.0
+filament_diameter,publication_grouped,5,1026411584,ref:dai 2016,3,1.0
+filament_diameter,publication_grouped,5,1026411584,ref:moncal ozbolat jmatscimatmed 2019,4,1.0
+filament_diameter,publication_grouped,5,1026411584,ref:cidonio oreffo biofab 2019,5,1.0
+filament_diameter,publication_grouped,5,1026411584,ref:othman 2020,1,1.0
+filament_diameter,publication_grouped,5,1026411584,ref:yao 2019,2,1.0
+filament_diameter,leave_one_publication_out,1,4032105161,ref:akkineni gelinsky biofab 2016,1,
+filament_diameter,leave_one_publication_out,1,4032105161,ref:be22assoni khademhosseini biofab 2014,2,
+filament_diameter,leave_one_publication_out,1,4032105161,ref:bociaga rosinska mat 2020,3,
+filament_diameter,leave_one_publication_out,1,4032105161,ref:chen zhang appmatint 2019,4,
+filament_diameter,leave_one_publication_out,1,4032105161,ref:chung wallace biomatsci 2013,5,
+filament_diameter,leave_one_publication_out,1,4032105161,ref:cidonio oreffo biofab 2019,6,
+filament_diameter,leave_one_publication_out,1,4032105161,ref:colosi khademhosseini advmat 2016,7,
+filament_diameter,leave_one_publication_out,1,4032105161,ref:dai 2016,8,
+filament_diameter,leave_one_publication_out,1,4032105161,ref:daly kelly biofab 2016,9,
+filament_diameter,leave_one_publication_out,1,4032105161,ref:das ghosh actabiomat 2015,10,
+filament_diameter,leave_one_publication_out,1,4032105161,ref:duan butcher jbiomedmatres 2012,11,
+filament_diameter,leave_one_publication_out,1,4032105161,ref:duin 2019,12,
+filament_diameter,leave_one_publication_out,1,4032105161,ref:fedorovich dhe22 tissueeng 2008,13,
+filament_diameter,leave_one_publication_out,1,4032105161,ref:fisch zenobi wong biofab 2021,14,
+filament_diameter,leave_one_publication_out,1,4032105161,ref:gantumar sakai,15,
+filament_diameter,leave_one_publication_out,1,4032105161,ref:gao cho advfuncmat 2017,16,
+filament_diameter,leave_one_publication_out,1,4032105161,ref:gao ma biomat 2015,17,
+filament_diameter,leave_one_publication_out,1,4032105161,ref:giuseppe 2018,18,
+filament_diameter,leave_one_publication_out,1,4032105161,ref:idaszek swieszkowski biofab 2019,19,
+filament_diameter,leave_one_publication_out,1,4032105161,ref:jia khademhosseini biomat 2016,20,
+filament_diameter,leave_one_publication_out,1,4032105161,ref:kang jin small 2020,21,
+filament_diameter,leave_one_publication_out,1,4032105161,ref:kilian ahlfeld akkineni bioprint 2020,22,
+filament_diameter,leave_one_publication_out,1,4032105161,ref:kolan leu bioprintamer 2019,23,
+filament_diameter,leave_one_publication_out,1,4032105161,ref:kolesky lewis advmat 2014,24,
+filament_diameter,leave_one_publication_out,1,4032105161,ref:kosik koziol swieszkowski biofab 2019,25,
+filament_diameter,leave_one_publication_out,1,4032105161,ref:li fu scirep 2018,26,
+filament_diameter,leave_one_publication_out,1,4032105161,ref:li li acsapplmatinterf 2017,27,
+filament_diameter,leave_one_publication_out,1,4032105161,ref:li xu 3biotech 2018,28,
+filament_diameter,leave_one_publication_out,1,4032105161,ref:li zhou addman 2021,29,
+filament_diameter,leave_one_publication_out,1,4032105161,ref:lim levato advhealthmat 2020,30,
+filament_diameter,leave_one_publication_out,1,4032105161,ref:liu zhang advhealthmat 2017,31,
+filament_diameter,leave_one_publication_out,1,4032105161,ref:markstedt mantas biomacromol 2015,32,
+filament_diameter,leave_one_publication_out,1,4032105161,ref:mistry yang biomacromolj 2018,33,
+filament_diameter,leave_one_publication_out,1,4032105161,ref:moncal ozbolat jmatscimatmed 2019,34,
+filament_diameter,leave_one_publication_out,1,4032105161,ref:mondal singh scirep 2019,35,
+filament_diameter,leave_one_publication_out,1,4032105161,ref:ning chen biofab 2018,36,
+filament_diameter,leave_one_publication_out,1,4032105161,ref:ojansivu mustafa biofab 2019,37,
+filament_diameter,leave_one_publication_out,1,4032105161,ref:othman 2020,38,
+filament_diameter,leave_one_publication_out,1,4032105161,ref:ouyang 2015,39,
+filament_diameter,leave_one_publication_out,1,4032105161,ref:ouyang 2016,40,
+filament_diameter,leave_one_publication_out,1,4032105161,ref:ouyang burdick advmat 2017,41,
+filament_diameter,leave_one_publication_out,1,4032105161,ref:sakai nagasuna mattodbio 2020,42,
+filament_diameter,leave_one_publication_out,1,4032105161,ref:sanz garcia escobedo lucea polymers 2020,43,
+filament_diameter,leave_one_publication_out,1,4032105161,ref:shim cho jmicromechmicroeng 2012,44,
+filament_diameter,leave_one_publication_out,1,4032105161,ref:shin burdick actabiomat 2019,45,
+filament_diameter,leave_one_publication_out,1,4032105161,ref:soliman lim advhealthmat 2020,46,
+filament_diameter,leave_one_publication_out,1,4032105161,ref:soltan chen acsbiomat 2019,47,
+filament_diameter,leave_one_publication_out,1,4032105161,ref:tigner alge biomacromol 2020,48,
+filament_diameter,leave_one_publication_out,1,4032105161,ref:yang zhao matsciengc 2018,49,
+filament_diameter,leave_one_publication_out,1,4032105161,ref:yao 2019,50,
+filament_diameter,leave_one_publication_out,1,4032105161,ref:yin suo appmatint 2018,51,
+filament_diameter,leave_one_publication_out,1,4032105161,ref:yu ozbolat jbiomecheng 2013,52,
+filament_diameter,leave_one_publication_out,1,4032105161,ref:zhang ozbolat biomatsci 2015,53,
+filament_diameter,leave_one_publication_out,1,4032105161,ref:zhao 2014,54,

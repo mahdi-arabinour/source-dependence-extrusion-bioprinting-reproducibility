@@ -1,0 +1,15 @@
+scenario_key,scenario_label,source_column,row_filter,feature_mode,required,eligible,eligibility_reason,filter_note,row_count,source_count,feature_count,numeric_feature_count,categorical_feature_count,source_size_minimum,source_size_median,source_size_maximum
+primary_all_prospective,Primary DOI grouping; all rows; prospective features,meta_primary_source_id,all,prospective_design,True,True,Eligible,,608,75,44,34,10,1,6.0,42
+reference_grouping,Reference grouping instead of DOI,meta_sensitivity_source_id,all,prospective_design,True,True,Eligible,,608,76,44,34,10,1,6.0,42
+minimum_source_size_3,Exclude DOI sources with fewer than 3 rows,meta_primary_source_id,minimum_source_size_3,prospective_design,True,True,Eligible,Retained sources with at least 3 rows.,593,66,44,34,10,3,6.0,42
+minimum_source_size_5,Exclude DOI sources with fewer than 5 rows,meta_primary_source_id,minimum_source_size_5,prospective_design,True,True,Eligible,Retained sources with at least 5 rows.,499,40,44,34,10,5,10.0,42
+day_0_only,Day 0 observations only,meta_primary_source_id,day_0_only,prospective_design,True,True,Eligible,Retained rows with days_observed equal to 0.,150,34,44,34,10,1,4.0,15
+day_0_to_1,Days 0 to 1 observations,meta_primary_source_id,day_0_to_1,prospective_design,True,True,Eligible,Retained rows with 0 <= days_observed <= 1.,336,69,44,34,10,1,3.0,25
+primary_cells_only,Primary-cell observations only,meta_primary_source_id,primary_cells_only,prospective_design,False,True,Eligible,Used primary_or_not_primary; retained class primary.,347,45,44,34,10,1,4.0,30
+non_primary_cells_only,Non-primary-cell observations only,meta_primary_source_id,non_primary_cells_only,prospective_design,False,True,Eligible,Used primary_or_not_primary; retained class non_primary.,261,33,44,34,10,1,6.0,32
+observed_pressure_only,Rows with observed extrusion pressure only,meta_primary_source_id,observed_pressure_only,prospective_design,True,True,Eligible,Retained rows with observed finite extrusion pressure.,351,40,44,34,10,1,6.0,30
+full_retrospective_features,Full-retrospective feature timing,meta_primary_source_id,all,full_retrospective,True,True,Eligible,,608,75,46,36,10,1,6.0,42
+core_physics_features,Core-physics feature set,meta_primary_source_id,all,core_physics,True,True,Eligible,,608,75,15,13,2,1,6.0,42
+missingness_le_50,Prospective features with <=50% missingness,meta_primary_source_id,all,missingness_le_50,True,True,Eligible,,608,75,41,31,10,1,6.0,42
+missingness_le_30,Prospective features with <=30% missingness,meta_primary_source_id,all,missingness_le_30,True,True,Eligible,,608,75,39,29,10,1,6.0,42
+missingness_le_20,Prospective features with <=20% missingness,meta_primary_source_id,all,missingness_le_20,True,True,Eligible,,608,75,38,28,10,1,6.0,42

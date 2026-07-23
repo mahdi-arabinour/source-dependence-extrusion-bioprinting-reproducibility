@@ -1,0 +1,230 @@
+dataset,dataset_code,validation_design,repeat,outer_fold,split_id,split_seed,train_rows,test_rows,train_sources,test_sources,overlapping_source_count,test_rows_with_source_seen_in_training,test_source_seen_fraction,heldout_source_id
+cell_viability,CV,random_rowwise,1,1,CV_random_rowwise_r01_f001,1655089579,486,122,75,50,50,122,1.0,
+cell_viability,CV,random_rowwise,1,2,CV_random_rowwise_r01_f002,1655089579,486,122,74,52,51,120,0.9836065573770492,
+cell_viability,CV,random_rowwise,1,3,CV_random_rowwise_r01_f003,1655089579,486,122,75,50,50,122,1.0,
+cell_viability,CV,random_rowwise,1,4,CV_random_rowwise_r01_f004,1655089579,487,121,72,55,52,118,0.9752066115702479,
+cell_viability,CV,random_rowwise,1,5,CV_random_rowwise_r01_f005,1655089579,487,121,74,57,56,119,0.9834710743801653,
+cell_viability,CV,random_rowwise,2,1,CV_random_rowwise_r02_f001,3083407317,486,122,75,53,53,122,1.0,
+cell_viability,CV,random_rowwise,2,2,CV_random_rowwise_r02_f002,3083407317,486,122,74,52,51,121,0.9918032786885246,
+cell_viability,CV,random_rowwise,2,3,CV_random_rowwise_r02_f003,3083407317,486,122,74,52,51,121,0.9918032786885246,
+cell_viability,CV,random_rowwise,2,4,CV_random_rowwise_r02_f004,3083407317,487,121,73,58,56,118,0.9752066115702479,
+cell_viability,CV,random_rowwise,2,5,CV_random_rowwise_r02_f005,3083407317,487,121,75,49,49,121,1.0,
+cell_viability,CV,random_rowwise,3,1,CV_random_rowwise_r03_f001,1842725208,486,122,74,50,49,120,0.9836065573770492,
+cell_viability,CV,random_rowwise,3,2,CV_random_rowwise_r03_f002,1842725208,486,122,74,57,56,121,0.9918032786885246,
+cell_viability,CV,random_rowwise,3,3,CV_random_rowwise_r03_f003,1842725208,486,122,74,51,50,121,0.9918032786885246,
+cell_viability,CV,random_rowwise,3,4,CV_random_rowwise_r03_f004,1842725208,487,121,74,49,48,118,0.9752066115702479,
+cell_viability,CV,random_rowwise,3,5,CV_random_rowwise_r03_f005,1842725208,487,121,70,55,50,112,0.9256198347107438,
+cell_viability,CV,random_rowwise,4,1,CV_random_rowwise_r04_f001,4233346616,486,122,74,56,55,120,0.9836065573770492,
+cell_viability,CV,random_rowwise,4,2,CV_random_rowwise_r04_f002,4233346616,486,122,74,48,47,121,0.9918032786885246,
+cell_viability,CV,random_rowwise,4,3,CV_random_rowwise_r04_f003,4233346616,486,122,74,48,47,121,0.9918032786885246,
+cell_viability,CV,random_rowwise,4,4,CV_random_rowwise_r04_f004,4233346616,487,121,74,56,55,119,0.9834710743801653,
+cell_viability,CV,random_rowwise,4,5,CV_random_rowwise_r04_f005,4233346616,487,121,74,50,49,120,0.9917355371900827,
+cell_viability,CV,random_rowwise,5,1,CV_random_rowwise_r05_f001,1359334306,486,122,74,55,54,121,0.9918032786885246,
+cell_viability,CV,random_rowwise,5,2,CV_random_rowwise_r05_f002,1359334306,486,122,73,50,48,120,0.9836065573770492,
+cell_viability,CV,random_rowwise,5,3,CV_random_rowwise_r05_f003,1359334306,486,122,75,54,54,122,1.0,
+cell_viability,CV,random_rowwise,5,4,CV_random_rowwise_r05_f004,1359334306,487,121,75,50,50,121,1.0,
+cell_viability,CV,random_rowwise,5,5,CV_random_rowwise_r05_f005,1359334306,487,121,74,55,54,117,0.9669421487603306,
+cell_viability,CV,publication_grouped,1,1,CV_publication_grouped_r01_f001,1050824782,487,121,60,15,0,0,0.0,
+cell_viability,CV,publication_grouped,1,2,CV_publication_grouped_r01_f002,1050824782,486,122,60,15,0,0,0.0,
+cell_viability,CV,publication_grouped,1,3,CV_publication_grouped_r01_f003,1050824782,487,121,60,15,0,0,0.0,
+cell_viability,CV,publication_grouped,1,4,CV_publication_grouped_r01_f004,1050824782,486,122,59,16,0,0,0.0,
+cell_viability,CV,publication_grouped,1,5,CV_publication_grouped_r01_f005,1050824782,486,122,61,14,0,0,0.0,
+cell_viability,CV,publication_grouped,2,1,CV_publication_grouped_r02_f001,869111205,486,122,59,16,0,0,0.0,
+cell_viability,CV,publication_grouped,2,2,CV_publication_grouped_r02_f002,869111205,487,121,60,15,0,0,0.0,
+cell_viability,CV,publication_grouped,2,3,CV_publication_grouped_r02_f003,869111205,486,122,61,14,0,0,0.0,
+cell_viability,CV,publication_grouped,2,4,CV_publication_grouped_r02_f004,869111205,486,122,60,15,0,0,0.0,
+cell_viability,CV,publication_grouped,2,5,CV_publication_grouped_r02_f005,869111205,487,121,60,15,0,0,0.0,
+cell_viability,CV,publication_grouped,3,1,CV_publication_grouped_r03_f001,3547288985,486,122,59,16,0,0,0.0,
+cell_viability,CV,publication_grouped,3,2,CV_publication_grouped_r03_f002,3547288985,486,122,60,15,0,0,0.0,
+cell_viability,CV,publication_grouped,3,3,CV_publication_grouped_r03_f003,3547288985,487,121,60,15,0,0,0.0,
+cell_viability,CV,publication_grouped,3,4,CV_publication_grouped_r03_f004,3547288985,487,121,60,15,0,0,0.0,
+cell_viability,CV,publication_grouped,3,5,CV_publication_grouped_r03_f005,3547288985,486,122,61,14,0,0,0.0,
+cell_viability,CV,publication_grouped,4,1,CV_publication_grouped_r04_f001,2828049170,487,121,60,15,0,0,0.0,
+cell_viability,CV,publication_grouped,4,2,CV_publication_grouped_r04_f002,2828049170,487,121,60,15,0,0,0.0,
+cell_viability,CV,publication_grouped,4,3,CV_publication_grouped_r04_f003,2828049170,486,122,60,15,0,0,0.0,
+cell_viability,CV,publication_grouped,4,4,CV_publication_grouped_r04_f004,2828049170,486,122,61,14,0,0,0.0,
+cell_viability,CV,publication_grouped,4,5,CV_publication_grouped_r04_f005,2828049170,486,122,59,16,0,0,0.0,
+cell_viability,CV,publication_grouped,5,1,CV_publication_grouped_r05_f001,2063338900,486,122,61,14,0,0,0.0,
+cell_viability,CV,publication_grouped,5,2,CV_publication_grouped_r05_f002,2063338900,487,121,60,15,0,0,0.0,
+cell_viability,CV,publication_grouped,5,3,CV_publication_grouped_r05_f003,2063338900,486,122,59,16,0,0,0.0,
+cell_viability,CV,publication_grouped,5,4,CV_publication_grouped_r05_f004,2063338900,487,121,60,15,0,0,0.0,
+cell_viability,CV,publication_grouped,5,5,CV_publication_grouped_r05_f005,2063338900,486,122,60,15,0,0,0.0,
+cell_viability,CV,leave_one_publication_out,1,1,CV_leave_one_publication_out_r01_f001,3691203163,604,4,74,1,0,0,0.0,doi:10.1002/adfm.201700798
+cell_viability,CV,leave_one_publication_out,1,2,CV_leave_one_publication_out_r01_f002,3691203163,601,7,74,1,0,0,0.0,doi:10.1002/adhm.201500677
+cell_viability,CV,leave_one_publication_out,1,3,CV_leave_one_publication_out_r01_f003,3691203163,599,9,74,1,0,0,0.0,doi:10.1002/adhm.201601451
+cell_viability,CV,leave_one_publication_out,1,4,CV_leave_one_publication_out_r01_f004,3691203163,605,3,74,1,0,0,0.0,doi:10.1002/adhm.201801631
+cell_viability,CV,leave_one_publication_out,1,5,CV_leave_one_publication_out_r01_f005,3691203163,604,4,74,1,0,0,0.0,doi:10.1002/adhm.201901544
+cell_viability,CV,leave_one_publication_out,1,6,CV_leave_one_publication_out_r01_f006,3691203163,604,4,74,1,0,0,0.0,doi:10.1002/adhm.201901792
+cell_viability,CV,leave_one_publication_out,1,7,CV_leave_one_publication_out_r01_f007,3691203163,598,10,74,1,0,0,0.0,doi:10.1002/adma.201305506
+cell_viability,CV,leave_one_publication_out,1,8,CV_leave_one_publication_out_r01_f008,3691203163,599,9,74,1,0,0,0.0,doi:10.1002/adma.201503310
+cell_viability,CV,leave_one_publication_out,1,9,CV_leave_one_publication_out_r01_f009,3691203163,593,15,74,1,0,0,0.0,doi:10.1002/adma.201604983
+cell_viability,CV,leave_one_publication_out,1,10,CV_leave_one_publication_out_r01_f010,3691203163,595,13,74,1,0,0,0.0,doi:10.1002/adma.201703443
+cell_viability,CV,leave_one_publication_out,1,11,CV_leave_one_publication_out_r01_f011,3691203163,596,12,74,1,0,0,0.0,doi:10.1002/biot.200900004
+cell_viability,CV,leave_one_publication_out,1,12,CV_leave_one_publication_out_r01_f012,3691203163,606,2,74,1,0,0,0.0,doi:10.1002/jbm.a.34420
+cell_viability,CV,leave_one_publication_out,1,13,CV_leave_one_publication_out_r01_f013,3691203163,604,4,74,1,0,0,0.0,doi:10.1002/jbm.a.36036
+cell_viability,CV,leave_one_publication_out,1,14,CV_leave_one_publication_out_r01_f014,3691203163,566,42,74,1,0,0,0.0,doi:10.1002/mabi.201600472
+cell_viability,CV,leave_one_publication_out,1,15,CV_leave_one_publication_out_r01_f015,3691203163,590,18,74,1,0,0,0.0,doi:10.1002/smll.201905505
+cell_viability,CV,leave_one_publication_out,1,16,CV_leave_one_publication_out_r01_f016,3691203163,604,4,74,1,0,0,0.0,doi:10.1002/term.1682
+cell_viability,CV,leave_one_publication_out,1,17,CV_leave_one_publication_out_r01_f017,3691203163,607,1,74,1,0,0,0.0,doi:10.1007/s00289-020-03421-y
+cell_viability,CV,leave_one_publication_out,1,18,CV_leave_one_publication_out_r01_f018,3691203163,578,30,74,1,0,0,0.0,doi:10.1007/s10439-016-1704-5
+cell_viability,CV,leave_one_publication_out,1,19,CV_leave_one_publication_out_r01_f019,3691203163,605,3,74,1,0,0,0.0,doi:10.1007/s10856-019-6258-2
+cell_viability,CV,leave_one_publication_out,1,20,CV_leave_one_publication_out_r01_f020,3691203163,605,3,74,1,0,0,0.0,doi:10.1007/s13205-018-1341-9
+cell_viability,CV,leave_one_publication_out,1,21,CV_leave_one_publication_out_r01_f021,3691203163,599,9,74,1,0,0,0.0,doi:10.1016/j.actbio.2014.06.034
+cell_viability,CV,leave_one_publication_out,1,22,CV_leave_one_publication_out_r01_f022,3691203163,604,4,74,1,0,0,0.0,doi:10.1016/j.actbio.2014.09.023
+cell_viability,CV,leave_one_publication_out,1,23,CV_leave_one_publication_out_r01_f023,3691203163,604,4,74,1,0,0,0.0,doi:10.1016/j.actbio.2014.09.033
+cell_viability,CV,leave_one_publication_out,1,24,CV_leave_one_publication_out_r01_f024,3691203163,600,8,74,1,0,0,0.0,doi:10.1016/j.actbio.2018.10.028
+cell_viability,CV,leave_one_publication_out,1,25,CV_leave_one_publication_out_r01_f025,3691203163,602,6,74,1,0,0,0.0,doi:10.1016/j.actbio.2020.07.016
+cell_viability,CV,leave_one_publication_out,1,26,CV_leave_one_publication_out_r01_f026,3691203163,604,4,74,1,0,0,0.0,doi:10.1016/j.addma.2020.101640
+cell_viability,CV,leave_one_publication_out,1,27,CV_leave_one_publication_out_r01_f027,3691203163,602,6,74,1,0,0,0.0,doi:10.1016/j.biomaterials.2015.05.031
+cell_viability,CV,leave_one_publication_out,1,28,CV_leave_one_publication_out_r01_f028,3691203163,599,9,74,1,0,0,0.0,doi:10.1016/j.biomaterials.2016.07.038
+cell_viability,CV,leave_one_publication_out,1,29,CV_leave_one_publication_out_r01_f029,3691203163,605,3,74,1,0,0,0.0,doi:10.1016/j.jmbbm.2017.12.018
+cell_viability,CV,leave_one_publication_out,1,30,CV_leave_one_publication_out_r01_f030,3691203163,603,5,74,1,0,0,0.0,doi:10.1016/j.mtbio.2020.100078
+cell_viability,CV,leave_one_publication_out,1,31,CV_leave_one_publication_out_r01_f031,3691203163,606,2,74,1,0,0,0.0,doi:10.1021/acs.biomac.5b00188
+cell_viability,CV,leave_one_publication_out,1,32,CV_leave_one_publication_out_r01_f032,3691203163,596,12,74,1,0,0,0.0,doi:10.1021/acs.biomac.9b01204
+cell_viability,CV,leave_one_publication_out,1,33,CV_leave_one_publication_out_r01_f033,3691203163,605,3,74,1,0,0,0.0,doi:10.1021/acsami.7b04216
+cell_viability,CV,leave_one_publication_out,1,34,CV_leave_one_publication_out_r01_f034,3691203163,596,12,74,1,0,0,0.0,doi:10.1021/acsami.7b16059
+cell_viability,CV,leave_one_publication_out,1,35,CV_leave_one_publication_out_r01_f035,3691203163,602,6,74,1,0,0,0.0,doi:10.1021/acsami.9b09782
+cell_viability,CV,leave_one_publication_out,1,36,CV_leave_one_publication_out_r01_f036,3691203163,596,12,74,1,0,0,0.0,doi:10.1021/acsbiomaterials.9b00167
+cell_viability,CV,leave_one_publication_out,1,37,CV_leave_one_publication_out_r01_f037,3691203163,606,2,74,1,0,0,0.0,doi:10.1038/s41598-017-17286-1
+cell_viability,CV,leave_one_publication_out,1,38,CV_leave_one_publication_out_r01_f038,3691203163,588,20,74,1,0,0,0.0,doi:10.1038/s41598-018-26407-3
+cell_viability,CV,leave_one_publication_out,1,39,CV_leave_one_publication_out_r01_f039,3691203163,593,15,74,1,0,0,0.0,doi:10.1038/s41598-019-55034-9
+cell_viability,CV,leave_one_publication_out,1,40,CV_leave_one_publication_out_r01_f040,3691203163,590,18,74,1,0,0,0.0,doi:10.1038/s41598-020-65050-9
+cell_viability,CV,leave_one_publication_out,1,41,CV_leave_one_publication_out_r01_f041,3691203163,605,3,74,1,0,0,0.0,doi:10.1038/srep29977
+cell_viability,CV,leave_one_publication_out,1,42,CV_leave_one_publication_out_r01_f042,3691203163,602,6,74,1,0,0,0.0,doi:10.1039/c3bm00012e
+cell_viability,CV,leave_one_publication_out,1,43,CV_leave_one_publication_out_r01_f043,3691203163,605,3,74,1,0,0,0.0,doi:10.1039/c4bm00234b
+cell_viability,CV,leave_one_publication_out,1,44,CV_leave_one_publication_out_r01_f044,3691203163,604,4,74,1,0,0,0.0,doi:10.1088/0960-1317/22/8/085014
+cell_viability,CV,leave_one_publication_out,1,45,CV_leave_one_publication_out_r01_f045,3691203163,605,3,74,1,0,0,0.0,doi:10.1088/1758-5082/5/2/025004
+cell_viability,CV,leave_one_publication_out,1,46,CV_leave_one_publication_out_r01_f046,3691203163,599,9,74,1,0,0,0.0,doi:10.1088/1758-5082/6/2/024105
+cell_viability,CV,leave_one_publication_out,1,47,CV_leave_one_publication_out_r01_f047,3691203163,604,4,74,1,0,0,0.0,doi:10.1088/1758-5082/6/3/035001
+cell_viability,CV,leave_one_publication_out,1,48,CV_leave_one_publication_out_r01_f048,3691203163,605,3,74,1,0,0,0.0,doi:10.1088/1758-5090/7/4/044101
+cell_viability,CV,leave_one_publication_out,1,49,CV_leave_one_publication_out_r01_f049,3691203163,598,10,74,1,0,0,0.0,doi:10.1088/1758-5090/7/4/044102
+cell_viability,CV,leave_one_publication_out,1,50,CV_leave_one_publication_out_r01_f050,3691203163,597,11,74,1,0,0,0.0,doi:10.1088/1758-5090/7/4/045012
+cell_viability,CV,leave_one_publication_out,1,51,CV_leave_one_publication_out_r01_f051,3691203163,594,14,74,1,0,0,0.0,doi:10.1088/1758-5090/8/3/035020
+cell_viability,CV,leave_one_publication_out,1,52,CV_leave_one_publication_out_r01_f052,3691203163,604,4,74,1,0,0,0.0,doi:10.1088/1758-5090/8/4/045001
+cell_viability,CV,leave_one_publication_out,1,53,CV_leave_one_publication_out_r01_f053,3691203163,604,4,74,1,0,0,0.0,doi:10.1088/1758-5090/8/4/045002
+cell_viability,CV,leave_one_publication_out,1,54,CV_leave_one_publication_out_r01_f054,3691203163,607,1,74,1,0,0,0.0,doi:10.1088/1758-5090/8/4/045005
+cell_viability,CV,leave_one_publication_out,1,55,CV_leave_one_publication_out_r01_f055,3691203163,600,8,74,1,0,0,0.0,doi:10.1088/1758-5090/aa7b1d
+cell_viability,CV,leave_one_publication_out,1,56,CV_leave_one_publication_out_r01_f056,3691203163,602,6,74,1,0,0,0.0,doi:10.1088/1758-5090/aacd30
+cell_viability,CV,leave_one_publication_out,1,57,CV_leave_one_publication_out_r01_f057,3691203163,604,4,74,1,0,0,0.0,doi:10.1088/1758-5090/ab0692
+cell_viability,CV,leave_one_publication_out,1,58,CV_leave_one_publication_out_r01_f058,3691203163,602,6,74,1,0,0,0.0,doi:10.1088/1758-5090/ab15cb
+cell_viability,CV,leave_one_publication_out,1,59,CV_leave_one_publication_out_r01_f059,3691203163,600,8,74,1,0,0,0.0,doi:10.1088/1758-5090/ab19fd
+cell_viability,CV,leave_one_publication_out,1,60,CV_leave_one_publication_out_r01_f060,3691203163,599,9,74,1,0,0,0.0,doi:10.1088/1758-5090/ab2622
+cell_viability,CV,leave_one_publication_out,1,61,CV_leave_one_publication_out_r01_f061,3691203163,607,1,74,1,0,0,0.0,doi:10.1088/1758-5090/ab38ef
+cell_viability,CV,leave_one_publication_out,1,62,CV_leave_one_publication_out_r01_f062,3691203163,604,4,74,1,0,0,0.0,doi:10.1088/1758-5090/ab7553
+cell_viability,CV,leave_one_publication_out,1,63,CV_leave_one_publication_out_r01_f063,3691203163,594,14,74,1,0,0,0.0,doi:10.1088/1758-5090/abc39b
+cell_viability,CV,leave_one_publication_out,1,64,CV_leave_one_publication_out_r01_f064,3691203163,604,4,74,1,0,0,0.0,doi:10.1089/biores.2013.0031
+cell_viability,CV,leave_one_publication_out,1,65,CV_leave_one_publication_out_r01_f065,3691203163,587,21,74,1,0,0,0.0,doi:10.1089/ten.a.2007.0004
+cell_viability,CV,leave_one_publication_out,1,66,CV_leave_one_publication_out_r01_f066,3691203163,599,9,74,1,0,0,0.0,doi:10.1089/ten.a.2007.0158
+cell_viability,CV,leave_one_publication_out,1,67,CV_leave_one_publication_out_r01_f067,3691203163,602,6,74,1,0,0,0.0,doi:10.1089/ten.tec.2007.0392
+cell_viability,CV,leave_one_publication_out,1,68,CV_leave_one_publication_out_r01_f068,3691203163,598,10,74,1,0,0,0.0,doi:10.1089/ten.tec.2015.0307
+cell_viability,CV,leave_one_publication_out,1,69,CV_leave_one_publication_out_r01_f069,3691203163,604,4,74,1,0,0,0.0,doi:10.1115/1.3128729
+cell_viability,CV,leave_one_publication_out,1,70,CV_leave_one_publication_out_r01_f070,3691203163,578,30,74,1,0,0,0.0,doi:10.1115/1.4024575
+cell_viability,CV,leave_one_publication_out,1,71,CV_leave_one_publication_out_r01_f071,3691203163,606,2,74,1,0,0,0.0,doi:10.1115/1.4043960
+cell_viability,CV,leave_one_publication_out,1,72,CV_leave_one_publication_out_r01_f072,3691203163,589,19,74,1,0,0,0.0,doi:10.18063/ijb.v5i2.2.204
+cell_viability,CV,leave_one_publication_out,1,73,CV_leave_one_publication_out_r01_f073,3691203163,606,2,74,1,0,0,0.0,doi:10.18063/ijb.v6i1.250
+cell_viability,CV,leave_one_publication_out,1,74,CV_leave_one_publication_out_r01_f074,3691203163,605,3,74,1,0,0,0.0,doi:10.3390/ma13194237
+cell_viability,CV,leave_one_publication_out,1,75,CV_leave_one_publication_out_r01_f075,3691203163,606,2,74,1,0,0,0.0,doi:10.3390/polym12102346
+filament_diameter,FD,random_rowwise,1,1,FD_random_rowwise_r01_f001,3599849752,228,58,51,32,29,55,0.9482758620689655,
+filament_diameter,FD,random_rowwise,1,2,FD_random_rowwise_r01_f002,3599849752,229,57,51,31,28,53,0.9298245614035088,
+filament_diameter,FD,random_rowwise,1,3,FD_random_rowwise_r01_f003,3599849752,229,57,53,27,26,54,0.9473684210526315,
+filament_diameter,FD,random_rowwise,1,4,FD_random_rowwise_r01_f004,3599849752,229,57,52,32,30,55,0.9649122807017544,
+filament_diameter,FD,random_rowwise,1,5,FD_random_rowwise_r01_f005,3599849752,229,57,53,33,32,54,0.9473684210526315,
+filament_diameter,FD,random_rowwise,2,1,FD_random_rowwise_r02_f001,676311997,228,58,52,34,32,55,0.9482758620689655,
+filament_diameter,FD,random_rowwise,2,2,FD_random_rowwise_r02_f002,676311997,229,57,52,30,28,55,0.9649122807017544,
+filament_diameter,FD,random_rowwise,2,3,FD_random_rowwise_r02_f003,676311997,229,57,54,30,30,57,1.0,
+filament_diameter,FD,random_rowwise,2,4,FD_random_rowwise_r02_f004,676311997,229,57,51,33,30,53,0.9298245614035088,
+filament_diameter,FD,random_rowwise,2,5,FD_random_rowwise_r02_f005,676311997,229,57,52,30,28,55,0.9649122807017544,
+filament_diameter,FD,random_rowwise,3,1,FD_random_rowwise_r03_f001,2958115413,228,58,54,32,32,58,1.0,
+filament_diameter,FD,random_rowwise,3,2,FD_random_rowwise_r03_f002,2958115413,229,57,51,32,29,54,0.9473684210526315,
+filament_diameter,FD,random_rowwise,3,3,FD_random_rowwise_r03_f003,2958115413,229,57,52,33,31,53,0.9298245614035088,
+filament_diameter,FD,random_rowwise,3,4,FD_random_rowwise_r03_f004,2958115413,229,57,52,29,27,52,0.9122807017543859,
+filament_diameter,FD,random_rowwise,3,5,FD_random_rowwise_r03_f005,2958115413,229,57,51,31,28,54,0.9473684210526315,
+filament_diameter,FD,random_rowwise,4,1,FD_random_rowwise_r04_f001,623330807,228,58,53,31,30,57,0.9827586206896551,
+filament_diameter,FD,random_rowwise,4,2,FD_random_rowwise_r04_f002,623330807,229,57,52,33,31,55,0.9649122807017544,
+filament_diameter,FD,random_rowwise,4,3,FD_random_rowwise_r04_f003,623330807,229,57,52,25,23,54,0.9473684210526315,
+filament_diameter,FD,random_rowwise,4,4,FD_random_rowwise_r04_f004,623330807,229,57,53,31,30,55,0.9649122807017544,
+filament_diameter,FD,random_rowwise,4,5,FD_random_rowwise_r04_f005,623330807,229,57,50,32,28,52,0.9122807017543859,
+filament_diameter,FD,random_rowwise,5,1,FD_random_rowwise_r05_f001,3956814214,228,58,52,30,28,56,0.9655172413793104,
+filament_diameter,FD,random_rowwise,5,2,FD_random_rowwise_r05_f002,3956814214,229,57,53,31,30,56,0.9824561403508771,
+filament_diameter,FD,random_rowwise,5,3,FD_random_rowwise_r05_f003,3956814214,229,57,52,33,31,55,0.9649122807017544,
+filament_diameter,FD,random_rowwise,5,4,FD_random_rowwise_r05_f004,3956814214,229,57,53,34,33,56,0.9824561403508771,
+filament_diameter,FD,random_rowwise,5,5,FD_random_rowwise_r05_f005,3956814214,229,57,53,30,29,56,0.9824561403508771,
+filament_diameter,FD,publication_grouped,1,1,FD_publication_grouped_r01_f001,448464143,229,57,43,11,0,0,0.0,
+filament_diameter,FD,publication_grouped,1,2,FD_publication_grouped_r01_f002,448464143,229,57,43,11,0,0,0.0,
+filament_diameter,FD,publication_grouped,1,3,FD_publication_grouped_r01_f003,448464143,229,57,44,10,0,0,0.0,
+filament_diameter,FD,publication_grouped,1,4,FD_publication_grouped_r01_f004,448464143,229,57,42,12,0,0,0.0,
+filament_diameter,FD,publication_grouped,1,5,FD_publication_grouped_r01_f005,448464143,228,58,44,10,0,0,0.0,
+filament_diameter,FD,publication_grouped,2,1,FD_publication_grouped_r02_f001,1159476889,229,57,42,12,0,0,0.0,
+filament_diameter,FD,publication_grouped,2,2,FD_publication_grouped_r02_f002,1159476889,229,57,43,11,0,0,0.0,
+filament_diameter,FD,publication_grouped,2,3,FD_publication_grouped_r02_f003,1159476889,229,57,43,11,0,0,0.0,
+filament_diameter,FD,publication_grouped,2,4,FD_publication_grouped_r02_f004,1159476889,228,58,44,10,0,0,0.0,
+filament_diameter,FD,publication_grouped,2,5,FD_publication_grouped_r02_f005,1159476889,229,57,44,10,0,0,0.0,
+filament_diameter,FD,publication_grouped,3,1,FD_publication_grouped_r03_f001,815483958,229,57,44,10,0,0,0.0,
+filament_diameter,FD,publication_grouped,3,2,FD_publication_grouped_r03_f002,815483958,229,57,43,11,0,0,0.0,
+filament_diameter,FD,publication_grouped,3,3,FD_publication_grouped_r03_f003,815483958,229,57,42,12,0,0,0.0,
+filament_diameter,FD,publication_grouped,3,4,FD_publication_grouped_r03_f004,815483958,228,58,44,10,0,0,0.0,
+filament_diameter,FD,publication_grouped,3,5,FD_publication_grouped_r03_f005,815483958,229,57,43,11,0,0,0.0,
+filament_diameter,FD,publication_grouped,4,1,FD_publication_grouped_r04_f001,2982755346,229,57,43,11,0,0,0.0,
+filament_diameter,FD,publication_grouped,4,2,FD_publication_grouped_r04_f002,2982755346,229,57,43,11,0,0,0.0,
+filament_diameter,FD,publication_grouped,4,3,FD_publication_grouped_r04_f003,2982755346,229,57,42,12,0,0,0.0,
+filament_diameter,FD,publication_grouped,4,4,FD_publication_grouped_r04_f004,2982755346,229,57,44,10,0,0,0.0,
+filament_diameter,FD,publication_grouped,4,5,FD_publication_grouped_r04_f005,2982755346,228,58,44,10,0,0,0.0,
+filament_diameter,FD,publication_grouped,5,1,FD_publication_grouped_r05_f001,1026411584,229,57,42,12,0,0,0.0,
+filament_diameter,FD,publication_grouped,5,2,FD_publication_grouped_r05_f002,1026411584,228,58,44,10,0,0,0.0,
+filament_diameter,FD,publication_grouped,5,3,FD_publication_grouped_r05_f003,1026411584,229,57,44,10,0,0,0.0,
+filament_diameter,FD,publication_grouped,5,4,FD_publication_grouped_r05_f004,1026411584,229,57,43,11,0,0,0.0,
+filament_diameter,FD,publication_grouped,5,5,FD_publication_grouped_r05_f005,1026411584,229,57,43,11,0,0,0.0,
+filament_diameter,FD,leave_one_publication_out,1,1,FD_leave_one_publication_out_r01_f001,4032105161,284,2,53,1,0,0,0.0,ref:akkineni gelinsky biofab 2016
+filament_diameter,FD,leave_one_publication_out,1,2,FD_leave_one_publication_out_r01_f002,4032105161,283,3,53,1,0,0,0.0,ref:be22assoni khademhosseini biofab 2014
+filament_diameter,FD,leave_one_publication_out,1,3,FD_leave_one_publication_out_r01_f003,4032105161,283,3,53,1,0,0,0.0,ref:bociaga rosinska mat 2020
+filament_diameter,FD,leave_one_publication_out,1,4,FD_leave_one_publication_out_r01_f004,4032105161,283,3,53,1,0,0,0.0,ref:chen zhang appmatint 2019
+filament_diameter,FD,leave_one_publication_out,1,5,FD_leave_one_publication_out_r01_f005,4032105161,283,3,53,1,0,0,0.0,ref:chung wallace biomatsci 2013
+filament_diameter,FD,leave_one_publication_out,1,6,FD_leave_one_publication_out_r01_f006,4032105161,285,1,53,1,0,0,0.0,ref:cidonio oreffo biofab 2019
+filament_diameter,FD,leave_one_publication_out,1,7,FD_leave_one_publication_out_r01_f007,4032105161,277,9,53,1,0,0,0.0,ref:colosi khademhosseini advmat 2016
+filament_diameter,FD,leave_one_publication_out,1,8,FD_leave_one_publication_out_r01_f008,4032105161,285,1,53,1,0,0,0.0,ref:dai 2016
+filament_diameter,FD,leave_one_publication_out,1,9,FD_leave_one_publication_out_r01_f009,4032105161,282,4,53,1,0,0,0.0,ref:daly kelly biofab 2016
+filament_diameter,FD,leave_one_publication_out,1,10,FD_leave_one_publication_out_r01_f010,4032105161,283,3,53,1,0,0,0.0,ref:das ghosh actabiomat 2015
+filament_diameter,FD,leave_one_publication_out,1,11,FD_leave_one_publication_out_r01_f011,4032105161,284,2,53,1,0,0,0.0,ref:duan butcher jbiomedmatres 2012
+filament_diameter,FD,leave_one_publication_out,1,12,FD_leave_one_publication_out_r01_f012,4032105161,284,2,53,1,0,0,0.0,ref:duin 2019
+filament_diameter,FD,leave_one_publication_out,1,13,FD_leave_one_publication_out_r01_f013,4032105161,281,5,53,1,0,0,0.0,ref:fedorovich dhe22 tissueeng 2008
+filament_diameter,FD,leave_one_publication_out,1,14,FD_leave_one_publication_out_r01_f014,4032105161,282,4,53,1,0,0,0.0,ref:fisch zenobi wong biofab 2021
+filament_diameter,FD,leave_one_publication_out,1,15,FD_leave_one_publication_out_r01_f015,4032105161,284,2,53,1,0,0,0.0,ref:gantumar sakai
+filament_diameter,FD,leave_one_publication_out,1,16,FD_leave_one_publication_out_r01_f016,4032105161,282,4,53,1,0,0,0.0,ref:gao cho advfuncmat 2017
+filament_diameter,FD,leave_one_publication_out,1,17,FD_leave_one_publication_out_r01_f017,4032105161,285,1,53,1,0,0,0.0,ref:gao ma biomat 2015
+filament_diameter,FD,leave_one_publication_out,1,18,FD_leave_one_publication_out_r01_f018,4032105161,283,3,53,1,0,0,0.0,ref:giuseppe 2018
+filament_diameter,FD,leave_one_publication_out,1,19,FD_leave_one_publication_out_r01_f019,4032105161,283,3,53,1,0,0,0.0,ref:idaszek swieszkowski biofab 2019
+filament_diameter,FD,leave_one_publication_out,1,20,FD_leave_one_publication_out_r01_f020,4032105161,277,9,53,1,0,0,0.0,ref:jia khademhosseini biomat 2016
+filament_diameter,FD,leave_one_publication_out,1,21,FD_leave_one_publication_out_r01_f021,4032105161,274,12,53,1,0,0,0.0,ref:kang jin small 2020
+filament_diameter,FD,leave_one_publication_out,1,22,FD_leave_one_publication_out_r01_f022,4032105161,274,12,53,1,0,0,0.0,ref:kilian ahlfeld akkineni bioprint 2020
+filament_diameter,FD,leave_one_publication_out,1,23,FD_leave_one_publication_out_r01_f023,4032105161,280,6,53,1,0,0,0.0,ref:kolan leu bioprintamer 2019
+filament_diameter,FD,leave_one_publication_out,1,24,FD_leave_one_publication_out_r01_f024,4032105161,282,4,53,1,0,0,0.0,ref:kolesky lewis advmat 2014
+filament_diameter,FD,leave_one_publication_out,1,25,FD_leave_one_publication_out_r01_f025,4032105161,280,6,53,1,0,0,0.0,ref:kosik koziol swieszkowski biofab 2019
+filament_diameter,FD,leave_one_publication_out,1,26,FD_leave_one_publication_out_r01_f026,4032105161,278,8,53,1,0,0,0.0,ref:li fu scirep 2018
+filament_diameter,FD,leave_one_publication_out,1,27,FD_leave_one_publication_out_r01_f027,4032105161,284,2,53,1,0,0,0.0,ref:li li acsapplmatinterf 2017
+filament_diameter,FD,leave_one_publication_out,1,28,FD_leave_one_publication_out_r01_f028,4032105161,283,3,53,1,0,0,0.0,ref:li xu 3biotech 2018
+filament_diameter,FD,leave_one_publication_out,1,29,FD_leave_one_publication_out_r01_f029,4032105161,282,4,53,1,0,0,0.0,ref:li zhou addman 2021
+filament_diameter,FD,leave_one_publication_out,1,30,FD_leave_one_publication_out_r01_f030,4032105161,282,4,53,1,0,0,0.0,ref:lim levato advhealthmat 2020
+filament_diameter,FD,leave_one_publication_out,1,31,FD_leave_one_publication_out_r01_f031,4032105161,283,3,53,1,0,0,0.0,ref:liu zhang advhealthmat 2017
+filament_diameter,FD,leave_one_publication_out,1,32,FD_leave_one_publication_out_r01_f032,4032105161,284,2,53,1,0,0,0.0,ref:markstedt mantas biomacromol 2015
+filament_diameter,FD,leave_one_publication_out,1,33,FD_leave_one_publication_out_r01_f033,4032105161,256,30,53,1,0,0,0.0,ref:mistry yang biomacromolj 2018
+filament_diameter,FD,leave_one_publication_out,1,34,FD_leave_one_publication_out_r01_f034,4032105161,285,1,53,1,0,0,0.0,ref:moncal ozbolat jmatscimatmed 2019
+filament_diameter,FD,leave_one_publication_out,1,35,FD_leave_one_publication_out_r01_f035,4032105161,282,4,53,1,0,0,0.0,ref:mondal singh scirep 2019
+filament_diameter,FD,leave_one_publication_out,1,36,FD_leave_one_publication_out_r01_f036,4032105161,280,6,53,1,0,0,0.0,ref:ning chen biofab 2018
+filament_diameter,FD,leave_one_publication_out,1,37,FD_leave_one_publication_out_r01_f037,4032105161,280,6,53,1,0,0,0.0,ref:ojansivu mustafa biofab 2019
+filament_diameter,FD,leave_one_publication_out,1,38,FD_leave_one_publication_out_r01_f038,4032105161,285,1,53,1,0,0,0.0,ref:othman 2020
+filament_diameter,FD,leave_one_publication_out,1,39,FD_leave_one_publication_out_r01_f039,4032105161,283,3,53,1,0,0,0.0,ref:ouyang 2015
+filament_diameter,FD,leave_one_publication_out,1,40,FD_leave_one_publication_out_r01_f040,4032105161,275,11,53,1,0,0,0.0,ref:ouyang 2016
+filament_diameter,FD,leave_one_publication_out,1,41,FD_leave_one_publication_out_r01_f041,4032105161,276,10,53,1,0,0,0.0,ref:ouyang burdick advmat 2017
+filament_diameter,FD,leave_one_publication_out,1,42,FD_leave_one_publication_out_r01_f042,4032105161,285,1,53,1,0,0,0.0,ref:sakai nagasuna mattodbio 2020
+filament_diameter,FD,leave_one_publication_out,1,43,FD_leave_one_publication_out_r01_f043,4032105161,284,2,53,1,0,0,0.0,ref:sanz garcia escobedo lucea polymers 2020
+filament_diameter,FD,leave_one_publication_out,1,44,FD_leave_one_publication_out_r01_f044,4032105161,282,4,53,1,0,0,0.0,ref:shim cho jmicromechmicroeng 2012
+filament_diameter,FD,leave_one_publication_out,1,45,FD_leave_one_publication_out_r01_f045,4032105161,278,8,53,1,0,0,0.0,ref:shin burdick actabiomat 2019
+filament_diameter,FD,leave_one_publication_out,1,46,FD_leave_one_publication_out_r01_f046,4032105161,282,4,53,1,0,0,0.0,ref:soliman lim advhealthmat 2020
+filament_diameter,FD,leave_one_publication_out,1,47,FD_leave_one_publication_out_r01_f047,4032105161,277,9,53,1,0,0,0.0,ref:soltan chen acsbiomat 2019
+filament_diameter,FD,leave_one_publication_out,1,48,FD_leave_one_publication_out_r01_f048,4032105161,274,12,53,1,0,0,0.0,ref:tigner alge biomacromol 2020
+filament_diameter,FD,leave_one_publication_out,1,49,FD_leave_one_publication_out_r01_f049,4032105161,280,6,53,1,0,0,0.0,ref:yang zhao matsciengc 2018
+filament_diameter,FD,leave_one_publication_out,1,50,FD_leave_one_publication_out_r01_f050,4032105161,285,1,53,1,0,0,0.0,ref:yao 2019
+filament_diameter,FD,leave_one_publication_out,1,51,FD_leave_one_publication_out_r01_f051,4032105161,277,9,53,1,0,0,0.0,ref:yin suo appmatint 2018
+filament_diameter,FD,leave_one_publication_out,1,52,FD_leave_one_publication_out_r01_f052,4032105161,268,18,53,1,0,0,0.0,ref:yu ozbolat jbiomecheng 2013
+filament_diameter,FD,leave_one_publication_out,1,53,FD_leave_one_publication_out_r01_f053,4032105161,283,3,53,1,0,0,0.0,ref:zhang ozbolat biomatsci 2015
+filament_diameter,FD,leave_one_publication_out,1,54,FD_leave_one_publication_out_r01_f054,4032105161,282,4,53,1,0,0,0.0,ref:zhao 2014

@@ -1,0 +1,224 @@
+{
+  "model_schema_version": "1.0.0",
+  "status": "locked_before_nested_cross_validation",
+  "model_order": [
+    "ridge",
+    "elastic_net",
+    "random_forest",
+    "rbf_svr"
+  ],
+  "model_metadata": {
+    "ridge": {
+      "display_name": "Ridge regression",
+      "model_family": "linear_regularized",
+      "preprocessing_variant": "scaled",
+      "supports_nonlinearity": false,
+      "supports_feature_interactions": false
+    },
+    "elastic_net": {
+      "display_name": "Elastic Net",
+      "model_family": "linear_regularized_sparse",
+      "preprocessing_variant": "scaled",
+      "supports_nonlinearity": false,
+      "supports_feature_interactions": false
+    },
+    "random_forest": {
+      "display_name": "Random Forest",
+      "model_family": "tree_ensemble",
+      "preprocessing_variant": "unscaled",
+      "supports_nonlinearity": true,
+      "supports_feature_interactions": true
+    },
+    "rbf_svr": {
+      "display_name": "RBF-SVR",
+      "model_family": "kernel_nonlinear",
+      "preprocessing_variant": "scaled",
+      "supports_nonlinearity": true,
+      "supports_feature_interactions": true
+    }
+  },
+  "model_candidates": {
+    "ridge": [
+      {
+        "alpha": 100.0
+      },
+      {
+        "alpha": 10.0
+      },
+      {
+        "alpha": 1.0
+      },
+      {
+        "alpha": 0.1
+      },
+      {
+        "alpha": 0.01
+      }
+    ],
+    "elastic_net": [
+      {
+        "alpha": 1.0,
+        "l1_ratio": 0.9
+      },
+      {
+        "alpha": 1.0,
+        "l1_ratio": 0.5
+      },
+      {
+        "alpha": 1.0,
+        "l1_ratio": 0.1
+      },
+      {
+        "alpha": 0.1,
+        "l1_ratio": 0.9
+      },
+      {
+        "alpha": 0.1,
+        "l1_ratio": 0.5
+      },
+      {
+        "alpha": 0.1,
+        "l1_ratio": 0.1
+      },
+      {
+        "alpha": 0.01,
+        "l1_ratio": 0.9
+      },
+      {
+        "alpha": 0.01,
+        "l1_ratio": 0.5
+      },
+      {
+        "alpha": 0.01,
+        "l1_ratio": 0.1
+      }
+    ],
+    "random_forest": [
+      {
+        "n_estimators": 300,
+        "max_depth": 8,
+        "min_samples_leaf": 5,
+        "max_features": "sqrt"
+      },
+      {
+        "n_estimators": 300,
+        "max_depth": 12,
+        "min_samples_leaf": 3,
+        "max_features": "sqrt"
+      },
+      {
+        "n_estimators": 300,
+        "max_depth": 12,
+        "min_samples_leaf": 1,
+        "max_features": 0.5
+      },
+      {
+        "n_estimators": 300,
+        "max_depth": 24,
+        "min_samples_leaf": 3,
+        "max_features": 0.5
+      },
+      {
+        "n_estimators": 300,
+        "max_depth": 24,
+        "min_samples_leaf": 1,
+        "max_features": 0.5
+      },
+      {
+        "n_estimators": 300,
+        "max_depth": null,
+        "min_samples_leaf": 1,
+        "max_features": "sqrt"
+      }
+    ],
+    "rbf_svr": [
+      {
+        "C": 1.0,
+        "epsilon": 0.5,
+        "gamma": "scale"
+      },
+      {
+        "C": 1.0,
+        "epsilon": 0.5,
+        "gamma": 0.01
+      },
+      {
+        "C": 1.0,
+        "epsilon": 0.1,
+        "gamma": "scale"
+      },
+      {
+        "C": 1.0,
+        "epsilon": 0.1,
+        "gamma": 0.01
+      },
+      {
+        "C": 10.0,
+        "epsilon": 0.5,
+        "gamma": "scale"
+      },
+      {
+        "C": 10.0,
+        "epsilon": 0.5,
+        "gamma": 0.01
+      },
+      {
+        "C": 10.0,
+        "epsilon": 0.1,
+        "gamma": "scale"
+      },
+      {
+        "C": 10.0,
+        "epsilon": 0.1,
+        "gamma": 0.01
+      },
+      {
+        "C": 100.0,
+        "epsilon": 0.5,
+        "gamma": "scale"
+      },
+      {
+        "C": 100.0,
+        "epsilon": 0.5,
+        "gamma": 0.01
+      },
+      {
+        "C": 100.0,
+        "epsilon": 0.1,
+        "gamma": "scale"
+      },
+      {
+        "C": 100.0,
+        "epsilon": 0.1,
+        "gamma": 0.01
+      }
+    ]
+  },
+  "inner_selection": {
+    "primary_metric": "publication_macro_mae",
+    "primary_direction": "minimize",
+    "secondary_metric": "row_level_mae",
+    "secondary_direction": "minimize",
+    "final_tie_breaker": "lower complexity_tie_break_rank",
+    "aggregation_across_inner_folds": "mean of fold-specific metrics",
+    "outer_test_data_used_for_selection": false
+  },
+  "primary_training_weighting": "unweighted observations",
+  "planned_weighting_sensitivity": "inverse publication-size weights",
+  "preprocessing": {
+    "ridge": "scaled",
+    "elastic_net": "scaled",
+    "random_forest": "unscaled",
+    "rbf_svr": "scaled"
+  },
+  "target_transformation": "none",
+  "automatic_feature_selection": false,
+  "outlier_removal": false,
+  "value_clipping": false,
+  "publication_identifier_used_as_predictor": false,
+  "smoke_test_policy": {
+    "candidate_compatibility": "All candidates tested on one representative publication-grouped outer split for each feature-set definition.",
+    "cross_design_compatibility": "First candidate of each model tested on representative random, grouped, and LOPO outer splits.",
+    "smoke_results_enter_final_results": false
+  }
+}

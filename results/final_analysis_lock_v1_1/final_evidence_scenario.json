@@ -1,0 +1,29 @@
+{
+  "step_version": "1.1.0",
+  "generated_at_utc": "2026-07-21T22:28:24.815561+00:00",
+  "scenario_code": "A+D+G",
+  "scenario_label": "Strong source dependence with outcome-specific residual transfer; hierarchical correction benefits represented sources but does not improve unseen-source prediction.",
+  "scenario_components": [
+    {
+      "scenario_component": "A",
+      "description": "Random row-wise validation materially overestimates performance for unseen publications.",
+      "supported": true,
+      "evidence": "Both continuous outcomes had positive grouped-minus-random MAE gaps; all Step 17 sensitivity scenarios retained the same direction; both classification outcomes had positive random-minus-grouped balanced-accuracy gaps."
+    },
+    {
+      "scenario_component": "D",
+      "description": "The random-intercept correction can help represented sources but does not solve transfer to unseen sources.",
+      "supported": true,
+      "evidence": "At least one random-rowwise conditional-vs-matched contrast favored conditional prediction, while grouped conditional and marginal predictions were identical."
+    },
+    {
+      "scenario_component": "G",
+      "description": "Cross-publication behavior differs between cell viability and filament diameter.",
+      "supported": true,
+      "evidence": "Grouped tuned-RF R2 was approximately null for cell viability and remained positive for filament diameter."
+    }
+  ],
+  "models_retrained": false,
+  "shap_recomputed": false,
+  "interpretation_rule": "SHAP values are predictive associations, not causal effects."
+}

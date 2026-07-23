@@ -1,0 +1,13 @@
+dataset,target_key,feature_set,model_variant,corrected_minimum_rank,corrected_maximum_rank,corrected_median_rank,feature_count,task_count,old_minimum_rank,old_maximum_rank,old_median_rank,corrected_rank_range_valid
+cell_viability,cell_viability,core_physics,matched_fixed_rf,1.0,15.0,8.0,15,25,1.0,375.0,188.0,True
+cell_viability,cell_viability,core_physics,tuned_rf_reference,1.0,15.0,8.0,15,25,1.0,375.0,188.0,True
+cell_viability,cell_viability,full_retrospective,matched_fixed_rf,1.0,45.5,23.5,46,25,1.0,1107.0,575.5,True
+cell_viability,cell_viability,full_retrospective,tuned_rf_reference,1.0,46.0,23.5,46,25,1.0,1116.5,575.5,True
+cell_viability,cell_viability,prospective_design,matched_fixed_rf,1.0,43.5,22.5,44,25,1.0,1057.0,550.5,True
+cell_viability,cell_viability,prospective_design,tuned_rf_reference,1.0,44.0,22.5,44,25,1.0,1067.5,550.5,True
+filament_diameter,filament_diameter,core_physics,matched_fixed_rf,1.0,14.0,7.5,14,25,1.0,350.0,175.5,True
+filament_diameter,filament_diameter,core_physics,tuned_rf_reference,1.0,14.0,7.5,14,25,1.0,350.0,175.5,True
+filament_diameter,filament_diameter,full_retrospective,matched_fixed_rf,1.0,39.5,20.5,40,25,1.0,957.0,500.5,True
+filament_diameter,filament_diameter,full_retrospective,tuned_rf_reference,1.0,40.0,20.5,40,25,1.0,940.0,500.5,True
+filament_diameter,filament_diameter,prospective_design,matched_fixed_rf,1.0,37.5,19.5,38,25,1.0,907.5,475.5,True
+filament_diameter,filament_diameter,prospective_design,tuned_rf_reference,1.0,38.0,19.5,38,25,1.0,902.0,475.5,True

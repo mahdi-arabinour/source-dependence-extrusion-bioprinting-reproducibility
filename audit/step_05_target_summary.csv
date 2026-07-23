@@ -1,0 +1,5 @@
+dataset,analysis_set,target,rows,sources,minimum,maximum,mean,median,standard_deviation
+cell_viability,all_rows,cell_viability_percent,617,75,3.9,100.0,79.90791734197731,85.0,16.97425201328072
+cell_viability,primary,cell_viability_percent,608,75,3.9,100.0,79.69454769736842,84.95,17.004339844860215
+filament_diameter,all_rows,filament_diameter_um,339,54,68.27,2922.58,745.6906138643068,747.1096,398.887679753139
+filament_diameter,primary,filament_diameter_um,286,54,68.27,2922.58,747.1799688811188,704.62,413.21793864371233

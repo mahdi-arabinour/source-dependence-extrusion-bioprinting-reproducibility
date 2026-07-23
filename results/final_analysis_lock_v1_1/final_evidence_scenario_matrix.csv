@@ -1,0 +1,4 @@
+scenario_component,description,supported,evidence
+A,Random row-wise validation materially overestimates performance for unseen publications.,True,Both continuous outcomes had positive grouped-minus-random MAE gaps; all Step 17 sensitivity scenarios retained the same direction; both classification outcomes had positive random-minus-grouped balanced-accuracy gaps.
+D,The random-intercept correction can help represented sources but does not solve transfer to unseen sources.,True,"At least one random-rowwise conditional-vs-matched contrast favored conditional prediction, while grouped conditional and marginal predictions were identical."
+G,Cross-publication behavior differs between cell viability and filament diameter.,True,Grouped tuned-RF R2 was approximately null for cell viability and remained positive for filament diameter.

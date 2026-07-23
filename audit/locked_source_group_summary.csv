@@ -1,0 +1,4 @@
+dataset,source_role,source_column,source_count,expected_source_count,gate_passed
+cell_viability,primary,DOI,75,75,True
+cell_viability,sensitivity,Reference,76,76,True
+filament_diameter,primary,Reference,54,54,True

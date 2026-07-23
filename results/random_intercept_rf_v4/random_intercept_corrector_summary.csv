@@ -1,0 +1,5 @@
+target_key,validation_design,task_count,median_residual_icc,minimum_residual_icc,maximum_residual_icc,median_between_source_variance,median_residual_variance,median_fixed_intercept,median_mean_shrinkage,minimum_shrinkage,maximum_shrinkage,maximum_absolute_weighted_effect_mean
+cell_viability,publication_grouped,25,0.0,0.0,0.0,0.0,149.461655674431,0.1809748133746596,0.0,0.0,0.0,0.0
+cell_viability,random_rowwise,25,0.0,0.0,0.0,0.0,160.31821168180963,0.25823343179427505,0.0,0.0,0.0,0.0
+filament_diameter,publication_grouped,25,0.1175497597937783,0.0,0.2572305177158759,3877.0704562624364,31512.90351523092,4.031289564980797,0.3537926605936,0.0,0.9121989198089591,2.109908560335669e-15
+filament_diameter,random_rowwise,25,0.11559781568030801,0.0,0.2937598756552034,4581.698654048412,35649.95493062271,2.489632018567402,0.3191913084288719,0.0,0.9089483393567439,1.3807489843373127e-15

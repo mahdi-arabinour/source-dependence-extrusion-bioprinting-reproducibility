@@ -1,0 +1,5 @@
+step_key,checkpoint_path,step_version,completed_at_utc,all_quality_gates_passed,automatic_finalization_flag,analysis_complete_flag,analysis_lock_complete_flag,rank_bug_corrected_flag,completion_verified,completion_evidence
+step15,data/audit/step_15_v4_random_intercept_rf_checkpoint.json,4.0.0,2026-07-21T20:08:35.500010+00:00,True,True,True,False,False,True,all_quality_gates_passed + one recognized completion flag
+step16,data/audit/step_16_v1_2_rank_stability_checkpoint.json,1.2.0,2026-07-21T21:13:02.970780+00:00,True,False,True,False,True,True,all_quality_gates_passed + analysis_complete + rank_bug_corrected
+step17,data/audit/step_17_sensitivity_checkpoint.json,1.0.0,2026-07-21T21:38:50.732394+00:00,True,True,True,False,False,True,all_quality_gates_passed + one recognized completion flag
+step18,data/audit/step_18_classification_checkpoint.json,1.1.0,2026-07-21T22:14:17.336790+00:00,True,True,True,False,False,True,all_quality_gates_passed + one recognized completion flag

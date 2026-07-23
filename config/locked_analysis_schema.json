@@ -1,0 +1,207 @@
+{
+  "schema_version": "1.0.0",
+  "analysis_schema": {
+    "cell_viability": {
+      "dataset_code": "CV",
+      "expected_rows": 617,
+      "expected_original_columns": 51,
+      "target": "Viability_at_time_of_observation_(%)",
+      "primary_source": "DOI",
+      "source_sensitivity": "Reference",
+      "expected_primary_sources": 75,
+      "expected_sensitivity_sources": 76,
+      "identifiers": [
+        "Reference",
+        "DOI"
+      ],
+      "legacy_labels": [
+        "Acceptable_Viability_(Yes/No)",
+        "Acceptable_Pressure_(Yes/No)"
+      ],
+      "numeric_predictors": [
+        "Final_Alginate_Conc_(%w/v)",
+        "Final_Gelatin_Conc_(%w/v)",
+        "Final_GelMA_Conc_(%w/v)",
+        "Final_Hyaluronic_Acid_Conc_(%w/v)",
+        "Final_MeHA_Conc_(%w/v)",
+        "Final_NorHA_Conc_(%w/v)",
+        "Final_Fibroin/Fibrinogen_Conc_(%w/v)",
+        "Final_P127_Conc_(%w/v)",
+        "Final_Collagen_Conc_(%w/v)",
+        "Final_Chitosan_Conc_(%w/v)",
+        "Final_CS-AEMA_Conc_(%w/v)",
+        "Final_TCP_Conc_(%w/v)",
+        "Final_Gellan_Conc_(%w/v)",
+        "Final_Nano/Methycellulose_Conc_(%w/v)",
+        "Final_PEGTA_Conc_(%w/v)",
+        "Final_PEGMA_Conc_(%w/v)",
+        "Final_PEGDA_Conc_(%w/v)",
+        "Final_Agarose_Conc_(%w/v)",
+        "CaCl2_Conc_(mM)",
+        "NaCl2_Conc_(mM)",
+        "BaCl2_Conc_(mM)",
+        "SrCl2_Conc_(mM)",
+        "Physical_Crosslinking_Durantion_(s)",
+        "Photocrosslinking_Duration_(s)",
+        "Extrusion_Pressure (kPa)",
+        "Extrusion_Rate_Lengthwise_(mm/s)",
+        "Extrusion_Rate_Volume-wise_(mL/s)",
+        "Nozzle_Movement_Speed_(mm/s)",
+        "Inner_Nozzle_Outer_Diameter_(µm)",
+        "Outer_Nozzle_Inner_Diameter_(µm)",
+        "Fiber_Diameter_(µm)",
+        "Fiber_Spacing_(µm)",
+        "Cell_Density_(cells/mL)",
+        "Syringe_Temperature_(°C)",
+        "Substrate_Temperature_(°C)",
+        "Days_Observed"
+      ],
+      "categorical_predictors": [
+        "Cell_Culture_Medium_Used?",
+        "DI_Water_Used?",
+        "Precrosslinking_Solution_Used?",
+        "Saline_Solution_Used?",
+        "EtOH_Solution_Used?",
+        "Photoinitiator_Used?",
+        "Enzymatic_Crosslinker_Used?",
+        "Matrigel_Used?",
+        "Conical_or_Straight_Nozzle",
+        "Primary/Not_Primary"
+      ],
+      "prospective_exclusions": [
+        "Fiber_Diameter_(µm)",
+        "Fiber_Spacing_(µm)"
+      ],
+      "core_features": [
+        "Final_Alginate_Conc_(%w/v)",
+        "Final_Gelatin_Conc_(%w/v)",
+        "Final_GelMA_Conc_(%w/v)",
+        "CaCl2_Conc_(mM)",
+        "Physical_Crosslinking_Durantion_(s)",
+        "Photocrosslinking_Duration_(s)",
+        "Extrusion_Pressure (kPa)",
+        "Nozzle_Movement_Speed_(mm/s)",
+        "Outer_Nozzle_Inner_Diameter_(µm)",
+        "Cell_Density_(cells/mL)",
+        "Syringe_Temperature_(°C)",
+        "Substrate_Temperature_(°C)",
+        "Days_Observed",
+        "Conical_or_Straight_Nozzle",
+        "Primary/Not_Primary"
+      ],
+      "special_numeric_parsers": {
+        "Fiber_Diameter_(µm)": "extract_leading_numeric_and_retain_parenthetical_annotation"
+      },
+      "derived_targets": {}
+    },
+    "filament_diameter": {
+      "dataset_code": "FD",
+      "expected_rows": 339,
+      "expected_original_columns": 43,
+      "target": "Filament_Diameter_(µm)",
+      "primary_source": "Reference",
+      "source_sensitivity": null,
+      "expected_primary_sources": 54,
+      "expected_sensitivity_sources": null,
+      "identifiers": [
+        "Reference"
+      ],
+      "legacy_labels": [
+        "Acceptable_Filament_Diameter_(Yes/No)"
+      ],
+      "numeric_predictors": [
+        "Final_Alginate_Conc_(%w/v)",
+        "Final_Gelatin_Conc_(%w/v)",
+        "Final_GelMA_Conc_(%w/v)",
+        "Final_Hyaluronic_Acid_Conc_(%w/v)",
+        "Final_MeHA_Conc_(%w/v)",
+        "Final_NorHA_Conc_(%w/v)",
+        "Final_Fibronin/Fibrinogen_Conc_(%w/v)",
+        "Final_P127_Conc_(%w/v)",
+        "Final_Collagen_Conc_(%w/v)",
+        "Final_TCP_Conc_(%w/v)_(%w/v)",
+        "Final_Gellan_Conc_(%w/v)",
+        "Final_Nano/Methycellulose_Conc_(%w/v)",
+        "PEGDA_Conc_(%w/v)",
+        "Agarose_Conc_(%w/v)",
+        "CaCl2_Conc_(mM)",
+        "NaCl2_Conc_(mM)",
+        "BaCl2_Conc_(mM)",
+        "SrCl2_Conc_(mM)",
+        "Physical_Crosslinking_Durantion_(s)",
+        "Photocrosslinking_Duration_(s)",
+        "Extrusion_Pressure (kPa)",
+        "Extrusion_Rate_Lengthwise_(mm/s)",
+        "Extrusion_Rate_Volume-wise_(mL/s)",
+        "Nozzle_Movement_Speed_(mm/s)",
+        "Inner_Nozzle_Outer_Diameter_(µm)",
+        "Outer_Nozzle_Inner_Diameter_(µm)",
+        "Cell_Density_(cells/mL)",
+        "Syringe_Temperature_(°C)",
+        "Substrate_Temperature_(°C)",
+        "Days_Observed",
+        "Construct_Base_Area_(mm^2)",
+        "Construct_Total_Thickness_(mm)"
+      ],
+      "categorical_predictors": [
+        "Cell_Culture_Medium_Used?",
+        "DI_Water_Used?",
+        "Precrosslinking_Solution_Used?",
+        "Saline_Solution_Used?",
+        "EtOH_Solution_Used?",
+        "Photoinitiator_Used?",
+        "Enzymatic_Crosslinker_Used?",
+        "Conical_or_Straight_Nozzle"
+      ],
+      "prospective_exclusions": [
+        "Construct_Base_Area_(mm^2)",
+        "Construct_Total_Thickness_(mm)"
+      ],
+      "core_features": [
+        "Final_Alginate_Conc_(%w/v)",
+        "Final_Gelatin_Conc_(%w/v)",
+        "Final_GelMA_Conc_(%w/v)",
+        "CaCl2_Conc_(mM)",
+        "Physical_Crosslinking_Durantion_(s)",
+        "Photocrosslinking_Duration_(s)",
+        "Extrusion_Pressure (kPa)",
+        "Nozzle_Movement_Speed_(mm/s)",
+        "Outer_Nozzle_Inner_Diameter_(µm)",
+        "Cell_Density_(cells/mL)",
+        "Syringe_Temperature_(°C)",
+        "Substrate_Temperature_(°C)",
+        "Days_Observed",
+        "Conical_or_Straight_Nozzle"
+      ],
+      "special_numeric_parsers": {},
+      "derived_targets": {
+        "filament_to_nozzle_ratio": {
+          "numerator": "Filament_Diameter_(µm)",
+          "denominator": "Outer_Nozzle_Inner_Diameter_(µm)",
+          "exclude_denominator_from_predictors": true
+        }
+      }
+    }
+  },
+  "canonical_name_overrides": {
+    "Final_Fibroin/Fibrinogen_Conc_(%w/v)": "final_fibroin_or_fibrinogen_concentration_pct_wv",
+    "Final_Fibronin/Fibrinogen_Conc_(%w/v)": "final_fibroin_or_fibrinogen_concentration_pct_wv",
+    "Final_Nano/Methycellulose_Conc_(%w/v)": "final_nano_or_methylcellulose_concentration_pct_wv",
+    "Final_TCP_Conc_(%w/v)_(%w/v)": "final_tcp_concentration_pct_wv",
+    "PEGDA_Conc_(%w/v)": "final_pegda_concentration_pct_wv",
+    "Agarose_Conc_(%w/v)": "final_agarose_concentration_pct_wv",
+    "NaCl2_Conc_(mM)": "source_nacl2_concentration_mm",
+    "Physical_Crosslinking_Durantion_(s)": "physical_crosslinking_duration_s",
+    "Viability_at_time_of_observation_(%)": "cell_viability_percent",
+    "Filament_Diameter_(µm)": "filament_diameter_um",
+    "Outer_Nozzle_Inner_Diameter_(µm)": "outer_nozzle_inner_diameter_um",
+    "Inner_Nozzle_Outer_Diameter_(µm)": "inner_nozzle_outer_diameter_um"
+  },
+  "source_header_notes": {
+    "NaCl2_Conc_(mM)": "The source header is chemically nonstandard. The original header and values are preserved. Scientific naming requires source verification.",
+    "Physical_Crosslinking_Durantion_(s)": "The canonical name corrects the source-header typographical error 'Durantion' to 'duration'.",
+    "Final_Fibronin/Fibrinogen_Conc_(%w/v)": "The canonical name harmonizes the apparent source-header spelling 'Fibronin' with the corresponding cell-viability field. Values are not changed.",
+    "Final_TCP_Conc_(%w/v)_(%w/v)": "The canonical name removes the duplicated unit token from the source header.",
+    "Final_Nano/Methycellulose_Conc_(%w/v)": "Source-defined composite material field. It must not be interpreted as one chemically uniform material."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "step_version": "2.0.0",
+  "fresh_run_token": "step11_full_run_from_001_v1",
+  "status": "full_one_run_resumable_nested_cross_validation",
+  "run_all_pending_tasks": true,
+  "analysis_task_definition": "One dataset, one target family, one feature set, one locked outer split, and all four model families.",
+  "expected_analysis_tasks": 999,
+  "models_per_task": 4,
+  "inner_folds": 4,
+  "expected_inner_candidate_fold_fits": 127872,
+  "expected_outer_model_fits": 3996,
+  "expected_outer_prediction_rows": 155760,
+  "inner_primary_selection_metric": "mean publication-macro MAE",
+  "inner_secondary_selection_metric": "mean row-level MAE",
+  "final_tie_breaker": "lower locked complexity rank",
+  "outer_test_used_for_selection": false,
+  "preprocessing_fit_scope": "Inner-training partition during tuning and complete outer-training partition during final fit.",
+  "task_completion_marker": "The task result JSON is written only after the tuning and prediction files are written.",
+  "interruption_policy": "Re-run the same cell with the same fresh-run token. Completed tasks are validated and skipped."
+}

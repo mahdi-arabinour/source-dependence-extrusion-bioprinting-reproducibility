@@ -1,0 +1,3 @@
+dataset,random_outer_splits,minimum_source_seen_fraction,mean_source_seen_fraction,maximum_source_seen_fraction,minimum_overlapping_sources,mean_overlapping_sources,maximum_overlapping_sources
+cell_viability,25,0.9256198347107438,0.986156347378404,1.0,47,51.4,56
+filament_diameter,25,0.9122807017543859,0.9573018753781004,1.0,23,29.32,33

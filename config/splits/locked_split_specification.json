@@ -1,0 +1,46 @@
+{
+  "split_schema_version": "1.0.0",
+  "status": "locked_before_model_fitting",
+  "master_random_seed": 42,
+  "outer_designs": {
+    "random_rowwise": {
+      "folds": 5,
+      "repeats": 5,
+      "group_preserving": false,
+      "scientific_interpretation": "Prediction of additional observations when publication context may already be represented."
+    },
+    "publication_grouped": {
+      "folds": 5,
+      "repeats": 5,
+      "group_preserving": true,
+      "scientific_interpretation": "Primary estimate of transport to publications absent from model training."
+    },
+    "leave_one_publication_out": {
+      "folds": "one_per_publication",
+      "repeats": 1,
+      "group_preserving": true,
+      "scientific_interpretation": "Publication-specific external-style transfer error."
+    }
+  },
+  "inner_designs": {
+    "random_rowwise_outer": {
+      "folds": 4,
+      "group_preserving": false
+    },
+    "publication_grouped_outer": {
+      "folds": 4,
+      "group_preserving": true
+    },
+    "leave_one_publication_out_outer": {
+      "folds": 4,
+      "group_preserving": true
+    }
+  },
+  "target_used_for_split_construction": false,
+  "features_used_for_split_construction": false,
+  "split_inputs": [
+    "meta_row_id",
+    "meta_primary_source_id",
+    "publication row counts for grouped load balancing"
+  ]
+}

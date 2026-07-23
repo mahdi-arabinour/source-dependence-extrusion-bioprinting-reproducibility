@@ -1,0 +1,39 @@
+{
+  "preprocessing_schema_version": "1.0.0",
+  "status": "locked_before_predictive_model_fitting",
+  "fit_scope": "training partition only",
+  "numeric_processing": {
+    "imputation": "training-partition median",
+    "all_training_missing_fallback": "SimpleImputer keep-empty-feature behavior; feature retained with explicit missing indicator",
+    "scaled_variant": "StandardScaler fitted on training partition",
+    "unscaled_variant": "no numerical standardization",
+    "missing_indicators": "one indicator for every numeric predictor"
+  },
+  "categorical_processing": {
+    "missing_imputation": "__MISSING__",
+    "encoding": "training-fitted one-hot encoding",
+    "unknown_test_categories": "ignored by encoder and documented in audit",
+    "missing_indicators": "one indicator for every categorical predictor"
+  },
+  "scaled_variant_intended_models": [
+    "Ridge",
+    "ElasticNet",
+    "RBF-SVR"
+  ],
+  "unscaled_variant_intended_models": [
+    "RandomForestRegressor"
+  ],
+  "excluded_from_preprocessing": [
+    "outcomes",
+    "publication identifiers",
+    "row identifiers",
+    "legacy threshold-derived labels"
+  ],
+  "automatic_feature_selection": false,
+  "outlier_removal": false,
+  "value_clipping": false,
+  "source_identifier_encoding": false,
+  "test_data_used_during_fit": false,
+  "transformed_matrices_persisted": false,
+  "source_module": "src/bioprinting_preprocessing.py"
+}

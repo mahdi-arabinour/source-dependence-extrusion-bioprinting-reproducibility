@@ -1,0 +1,5 @@
+outcome_key,validation_design,metric,point_estimate,bootstrap_ci_lower,bootstrap_ci_upper,bootstrap_replicates
+cell_viability,publication_grouped,balanced_accuracy,0.6226017036860123,0.54213548364595,0.7053363961653007,10000
+cell_viability,random_rowwise,balanced_accuracy,0.7617910311963334,0.6853181261144191,0.8128205416289573,10000
+filament_diameter,publication_grouped,balanced_accuracy,0.4930232558139535,0.47783251231527096,0.5,10000
+filament_diameter,random_rowwise,balanced_accuracy,0.8945627251883393,0.6388711393924082,0.958132056730455,10000

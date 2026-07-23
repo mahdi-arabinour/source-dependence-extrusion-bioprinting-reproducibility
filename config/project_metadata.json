@@ -1,0 +1,15 @@
+{
+  "article_title": "Source Dependence and Cross-Publication Transportability of Machine-Learning Models in Extrusion Bioprinting: A Hierarchical Reanalysis of Cell Viability and Filament Geometry",
+  "notebook_name": "Source_Dependence_and_Cross_Publication_Transportability_of_Machine_Learning_Models_in_Extrusion_Bioprinting.ipynb",
+  "repository_name": "source-dependence-cross-publication-transportability-extrusion-bioprinting",
+  "project_version": "0.1.0-development",
+  "master_random_seed": 42,
+  "project_root": "/content/drive/MyDrive/Research_Projects/source-dependence-cross-publication-transportability-extrusion-bioprinting",
+  "created_at_utc": "2026-07-21T02:16:32.094303+00:00",
+  "python_version": "3.12.13 (main, Mar  4 2026, 09:23:07) [GCC 11.4.0]",
+  "python_executable": "/usr/bin/python3",
+  "operating_system": "Linux-6.6.122+-x86_64-with-glibc2.35",
+  "machine": "x86_64",
+  "processor": "x86_64",
+  "colab_runtime": true
+}

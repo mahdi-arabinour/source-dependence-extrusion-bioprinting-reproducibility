@@ -1,0 +1,5 @@
+outcome_key,validation_design,publication_count,attempts,completed_replicates
+cell_viability,random_rowwise,75,10000,10000
+cell_viability,publication_grouped,75,10000,10000
+filament_diameter,random_rowwise,54,10000,10000
+filament_diameter,publication_grouped,54,10000,10000

@@ -1,0 +1,259 @@
+dataset,analysis_set,meta_primary_source_id,row_count,target_mean,target_median,target_minimum,target_maximum
+cell_viability,all_rows,doi:10.1002/adfm.201700798,4,87.5,90.0,80.0,90.0
+cell_viability,all_rows,doi:10.1002/adhm.201500677,9,91.11111111111111,94.0,76.0,96.0
+cell_viability,all_rows,doi:10.1002/adhm.201601451,9,83.11111111111111,85.8,69.0,91.0
+cell_viability,all_rows,doi:10.1002/adhm.201801631,3,77.80333333333334,76.17,74.26,82.98
+cell_viability,all_rows,doi:10.1002/adhm.201901544,4,80.975,81.5,75.3,85.6
+cell_viability,all_rows,doi:10.1002/adhm.201901792,4,92.975,93.1,87.6,98.1
+cell_viability,all_rows,doi:10.1002/adma.201305506,10,74.65,76.5,61.0,82.0
+cell_viability,all_rows,doi:10.1002/adma.201503310,9,61.388888888888886,74.0,28.0,83.4
+cell_viability,all_rows,doi:10.1002/adma.201604983,15,92.08,92.6,86.3,96.9
+cell_viability,all_rows,doi:10.1002/adma.201703443,15,96.70666666666666,96.3,95.4,98.1
+cell_viability,all_rows,doi:10.1002/biot.200900004,12,67.91666666666667,68.5,47.0,84.0
+cell_viability,all_rows,doi:10.1002/jbm.a.34420,2,83.0,83.0,81.4,84.6
+cell_viability,all_rows,doi:10.1002/jbm.a.36036,4,63.925,68.8,22.5,95.6
+cell_viability,all_rows,doi:10.1002/mabi.201600472,42,92.12452380952381,95.395,43.16,99.8
+cell_viability,all_rows,doi:10.1002/smll.201905505,18,86.60555555555555,92.0,34.6,95.9
+cell_viability,all_rows,doi:10.1002/term.1682,4,90.5,90.5,85.0,96.0
+cell_viability,all_rows,doi:10.1007/s00289-020-03421-y,1,95.25,95.25,95.25,95.25
+cell_viability,all_rows,doi:10.1007/s10439-016-1704-5,30,69.51666666666667,66.75,49.0,94.0
+cell_viability,all_rows,doi:10.1007/s10856-019-6258-2,3,88.46666666666665,87.6,84.8,93.0
+cell_viability,all_rows,doi:10.1007/s13205-018-1341-9,3,88.85666666666667,88.88,85.35,92.34
+cell_viability,all_rows,doi:10.1016/j.actbio.2014.06.034,13,80.76923076923077,95.0,20.0,95.0
+cell_viability,all_rows,doi:10.1016/j.actbio.2014.09.023,4,92.05,92.65,86.7,96.2
+cell_viability,all_rows,doi:10.1016/j.actbio.2014.09.033,4,93.0,97.0,80.0,98.0
+cell_viability,all_rows,doi:10.1016/j.actbio.2018.10.028,8,83.0625,82.35,71.6,95.9
+cell_viability,all_rows,doi:10.1016/j.actbio.2020.07.016,6,88.61666666666667,87.95,85.0,92.8
+cell_viability,all_rows,doi:10.1016/j.addma.2020.101640,4,96.2,95.83500000000001,95.15,97.98
+cell_viability,all_rows,doi:10.1016/j.biomaterials.2015.05.031,6,75.05,77.69999999999999,50.2,92.9
+cell_viability,all_rows,doi:10.1016/j.biomaterials.2016.07.038,9,80.98888888888888,83.8,70.1,90.4
+cell_viability,all_rows,doi:10.1016/j.jmbbm.2017.12.018,3,92.33333333333333,92.3,89.0,95.7
+cell_viability,all_rows,doi:10.1016/j.mtbio.2020.100078,5,94.24,94.5,91.6,96.3
+cell_viability,all_rows,doi:10.1021/acs.biomac.5b00188,2,78.65,78.65,72.7,84.6
+cell_viability,all_rows,doi:10.1021/acs.biomac.9b01204,12,76.18333333333334,73.9,70.3,87.0
+cell_viability,all_rows,doi:10.1021/acsami.7b04216,3,95.33333333333333,95.0,94.0,97.0
+cell_viability,all_rows,doi:10.1021/acsami.7b16059,12,83.68333333333334,91.85,62.7,94.7
+cell_viability,all_rows,doi:10.1021/acsami.9b09782,6,80.48333333333333,80.94999999999999,69.1,89.5
+cell_viability,all_rows,doi:10.1021/acsbiomaterials.9b00167,12,90.45833333333333,93.5,73.0,99.5
+cell_viability,all_rows,doi:10.1038/s41598-017-17286-1,2,86.02250000000001,86.02250000000001,85.02,87.025
+cell_viability,all_rows,doi:10.1038/s41598-018-26407-3,20,88.425,87.85,83.9,92.3
+cell_viability,all_rows,doi:10.1038/s41598-019-55034-9,15,80.19066666666666,87.77,45.65,98.23
+cell_viability,all_rows,doi:10.1038/s41598-020-65050-9,18,56.422222222222224,51.6,41.2,76.7
+cell_viability,all_rows,doi:10.1038/srep29977,3,77.76666666666667,81.0,60.3,92.0
+cell_viability,all_rows,doi:10.1039/c3bm00012e,6,95.5,95.5,92.0,98.0
+cell_viability,all_rows,doi:10.1039/c4bm00234b,3,61.666666666666664,68.0,33.0,84.0
+cell_viability,all_rows,doi:10.1088/0960-1317/22/8/085014,4,93.05,93.75,89.5,95.2
+cell_viability,all_rows,doi:10.1088/1758-5082/5/2/025004,3,96.16666666666667,95.8,95.1,97.6
+cell_viability,all_rows,doi:10.1088/1758-5082/6/2/024105,9,85.5,85.7,68.2,96.9
+cell_viability,all_rows,doi:10.1088/1758-5082/6/3/035001,4,73.5,76.0,47.0,95.0
+cell_viability,all_rows,doi:10.1088/1758-5090/7/4/044101,3,79.94333333333333,92.25,54.94,92.64
+cell_viability,all_rows,doi:10.1088/1758-5090/7/4/044102,10,76.914,76.595,60.93,91.57
+cell_viability,all_rows,doi:10.1088/1758-5090/7/4/045012,11,88.35454545454546,92.0,61.0,96.0
+cell_viability,all_rows,doi:10.1088/1758-5090/8/3/035020,14,51.50714285714286,57.05,3.9,92.3
+cell_viability,all_rows,doi:10.1088/1758-5090/8/4/045001,4,75.7,76.05,66.2,84.5
+cell_viability,all_rows,doi:10.1088/1758-5090/8/4/045002,4,75.375,75.55,72.4,78.0
+cell_viability,all_rows,doi:10.1088/1758-5090/8/4/045005,1,86.92,86.92,86.92,86.92
+cell_viability,all_rows,doi:10.1088/1758-5090/aa7b1d,8,92.2125,92.15,89.3,95.0
+cell_viability,all_rows,doi:10.1088/1758-5090/aacd30,6,94.76666666666667,96.65,89.1,98.0
+cell_viability,all_rows,doi:10.1088/1758-5090/ab0692,4,86.405,86.885,71.85,100.0
+cell_viability,all_rows,doi:10.1088/1758-5090/ab15cb,6,81.38333333333334,80.7,79.0,85.0
+cell_viability,all_rows,doi:10.1088/1758-5090/ab19fd,8,81.4925,85.5,55.3,95.88
+cell_viability,all_rows,doi:10.1088/1758-5090/ab2622,9,87.54444444444444,88.0,84.2,91.9
+cell_viability,all_rows,doi:10.1088/1758-5090/ab38ef,1,95.0,95.0,95.0,95.0
+cell_viability,all_rows,doi:10.1088/1758-5090/ab7553,4,53.775,54.905,44.91,60.38
+cell_viability,all_rows,doi:10.1088/1758-5090/abc39b,15,74.494,75.0,62.05,86.3
+cell_viability,all_rows,doi:10.1089/biores.2013.0031,4,97.0,96.5,96.0,99.0
+cell_viability,all_rows,doi:10.1089/ten.a.2007.0004,21,60.94285714285714,64.6,42.8,85.0
+cell_viability,all_rows,doi:10.1089/ten.a.2007.0158,9,82.33333333333333,80.0,72.0,96.0
+cell_viability,all_rows,doi:10.1089/ten.tec.2007.0392,6,82.0,82.0,79.0,85.0
+cell_viability,all_rows,doi:10.1089/ten.tec.2015.0307,10,83.31,84.25,76.0,90.75
+cell_viability,all_rows,doi:10.1115/1.3128729,4,80.33500000000001,80.465,75.67,84.74
+cell_viability,all_rows,doi:10.1115/1.4024575,30,68.81833333333334,68.5,31.0,98.0
+cell_viability,all_rows,doi:10.1115/1.4043960,2,98.03,98.03,97.5,98.56
+cell_viability,all_rows,doi:10.18063/ijb.v5i2.2.204,19,62.04736842105264,62.6,43.5,81.0
+cell_viability,all_rows,doi:10.18063/ijb.v6i1.250,2,55.05,55.05,54.1,56.0
+cell_viability,all_rows,doi:10.3390/ma13194237,3,98.27,98.33,97.62,98.86
+cell_viability,all_rows,doi:10.3390/polym12102346,2,91.0,91.0,90.17,91.83
+cell_viability,primary,doi:10.1002/adfm.201700798,4,87.5,90.0,80.0,90.0
+cell_viability,primary,doi:10.1002/adhm.201500677,7,90.0,92.0,76.0,96.0
+cell_viability,primary,doi:10.1002/adhm.201601451,9,83.11111111111111,85.8,69.0,91.0
+cell_viability,primary,doi:10.1002/adhm.201801631,3,77.80333333333334,76.17,74.26,82.98
+cell_viability,primary,doi:10.1002/adhm.201901544,4,80.975,81.5,75.3,85.6
+cell_viability,primary,doi:10.1002/adhm.201901792,4,92.975,93.1,87.6,98.1
+cell_viability,primary,doi:10.1002/adma.201305506,10,74.65,76.5,61.0,82.0
+cell_viability,primary,doi:10.1002/adma.201503310,9,61.388888888888886,74.0,28.0,83.4
+cell_viability,primary,doi:10.1002/adma.201604983,15,92.08,92.6,86.3,96.9
+cell_viability,primary,doi:10.1002/adma.201703443,13,96.76923076923077,96.3,95.4,98.1
+cell_viability,primary,doi:10.1002/biot.200900004,12,67.91666666666667,68.5,47.0,84.0
+cell_viability,primary,doi:10.1002/jbm.a.34420,2,83.0,83.0,81.4,84.6
+cell_viability,primary,doi:10.1002/jbm.a.36036,4,63.925,68.8,22.5,95.6
+cell_viability,primary,doi:10.1002/mabi.201600472,42,92.12452380952381,95.395,43.16,99.8
+cell_viability,primary,doi:10.1002/smll.201905505,18,86.60555555555555,92.0,34.6,95.9
+cell_viability,primary,doi:10.1002/term.1682,4,90.5,90.5,85.0,96.0
+cell_viability,primary,doi:10.1007/s00289-020-03421-y,1,95.25,95.25,95.25,95.25
+cell_viability,primary,doi:10.1007/s10439-016-1704-5,30,69.51666666666667,66.75,49.0,94.0
+cell_viability,primary,doi:10.1007/s10856-019-6258-2,3,88.46666666666665,87.6,84.8,93.0
+cell_viability,primary,doi:10.1007/s13205-018-1341-9,3,88.85666666666667,88.88,85.35,92.34
+cell_viability,primary,doi:10.1016/j.actbio.2014.06.034,9,74.44444444444444,90.0,20.0,95.0
+cell_viability,primary,doi:10.1016/j.actbio.2014.09.023,4,92.05,92.65,86.7,96.2
+cell_viability,primary,doi:10.1016/j.actbio.2014.09.033,4,93.0,97.0,80.0,98.0
+cell_viability,primary,doi:10.1016/j.actbio.2018.10.028,8,83.0625,82.35,71.6,95.9
+cell_viability,primary,doi:10.1016/j.actbio.2020.07.016,6,88.61666666666667,87.95,85.0,92.8
+cell_viability,primary,doi:10.1016/j.addma.2020.101640,4,96.2,95.83500000000001,95.15,97.98
+cell_viability,primary,doi:10.1016/j.biomaterials.2015.05.031,6,75.05,77.69999999999999,50.2,92.9
+cell_viability,primary,doi:10.1016/j.biomaterials.2016.07.038,9,80.98888888888888,83.8,70.1,90.4
+cell_viability,primary,doi:10.1016/j.jmbbm.2017.12.018,3,92.33333333333333,92.3,89.0,95.7
+cell_viability,primary,doi:10.1016/j.mtbio.2020.100078,5,94.24,94.5,91.6,96.3
+cell_viability,primary,doi:10.1021/acs.biomac.5b00188,2,78.65,78.65,72.7,84.6
+cell_viability,primary,doi:10.1021/acs.biomac.9b01204,12,76.18333333333334,73.9,70.3,87.0
+cell_viability,primary,doi:10.1021/acsami.7b04216,3,95.33333333333333,95.0,94.0,97.0
+cell_viability,primary,doi:10.1021/acsami.7b16059,12,83.68333333333334,91.85,62.7,94.7
+cell_viability,primary,doi:10.1021/acsami.9b09782,6,80.48333333333333,80.94999999999999,69.1,89.5
+cell_viability,primary,doi:10.1021/acsbiomaterials.9b00167,12,90.45833333333333,93.5,73.0,99.5
+cell_viability,primary,doi:10.1038/s41598-017-17286-1,2,86.02250000000001,86.02250000000001,85.02,87.025
+cell_viability,primary,doi:10.1038/s41598-018-26407-3,20,88.425,87.85,83.9,92.3
+cell_viability,primary,doi:10.1038/s41598-019-55034-9,15,80.19066666666666,87.77,45.65,98.23
+cell_viability,primary,doi:10.1038/s41598-020-65050-9,18,56.422222222222224,51.6,41.2,76.7
+cell_viability,primary,doi:10.1038/srep29977,3,77.76666666666667,81.0,60.3,92.0
+cell_viability,primary,doi:10.1039/c3bm00012e,6,95.5,95.5,92.0,98.0
+cell_viability,primary,doi:10.1039/c4bm00234b,3,61.666666666666664,68.0,33.0,84.0
+cell_viability,primary,doi:10.1088/0960-1317/22/8/085014,4,93.05,93.75,89.5,95.2
+cell_viability,primary,doi:10.1088/1758-5082/5/2/025004,3,96.16666666666667,95.8,95.1,97.6
+cell_viability,primary,doi:10.1088/1758-5082/6/2/024105,9,85.5,85.7,68.2,96.9
+cell_viability,primary,doi:10.1088/1758-5082/6/3/035001,4,73.5,76.0,47.0,95.0
+cell_viability,primary,doi:10.1088/1758-5090/7/4/044101,3,79.94333333333333,92.25,54.94,92.64
+cell_viability,primary,doi:10.1088/1758-5090/7/4/044102,10,76.914,76.595,60.93,91.57
+cell_viability,primary,doi:10.1088/1758-5090/7/4/045012,11,88.35454545454546,92.0,61.0,96.0
+cell_viability,primary,doi:10.1088/1758-5090/8/3/035020,14,51.50714285714286,57.05,3.9,92.3
+cell_viability,primary,doi:10.1088/1758-5090/8/4/045001,4,75.7,76.05,66.2,84.5
+cell_viability,primary,doi:10.1088/1758-5090/8/4/045002,4,75.375,75.55,72.4,78.0
+cell_viability,primary,doi:10.1088/1758-5090/8/4/045005,1,86.92,86.92,86.92,86.92
+cell_viability,primary,doi:10.1088/1758-5090/aa7b1d,8,92.2125,92.15,89.3,95.0
+cell_viability,primary,doi:10.1088/1758-5090/aacd30,6,94.76666666666667,96.65,89.1,98.0
+cell_viability,primary,doi:10.1088/1758-5090/ab0692,4,86.405,86.885,71.85,100.0
+cell_viability,primary,doi:10.1088/1758-5090/ab15cb,6,81.38333333333334,80.7,79.0,85.0
+cell_viability,primary,doi:10.1088/1758-5090/ab19fd,8,81.4925,85.5,55.3,95.88
+cell_viability,primary,doi:10.1088/1758-5090/ab2622,9,87.54444444444444,88.0,84.2,91.9
+cell_viability,primary,doi:10.1088/1758-5090/ab38ef,1,95.0,95.0,95.0,95.0
+cell_viability,primary,doi:10.1088/1758-5090/ab7553,4,53.775,54.905,44.91,60.38
+cell_viability,primary,doi:10.1088/1758-5090/abc39b,14,73.65071428571427,74.0,62.05,86.3
+cell_viability,primary,doi:10.1089/biores.2013.0031,4,97.0,96.5,96.0,99.0
+cell_viability,primary,doi:10.1089/ten.a.2007.0004,21,60.94285714285714,64.6,42.8,85.0
+cell_viability,primary,doi:10.1089/ten.a.2007.0158,9,82.33333333333333,80.0,72.0,96.0
+cell_viability,primary,doi:10.1089/ten.tec.2007.0392,6,82.0,82.0,79.0,85.0
+cell_viability,primary,doi:10.1089/ten.tec.2015.0307,10,83.31,84.25,76.0,90.75
+cell_viability,primary,doi:10.1115/1.3128729,4,80.33500000000001,80.465,75.67,84.74
+cell_viability,primary,doi:10.1115/1.4024575,30,68.81833333333334,68.5,31.0,98.0
+cell_viability,primary,doi:10.1115/1.4043960,2,98.03,98.03,97.5,98.56
+cell_viability,primary,doi:10.18063/ijb.v5i2.2.204,19,62.04736842105264,62.6,43.5,81.0
+cell_viability,primary,doi:10.18063/ijb.v6i1.250,2,55.05,55.05,54.1,56.0
+cell_viability,primary,doi:10.3390/ma13194237,3,98.27,98.33,97.62,98.86
+cell_viability,primary,doi:10.3390/polym12102346,2,91.0,91.0,90.17,91.83
+filament_diameter,all_rows,ref:akkineni gelinsky biofab 2016,2,482.21,482.21,355.88,608.54
+filament_diameter,all_rows,ref:be22assoni khademhosseini biofab 2014,3,477.09999999999997,466.6,466.5,498.2
+filament_diameter,all_rows,ref:bociaga rosinska mat 2020,3,1090.9,1090.9,1090.9,1090.9
+filament_diameter,all_rows,ref:chen zhang appmatint 2019,6,152.96,152.96,152.96,152.96
+filament_diameter,all_rows,ref:chung wallace biomatsci 2013,3,321.13,321.13,321.13,321.13
+filament_diameter,all_rows,ref:cidonio oreffo biofab 2019,1,297.22,297.22,297.22,297.22
+filament_diameter,all_rows,ref:colosi khademhosseini advmat 2016,9,258.22266666666667,222.53,211.32,349.78
+filament_diameter,all_rows,ref:dai 2016,1,277.74,277.74,277.74,277.74
+filament_diameter,all_rows,ref:daly kelly biofab 2016,4,477.82500000000005,502.39,265.1,641.42
+filament_diameter,all_rows,ref:das ghosh actabiomat 2015,3,350.74333333333334,355.52,334.34,362.37
+filament_diameter,all_rows,ref:duan butcher jbiomedmatres 2012,4,941.3,941.3,941.3,941.3
+filament_diameter,all_rows,ref:duin 2019,2,842.7149999999999,842.7149999999999,763.25,922.18
+filament_diameter,all_rows,ref:fedorovich dhe22 tissueeng 2008,5,600.0,430.0,430.0,1280.0
+filament_diameter,all_rows,ref:fisch zenobi wong biofab 2021,4,1063.8049999999998,1063.8049999999998,1014.53,1113.08
+filament_diameter,all_rows,ref:gantumar sakai,2,1486.13,1486.13,1318.33,1653.93
+filament_diameter,all_rows,ref:gao cho advfuncmat 2017,4,1222.4265,1257.3125,1059.551,1315.53
+filament_diameter,all_rows,ref:gao ma biomat 2015,1,930.16,930.16,930.16,930.16
+filament_diameter,all_rows,ref:giuseppe 2018,3,343.3333333333333,350.0,310.0,370.0
+filament_diameter,all_rows,ref:idaszek swieszkowski biofab 2019,3,194.72166666666666,184.215,173.84,226.11
+filament_diameter,all_rows,ref:jia khademhosseini biomat 2016,9,987.44,950.61,838.11,1160.49
+filament_diameter,all_rows,ref:kang jin small 2020,18,1180.182111111111,1087.3025,1000.0,1974.411
+filament_diameter,all_rows,ref:kilian ahlfeld akkineni bioprint 2020,24,576.9830833333334,516.3195000000001,333.28,910.8
+filament_diameter,all_rows,ref:kolan leu bioprintamer 2019,14,1191.8900714285714,1233.18,1015.78,1561.572
+filament_diameter,all_rows,ref:kolesky lewis advmat 2014,8,366.9225,362.395,223.36,519.54
+filament_diameter,all_rows,ref:kosik koziol swieszkowski biofab 2019,6,145.945,127.00999999999999,96.66,233.45
+filament_diameter,all_rows,ref:li fu scirep 2018,8,622.420875,608.915,488.83,793.49
+filament_diameter,all_rows,ref:li li acsapplmatinterf 2017,2,353.56,353.56,336.92,370.2
+filament_diameter,all_rows,ref:li xu 3biotech 2018,3,182.89666666666668,181.71,132.84,234.14
+filament_diameter,all_rows,ref:li zhou addman 2021,4,513.2988250000001,539.34215,307.47,667.041
+filament_diameter,all_rows,ref:lim levato advhealthmat 2020,4,351.135,351.855,281.83,419.0
+filament_diameter,all_rows,ref:liu zhang advhealthmat 2017,3,631.1333333333333,636.51,608.85,648.04
+filament_diameter,all_rows,ref:markstedt mantas biomacromol 2015,2,556.4343,556.4343,443.96,668.9086
+filament_diameter,all_rows,ref:mistry yang biomacromolj 2018,42,800.0,800.0,800.0,800.0
+filament_diameter,all_rows,ref:moncal ozbolat jmatscimatmed 2019,3,462.0,462.0,462.0,462.0
+filament_diameter,all_rows,ref:mondal singh scirep 2019,4,407.9425,407.09,293.09,524.5
+filament_diameter,all_rows,ref:ning chen biofab 2018,6,300.90333333333336,297.37,286.84,328.74
+filament_diameter,all_rows,ref:ojansivu mustafa biofab 2019,6,698.54,700.0350000000001,573.26,829.36
+filament_diameter,all_rows,ref:othman 2020,1,1500.0,1500.0,1500.0,1500.0
+filament_diameter,all_rows,ref:ouyang 2015,3,415.0,415.0,415.0,415.0
+filament_diameter,all_rows,ref:ouyang 2016,14,500.0,500.0,500.0,500.0
+filament_diameter,all_rows,ref:ouyang burdick advmat 2017,10,567.9739999999999,580.49,410.53,688.16
+filament_diameter,all_rows,ref:sakai nagasuna mattodbio 2020,1,400.0,400.0,400.0,400.0
+filament_diameter,all_rows,ref:sanz garcia escobedo lucea polymers 2020,2,400.0,400.0,400.0,400.0
+filament_diameter,all_rows,ref:shim cho jmicromechmicroeng 2012,4,475.1275,603.88,68.27,624.48
+filament_diameter,all_rows,ref:shin burdick actabiomat 2019,8,1539.63375,1200.0,896.94,2922.58
+filament_diameter,all_rows,ref:soliman lim advhealthmat 2020,4,309.7,295.1,291.28,357.32
+filament_diameter,all_rows,ref:soltan chen acsbiomat 2019,9,1042.4855555555557,1015.34,833.96,1560.65
+filament_diameter,all_rows,ref:tigner alge biomacromol 2020,12,1372.2873333333334,1342.315,1014.45,1687.146
+filament_diameter,all_rows,ref:yang zhao matsciengc 2018,6,928.3318666666668,804.686,747.1096,1233.2
+filament_diameter,all_rows,ref:yao 2019,1,973.0,973.0,973.0,973.0
+filament_diameter,all_rows,ref:yin suo appmatint 2018,9,592.2177777777778,620.95,460.74,713.0
+filament_diameter,all_rows,ref:yu ozbolat jbiomecheng 2013,19,1182.8542105263157,1190.0,1103.19,1227.6
+filament_diameter,all_rows,ref:zhang ozbolat biomatsci 2015,3,732.6133333333333,700.35,677.57,819.92
+filament_diameter,all_rows,ref:zhao 2014,4,500.0,500.0,500.0,500.0
+filament_diameter,primary,ref:akkineni gelinsky biofab 2016,2,482.21,482.21,355.88,608.54
+filament_diameter,primary,ref:be22assoni khademhosseini biofab 2014,3,477.09999999999997,466.6,466.5,498.2
+filament_diameter,primary,ref:bociaga rosinska mat 2020,3,1090.9,1090.9,1090.9,1090.9
+filament_diameter,primary,ref:chen zhang appmatint 2019,3,152.96,152.96,152.96,152.96
+filament_diameter,primary,ref:chung wallace biomatsci 2013,3,321.13,321.13,321.13,321.13
+filament_diameter,primary,ref:cidonio oreffo biofab 2019,1,297.22,297.22,297.22,297.22
+filament_diameter,primary,ref:colosi khademhosseini advmat 2016,9,258.22266666666667,222.53,211.32,349.78
+filament_diameter,primary,ref:dai 2016,1,277.74,277.74,277.74,277.74
+filament_diameter,primary,ref:daly kelly biofab 2016,4,477.82500000000005,502.39,265.1,641.42
+filament_diameter,primary,ref:das ghosh actabiomat 2015,3,350.74333333333334,355.52,334.34,362.37
+filament_diameter,primary,ref:duan butcher jbiomedmatres 2012,2,941.3,941.3,941.3,941.3
+filament_diameter,primary,ref:duin 2019,2,842.7149999999999,842.7149999999999,763.25,922.18
+filament_diameter,primary,ref:fedorovich dhe22 tissueeng 2008,5,600.0,430.0,430.0,1280.0
+filament_diameter,primary,ref:fisch zenobi wong biofab 2021,4,1063.8049999999998,1063.8049999999998,1014.53,1113.08
+filament_diameter,primary,ref:gantumar sakai,2,1486.13,1486.13,1318.33,1653.93
+filament_diameter,primary,ref:gao cho advfuncmat 2017,4,1222.4265,1257.3125,1059.551,1315.53
+filament_diameter,primary,ref:gao ma biomat 2015,1,930.16,930.16,930.16,930.16
+filament_diameter,primary,ref:giuseppe 2018,3,343.3333333333333,350.0,310.0,370.0
+filament_diameter,primary,ref:idaszek swieszkowski biofab 2019,3,194.72166666666666,184.215,173.84,226.11
+filament_diameter,primary,ref:jia khademhosseini biomat 2016,9,987.44,950.61,838.11,1160.49
+filament_diameter,primary,ref:kang jin small 2020,12,1270.2731666666666,1213.1100000000001,1000.0,1974.411
+filament_diameter,primary,ref:kilian ahlfeld akkineni bioprint 2020,12,576.9830833333334,516.3195000000001,333.28,910.8
+filament_diameter,primary,ref:kolan leu bioprintamer 2019,6,1256.2968333333333,1242.245,1015.78,1561.572
+filament_diameter,primary,ref:kolesky lewis advmat 2014,4,366.9225,362.395,223.36,519.54
+filament_diameter,primary,ref:kosik koziol swieszkowski biofab 2019,6,145.945,127.00999999999999,96.66,233.45
+filament_diameter,primary,ref:li fu scirep 2018,8,622.420875,608.915,488.83,793.49
+filament_diameter,primary,ref:li li acsapplmatinterf 2017,2,353.56,353.56,336.92,370.2
+filament_diameter,primary,ref:li xu 3biotech 2018,3,182.89666666666668,181.71,132.84,234.14
+filament_diameter,primary,ref:li zhou addman 2021,4,513.2988250000001,539.34215,307.47,667.041
+filament_diameter,primary,ref:lim levato advhealthmat 2020,4,351.135,351.855,281.83,419.0
+filament_diameter,primary,ref:liu zhang advhealthmat 2017,3,631.1333333333333,636.51,608.85,648.04
+filament_diameter,primary,ref:markstedt mantas biomacromol 2015,2,556.4343,556.4343,443.96,668.9086
+filament_diameter,primary,ref:mistry yang biomacromolj 2018,30,800.0,800.0,800.0,800.0
+filament_diameter,primary,ref:moncal ozbolat jmatscimatmed 2019,1,462.0,462.0,462.0,462.0
+filament_diameter,primary,ref:mondal singh scirep 2019,4,407.9425,407.09,293.09,524.5
+filament_diameter,primary,ref:ning chen biofab 2018,6,300.90333333333336,297.37,286.84,328.74
+filament_diameter,primary,ref:ojansivu mustafa biofab 2019,6,698.54,700.0350000000001,573.26,829.36
+filament_diameter,primary,ref:othman 2020,1,1500.0,1500.0,1500.0,1500.0
+filament_diameter,primary,ref:ouyang 2015,3,415.0,415.0,415.0,415.0
+filament_diameter,primary,ref:ouyang 2016,11,500.0,500.0,500.0,500.0
+filament_diameter,primary,ref:ouyang burdick advmat 2017,10,567.9739999999999,580.49,410.53,688.16
+filament_diameter,primary,ref:sakai nagasuna mattodbio 2020,1,400.0,400.0,400.0,400.0
+filament_diameter,primary,ref:sanz garcia escobedo lucea polymers 2020,2,400.0,400.0,400.0,400.0
+filament_diameter,primary,ref:shim cho jmicromechmicroeng 2012,4,475.1275,603.88,68.27,624.48
+filament_diameter,primary,ref:shin burdick actabiomat 2019,8,1539.63375,1200.0,896.94,2922.58
+filament_diameter,primary,ref:soliman lim advhealthmat 2020,4,309.7,295.1,291.28,357.32
+filament_diameter,primary,ref:soltan chen acsbiomat 2019,9,1042.4855555555557,1015.34,833.96,1560.65
+filament_diameter,primary,ref:tigner alge biomacromol 2020,12,1372.2873333333334,1342.315,1014.45,1687.146
+filament_diameter,primary,ref:yang zhao matsciengc 2018,6,928.3318666666668,804.686,747.1096,1233.2
+filament_diameter,primary,ref:yao 2019,1,973.0,973.0,973.0,973.0
+filament_diameter,primary,ref:yin suo appmatint 2018,9,592.2177777777778,620.95,460.74,713.0
+filament_diameter,primary,ref:yu ozbolat jbiomecheng 2013,18,1182.4572222222223,1190.0,1103.19,1227.6
+filament_diameter,primary,ref:zhang ozbolat biomatsci 2015,3,732.6133333333333,700.35,677.57,819.92
+filament_diameter,primary,ref:zhao 2014,4,500.0,500.0,500.0,500.0

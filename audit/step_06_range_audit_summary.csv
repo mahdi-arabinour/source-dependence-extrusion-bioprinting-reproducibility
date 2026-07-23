@@ -1,0 +1,72 @@
+dataset,variable,nonmissing_count,minimum,maximum,hard_violation_count,review_flag_count,rule_basis
+cell_viability,final_alginate_conc_pctw_or_v,608,0.0,20.0,0,0,Concentrations cannot be negative.
+cell_viability,final_gelatin_conc_pctw_or_v,608,0.0,50.0,0,0,Concentrations cannot be negative.
+cell_viability,final_gelma_conc_pctw_or_v,608,0.0,30.0,0,0,Concentrations cannot be negative.
+cell_viability,final_hyaluronic_acid_conc_pctw_or_v,608,0.0,2.0,0,0,Concentrations cannot be negative.
+cell_viability,final_meha_conc_pctw_or_v,608,0.0,5.0,0,0,Concentrations cannot be negative.
+cell_viability,final_norha_conc_pctw_or_v,608,0.0,2.0,0,0,Concentrations cannot be negative.
+cell_viability,final_fibroin_or_fibrinogen_concentration_pct_wv,608,0.0,8.0,0,0,Concentrations cannot be negative.
+cell_viability,final_p127_conc_pctw_or_v,608,0.0,30.0,0,0,Concentrations cannot be negative.
+cell_viability,final_collagen_conc_pctw_or_v,607,0.0,3.0,0,0,Concentrations cannot be negative.
+cell_viability,final_chitosan_conc_pctw_or_v,608,0.0,2.0,0,0,Concentrations cannot be negative.
+cell_viability,final_cs_aema_conc_pctw_or_v,608,0.0,4.0,0,0,Concentrations cannot be negative.
+cell_viability,final_tcp_conc_pctw_or_v,608,0.0,0.5,0,0,Concentrations cannot be negative.
+cell_viability,final_gellan_conc_pctw_or_v,608,0.0,3.0,0,0,Concentrations cannot be negative.
+cell_viability,final_nano_or_methylcellulose_concentration_pct_wv,608,0.0,9.0,0,0,Concentrations cannot be negative.
+cell_viability,final_pegta_conc_pctw_or_v,608,0.0,0.0,0,0,Concentrations cannot be negative.
+cell_viability,final_pegma_conc_pctw_or_v,607,0.0,0.0,0,0,Concentrations cannot be negative.
+cell_viability,final_pegda_conc_pctw_or_v,608,0.0,9.0,0,0,Concentrations cannot be negative.
+cell_viability,final_agarose_conc_pctw_or_v,608,0.0,2.0,0,0,Concentrations cannot be negative.
+cell_viability,cacl2_conc_mm,574,0.0,901.1,0,0,Concentrations cannot be negative.
+cell_viability,source_nacl2_concentration_mm,604,0.0,272.0,0,0,Concentrations cannot be negative.
+cell_viability,bacl2_conc_mm,608,0.0,60.0,0,0,Concentrations cannot be negative.
+cell_viability,srcl2_conc_mm,608,0.0,70.0,0,0,Concentrations cannot be negative.
+cell_viability,physical_crosslinking_duration_s,474,0.0,3600.0,0,0,Process duration cannot be negative.
+cell_viability,photocrosslinking_duration_s,608,0.0,2400.0,0,0,Process duration cannot be negative.
+cell_viability,extrusion_pressure_kpa,351,5.0,300.0,0,0,Extrusion pressure cannot be negative.
+cell_viability,extrusion_rate_lengthwise_mm_or_s,99,0.01,50.0,0,0,Printing rates and movement speeds cannot be negative.
+cell_viability,extrusion_rate_volume_wise_ml_or_s,191,8.33e-05,1.666666667,0,0,Printing rates and movement speeds cannot be negative.
+cell_viability,nozzle_movement_speed_mm_or_s,284,0.6667,235.0,0,0,Printing rates and movement speeds cannot be negative.
+cell_viability,inner_nozzle_outer_diameter_um,608,0.0,1067.0,0,0,Zero is permitted to represent absence of an inner coaxial nozzle.
+cell_viability,outer_nozzle_inner_diameter_um,595,101.6,1600.0,0,0,The printing-nozzle inner diameter must be positive.
+cell_viability,fiber_diameter_um,331,68.27,2922.58,0,0,A reported fiber diameter must be positive.
+cell_viability,fiber_spacing_um,226,0.0,4000.0,0,22,Fiber spacing cannot be negative. Zero values are preserved as source-coded observations and flagged for provenance and sensitivity review.
+cell_viability,cell_density_cells_or_ml,598,100000.0,30000000.0,0,0,Cell density cannot be negative.
+cell_viability,syringe_temperature_degc,393,4.0,44.0,0,0,Broad laboratory-temperature review range.
+cell_viability,substrate_temperature_degc,494,3.5,37.0,0,0,Broad laboratory-temperature review range.
+cell_viability,days_observed,608,0.0,30.0,0,0,Observation time cannot be negative.
+cell_viability,cell_viability_percent,608,3.9,100.0,0,0,Cell viability percentage must lie between 0 and 100.
+filament_diameter,final_alginate_conc_pctw_or_v,286,0.0,10.0,0,0,Concentrations cannot be negative.
+filament_diameter,final_gelatin_conc_pctw_or_v,286,0.0,50.0,0,0,Concentrations cannot be negative.
+filament_diameter,final_gelma_conc_pctw_or_v,286,0.0,30.0,0,0,Concentrations cannot be negative.
+filament_diameter,final_hyaluronic_acid_conc_pctw_or_v,286,0.0,2.0,0,0,Concentrations cannot be negative.
+filament_diameter,final_meha_conc_pctw_or_v,286,0.0,5.0,0,0,Concentrations cannot be negative.
+filament_diameter,final_norha_conc_pctw_or_v,286,0.0,2.0,0,0,Concentrations cannot be negative.
+filament_diameter,final_fibroin_or_fibrinogen_concentration_pct_wv,286,0.0,8.0,0,0,Concentrations cannot be negative.
+filament_diameter,final_p127_conc_pctw_or_v,286,0.0,30.0,0,0,Concentrations cannot be negative.
+filament_diameter,final_collagen_conc_pctw_or_v,286,0.0,3.0,0,0,Concentrations cannot be negative.
+filament_diameter,final_tcp_concentration_pct_wv,286,0.0,0.5,0,0,Concentrations cannot be negative.
+filament_diameter,final_gellan_conc_pctw_or_v,286,0.0,2.0,0,0,Concentrations cannot be negative.
+filament_diameter,final_nano_or_methylcellulose_concentration_pct_wv,286,0.0,9.0,0,0,Concentrations cannot be negative.
+filament_diameter,final_pegda_concentration_pct_wv,286,0.0,9.0,0,0,Concentrations cannot be negative.
+filament_diameter,final_agarose_concentration_pct_wv,286,0.0,2.0,0,0,Concentrations cannot be negative.
+filament_diameter,cacl2_conc_mm,269,0.0,901.1,0,0,Concentrations cannot be negative.
+filament_diameter,source_nacl2_concentration_mm,286,0.0,272.0,0,0,Concentrations cannot be negative.
+filament_diameter,bacl2_conc_mm,286,0.0,0.0,0,0,Concentrations cannot be negative.
+filament_diameter,srcl2_conc_mm,285,0.0,70.0,0,0,Concentrations cannot be negative.
+filament_diameter,physical_crosslinking_duration_s,206,0.0,1800.0,0,0,Process duration cannot be negative.
+filament_diameter,photocrosslinking_duration_s,286,0.0,2400.0,0,0,Process duration cannot be negative.
+filament_diameter,extrusion_pressure_kpa,142,5.0,280.0,0,0,Extrusion pressure cannot be negative.
+filament_diameter,extrusion_rate_lengthwise_mm_or_s,69,0.01,50.0,0,0,Printing rates and movement speeds cannot be negative.
+filament_diameter,extrusion_rate_volume_wise_ml_or_s,112,8.33e-05,1.666666667,0,0,Printing rates and movement speeds cannot be negative.
+filament_diameter,nozzle_movement_speed_mm_or_s,137,3.33,235.0,0,0,Printing rates and movement speeds cannot be negative.
+filament_diameter,inner_nozzle_outer_diameter_um,286,0.0,1067.0,0,0,Zero is permitted to represent absence of an inner coaxial nozzle.
+filament_diameter,outer_nozzle_inner_diameter_um,286,200.0,1600.0,0,0,The printing-nozzle inner diameter must be positive.
+filament_diameter,filament_diameter_um,286,68.27,2922.58,0,0,"Measured filament diameter must be positive. Values above 10,000 µm require review."
+filament_diameter,cell_density_cells_or_ml,277,250000.0,20000000.0,0,0,Cell density cannot be negative.
+filament_diameter,syringe_temperature_degc,183,4.0,44.0,0,0,Broad laboratory-temperature review range.
+filament_diameter,substrate_temperature_degc,226,3.5,37.0,0,0,Broad laboratory-temperature review range.
+filament_diameter,days_observed,283,0.0,28.0,0,0,Observation time cannot be negative.
+filament_diameter,construct_base_area_mm_2,197,0.785398163,1256.637061,0,0,Construct dimensions cannot be negative.
+filament_diameter,construct_total_thickness_mm,197,0.0,785.6,0,0,Construct dimensions cannot be negative.
+filament_diameter,filament_to_nozzle_ratio,286,0.27308,7.875857142857143,0,0,The filament-to-nozzle ratio must be positive. Ratios above 10 require review.

@@ -1,0 +1,13 @@
+dataset,target_key,model_variant,model_display_name,feature_set_a,feature_set_b,common_feature_count,importance_spearman,rank_spearman
+cell_viability,cell_viability,matched_fixed_rf,Matched fixed Random Forest,core_physics,prospective_design,15,0.9107142857142855,0.9107142857142855
+cell_viability,cell_viability,matched_fixed_rf,Matched fixed Random Forest,core_physics,full_retrospective,15,0.8964285714285712,0.8964285714285712
+cell_viability,cell_viability,matched_fixed_rf,Matched fixed Random Forest,prospective_design,full_retrospective,44,0.9967580520121221,0.9967580520121221
+cell_viability,cell_viability,tuned_rf_reference,Tuned Random Forest,core_physics,prospective_design,15,0.95,0.95
+cell_viability,cell_viability,tuned_rf_reference,Tuned Random Forest,core_physics,full_retrospective,15,0.9678571428571429,0.9678571428571429
+cell_viability,cell_viability,tuned_rf_reference,Tuned Random Forest,prospective_design,full_retrospective,44,0.9970401691331924,0.9970401691331924
+filament_diameter,filament_diameter,matched_fixed_rf,Matched fixed Random Forest,core_physics,prospective_design,14,0.9648351648351648,0.9648351648351648
+filament_diameter,filament_diameter,matched_fixed_rf,Matched fixed Random Forest,core_physics,full_retrospective,14,0.9384615384615385,0.9384615384615385
+filament_diameter,filament_diameter,matched_fixed_rf,Matched fixed Random Forest,prospective_design,full_retrospective,38,0.9892755526373385,0.9892755526373385
+filament_diameter,filament_diameter,tuned_rf_reference,Tuned Random Forest,core_physics,prospective_design,14,0.9208791208791209,0.9208791208791209
+filament_diameter,filament_diameter,tuned_rf_reference,Tuned Random Forest,core_physics,full_retrospective,14,0.8901098901098902,0.8901098901098902
+filament_diameter,filament_diameter,tuned_rf_reference,Tuned Random Forest,prospective_design,full_retrospective,38,0.9901520954152532,0.9901520954152532

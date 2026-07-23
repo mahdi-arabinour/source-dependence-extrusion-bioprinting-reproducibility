@@ -1,0 +1,19 @@
+{
+  "all_quality_gates_passed": true,
+  "analysis_locked": true,
+  "completed_utc": "2026-07-21T22:40:28.231371+00:00",
+  "elapsed_minutes": 8.243209373950958,
+  "final_evidence_scenario": "A+D+G",
+  "full_project_manifest_rows": 5568,
+  "models_retrained": false,
+  "package_directory": "/content/drive/MyDrive/Research_Projects/source-dependence-cross-publication-transportability-extrusion-bioprinting/outputs/reviewer_package_v1_0/reviewer_reproducibility_package",
+  "package_manifest_rows": 5544,
+  "package_zip": "/content/drive/MyDrive/Research_Projects/source-dependence-cross-publication-transportability-extrusion-bioprinting/outputs/reviewer_package_v1_0/reviewer_reproducibility_package_v1_0.zip",
+  "reviewer_package_complete": true,
+  "shap_values_recomputed": false,
+  "source_file_count": 5536,
+  "step": "Step 20 V1.0",
+  "step_version": "1.0.0",
+  "zip_file_size_bytes": 84518581,
+  "zip_sha256": "5cd10d34b615bce19c431c6b51196f5295e092acc58cfdc945f8adbf28e283d8"
+}

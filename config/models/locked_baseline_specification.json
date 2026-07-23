@@ -1,0 +1,49 @@
+{
+  "baseline_schema_version": "1.0.0",
+  "status": "locked_before_feature_model_fitting",
+  "baselines": {
+    "global_training_mean": {
+      "display_name": "Global training mean",
+      "uses_source_identity": false,
+      "new_publication_applicable": true,
+      "description": "Predicts every test observation using the mean target value in the outer training set."
+    },
+    "global_training_median": {
+      "display_name": "Global training median",
+      "uses_source_identity": false,
+      "new_publication_applicable": true,
+      "description": "Predicts every test observation using the median target value in the outer training set."
+    },
+    "source_training_mean_with_global_fallback": {
+      "display_name": "Source training mean with global fallback",
+      "uses_source_identity": true,
+      "new_publication_applicable": false,
+      "description": "Uses the training-set target mean of the same publication when available; otherwise falls back to the global training mean. This is a diagnostic source-dependence baseline."
+    }
+  },
+  "evaluation_levels": {
+    "split_level": "Metrics within every locked outer test fold.",
+    "repeat_level_micro": "All row predictions pooled within one validation design and repeat.",
+    "repeat_level_publication_macro": "Publication-specific metrics calculated first and then averaged with equal publication weight.",
+    "publication_mean_level": "Observed and predicted publication means compared across publications."
+  },
+  "metrics": [
+    "MAE",
+    "median absolute error",
+    "RMSE",
+    "bias",
+    "R2 when defined",
+    "Pearson r when defined",
+    "calibration intercept when defined",
+    "calibration slope when defined",
+    "publication-macro MAE",
+    "publication-macro RMSE",
+    "publication-mean MAE",
+    "publication-mean RMSE",
+    "publication-mean R2 when defined"
+  ],
+  "source_mean_baseline_role": "Diagnostic only. It uses source identity and prior training observations from the same publication. For an unseen publication it falls back to the global training mean.",
+  "test_targets_used_for_fitting": false,
+  "features_used": false,
+  "preprocessing_used": false
+}

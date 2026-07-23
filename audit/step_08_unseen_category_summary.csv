@@ -1,0 +1,5 @@
+dataset,feature,affected_outer_splits,total_unseen_levels,total_test_rows_with_unseen_level
+cell_viability,matrigel_used,6,12,180
+cell_viability,etoh_solution_used,2,4,64
+filament_diameter,precrosslinking_solution_used,8,32,64
+filament_diameter,conical_or_straight_nozzle,1,6,24

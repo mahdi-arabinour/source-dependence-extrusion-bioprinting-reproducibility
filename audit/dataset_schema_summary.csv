@@ -1,0 +1,3 @@
+dataset,dataset_code,raw_filename,rows,columns,expected_rows,expected_columns,shape_gate_passed,rows_with_any_missing,rows_with_any_missing_percent,columns_with_any_missing,rows_in_duplicate_groups,duplicate_rows_beyond_first,primary_rows_if_exact_duplicates_removed,registered_at_utc
+cell_viability,CV,Cell viability and extrusion dataset V1 (1).csv,617,51,617,51,True,617,100.0,16,16,9,608,2026-07-21T02:24:34.187561+00:00
+filament_diameter,FD,Filament diameter dataset V1 (1).csv,339,43,339,43,True,339,100.0,14,96,53,286,2026-07-21T02:24:34.551897+00:00

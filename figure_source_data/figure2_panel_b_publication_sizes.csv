@@ -1,0 +1,130 @@
+dataset,dataset_label,meta_primary_source_id,row_count
+cell_viability,Cell viability,doi:10.1002/adfm.201700798,4
+cell_viability,Cell viability,doi:10.1002/adhm.201500677,7
+cell_viability,Cell viability,doi:10.1002/adhm.201601451,9
+cell_viability,Cell viability,doi:10.1002/adhm.201801631,3
+cell_viability,Cell viability,doi:10.1002/adhm.201901544,4
+cell_viability,Cell viability,doi:10.1002/adhm.201901792,4
+cell_viability,Cell viability,doi:10.1002/adma.201305506,10
+cell_viability,Cell viability,doi:10.1002/adma.201503310,9
+cell_viability,Cell viability,doi:10.1002/adma.201604983,15
+cell_viability,Cell viability,doi:10.1002/adma.201703443,13
+cell_viability,Cell viability,doi:10.1002/biot.200900004,12
+cell_viability,Cell viability,doi:10.1002/jbm.a.34420,2
+cell_viability,Cell viability,doi:10.1002/jbm.a.36036,4
+cell_viability,Cell viability,doi:10.1002/mabi.201600472,42
+cell_viability,Cell viability,doi:10.1002/smll.201905505,18
+cell_viability,Cell viability,doi:10.1002/term.1682,4
+cell_viability,Cell viability,doi:10.1007/s00289-020-03421-y,1
+cell_viability,Cell viability,doi:10.1007/s10439-016-1704-5,30
+cell_viability,Cell viability,doi:10.1007/s10856-019-6258-2,3
+cell_viability,Cell viability,doi:10.1007/s13205-018-1341-9,3
+cell_viability,Cell viability,doi:10.1016/j.actbio.2014.06.034,9
+cell_viability,Cell viability,doi:10.1016/j.actbio.2014.09.023,4
+cell_viability,Cell viability,doi:10.1016/j.actbio.2014.09.033,4
+cell_viability,Cell viability,doi:10.1016/j.actbio.2018.10.028,8
+cell_viability,Cell viability,doi:10.1016/j.actbio.2020.07.016,6
+cell_viability,Cell viability,doi:10.1016/j.addma.2020.101640,4
+cell_viability,Cell viability,doi:10.1016/j.biomaterials.2015.05.031,6
+cell_viability,Cell viability,doi:10.1016/j.biomaterials.2016.07.038,9
+cell_viability,Cell viability,doi:10.1016/j.jmbbm.2017.12.018,3
+cell_viability,Cell viability,doi:10.1016/j.mtbio.2020.100078,5
+cell_viability,Cell viability,doi:10.1021/acs.biomac.5b00188,2
+cell_viability,Cell viability,doi:10.1021/acs.biomac.9b01204,12
+cell_viability,Cell viability,doi:10.1021/acsami.7b04216,3
+cell_viability,Cell viability,doi:10.1021/acsami.7b16059,12
+cell_viability,Cell viability,doi:10.1021/acsami.9b09782,6
+cell_viability,Cell viability,doi:10.1021/acsbiomaterials.9b00167,12
+cell_viability,Cell viability,doi:10.1038/s41598-017-17286-1,2
+cell_viability,Cell viability,doi:10.1038/s41598-018-26407-3,20
+cell_viability,Cell viability,doi:10.1038/s41598-019-55034-9,15
+cell_viability,Cell viability,doi:10.1038/s41598-020-65050-9,18
+cell_viability,Cell viability,doi:10.1038/srep29977,3
+cell_viability,Cell viability,doi:10.1039/c3bm00012e,6
+cell_viability,Cell viability,doi:10.1039/c4bm00234b,3
+cell_viability,Cell viability,doi:10.1088/0960-1317/22/8/085014,4
+cell_viability,Cell viability,doi:10.1088/1758-5082/5/2/025004,3
+cell_viability,Cell viability,doi:10.1088/1758-5082/6/2/024105,9
+cell_viability,Cell viability,doi:10.1088/1758-5082/6/3/035001,4
+cell_viability,Cell viability,doi:10.1088/1758-5090/7/4/044101,3
+cell_viability,Cell viability,doi:10.1088/1758-5090/7/4/044102,10
+cell_viability,Cell viability,doi:10.1088/1758-5090/7/4/045012,11
+cell_viability,Cell viability,doi:10.1088/1758-5090/8/3/035020,14
+cell_viability,Cell viability,doi:10.1088/1758-5090/8/4/045001,4
+cell_viability,Cell viability,doi:10.1088/1758-5090/8/4/045002,4
+cell_viability,Cell viability,doi:10.1088/1758-5090/8/4/045005,1
+cell_viability,Cell viability,doi:10.1088/1758-5090/aa7b1d,8
+cell_viability,Cell viability,doi:10.1088/1758-5090/aacd30,6
+cell_viability,Cell viability,doi:10.1088/1758-5090/ab0692,4
+cell_viability,Cell viability,doi:10.1088/1758-5090/ab15cb,6
+cell_viability,Cell viability,doi:10.1088/1758-5090/ab19fd,8
+cell_viability,Cell viability,doi:10.1088/1758-5090/ab2622,9
+cell_viability,Cell viability,doi:10.1088/1758-5090/ab38ef,1
+cell_viability,Cell viability,doi:10.1088/1758-5090/ab7553,4
+cell_viability,Cell viability,doi:10.1088/1758-5090/abc39b,14
+cell_viability,Cell viability,doi:10.1089/biores.2013.0031,4
+cell_viability,Cell viability,doi:10.1089/ten.a.2007.0004,21
+cell_viability,Cell viability,doi:10.1089/ten.a.2007.0158,9
+cell_viability,Cell viability,doi:10.1089/ten.tec.2007.0392,6
+cell_viability,Cell viability,doi:10.1089/ten.tec.2015.0307,10
+cell_viability,Cell viability,doi:10.1115/1.3128729,4
+cell_viability,Cell viability,doi:10.1115/1.4024575,30
+cell_viability,Cell viability,doi:10.1115/1.4043960,2
+cell_viability,Cell viability,doi:10.18063/ijb.v5i2.2.204,19
+cell_viability,Cell viability,doi:10.18063/ijb.v6i1.250,2
+cell_viability,Cell viability,doi:10.3390/ma13194237,3
+cell_viability,Cell viability,doi:10.3390/polym12102346,2
+filament_diameter,Filament diameter,ref:akkineni gelinsky biofab 2016,2
+filament_diameter,Filament diameter,ref:be22assoni khademhosseini biofab 2014,3
+filament_diameter,Filament diameter,ref:bociaga rosinska mat 2020,3
+filament_diameter,Filament diameter,ref:chen zhang appmatint 2019,3
+filament_diameter,Filament diameter,ref:chung wallace biomatsci 2013,3
+filament_diameter,Filament diameter,ref:cidonio oreffo biofab 2019,1
+filament_diameter,Filament diameter,ref:colosi khademhosseini advmat 2016,9
+filament_diameter,Filament diameter,ref:dai 2016,1
+filament_diameter,Filament diameter,ref:daly kelly biofab 2016,4
+filament_diameter,Filament diameter,ref:das ghosh actabiomat 2015,3
+filament_diameter,Filament diameter,ref:duan butcher jbiomedmatres 2012,2
+filament_diameter,Filament diameter,ref:duin 2019,2
+filament_diameter,Filament diameter,ref:fedorovich dhe22 tissueeng 2008,5
+filament_diameter,Filament diameter,ref:fisch zenobi wong biofab 2021,4
+filament_diameter,Filament diameter,ref:gantumar sakai,2
+filament_diameter,Filament diameter,ref:gao cho advfuncmat 2017,4
+filament_diameter,Filament diameter,ref:gao ma biomat 2015,1
+filament_diameter,Filament diameter,ref:giuseppe 2018,3
+filament_diameter,Filament diameter,ref:idaszek swieszkowski biofab 2019,3
+filament_diameter,Filament diameter,ref:jia khademhosseini biomat 2016,9
+filament_diameter,Filament diameter,ref:kang jin small 2020,12
+filament_diameter,Filament diameter,ref:kilian ahlfeld akkineni bioprint 2020,12
+filament_diameter,Filament diameter,ref:kolan leu bioprintamer 2019,6
+filament_diameter,Filament diameter,ref:kolesky lewis advmat 2014,4
+filament_diameter,Filament diameter,ref:kosik koziol swieszkowski biofab 2019,6
+filament_diameter,Filament diameter,ref:li fu scirep 2018,8
+filament_diameter,Filament diameter,ref:li li acsapplmatinterf 2017,2
+filament_diameter,Filament diameter,ref:li xu 3biotech 2018,3
+filament_diameter,Filament diameter,ref:li zhou addman 2021,4
+filament_diameter,Filament diameter,ref:lim levato advhealthmat 2020,4
+filament_diameter,Filament diameter,ref:liu zhang advhealthmat 2017,3
+filament_diameter,Filament diameter,ref:markstedt mantas biomacromol 2015,2
+filament_diameter,Filament diameter,ref:mistry yang biomacromolj 2018,30
+filament_diameter,Filament diameter,ref:moncal ozbolat jmatscimatmed 2019,1
+filament_diameter,Filament diameter,ref:mondal singh scirep 2019,4
+filament_diameter,Filament diameter,ref:ning chen biofab 2018,6
+filament_diameter,Filament diameter,ref:ojansivu mustafa biofab 2019,6
+filament_diameter,Filament diameter,ref:othman 2020,1
+filament_diameter,Filament diameter,ref:ouyang 2015,3
+filament_diameter,Filament diameter,ref:ouyang 2016,11
+filament_diameter,Filament diameter,ref:ouyang burdick advmat 2017,10
+filament_diameter,Filament diameter,ref:sakai nagasuna mattodbio 2020,1
+filament_diameter,Filament diameter,ref:sanz garcia escobedo lucea polymers 2020,2
+filament_diameter,Filament diameter,ref:shim cho jmicromechmicroeng 2012,4
+filament_diameter,Filament diameter,ref:shin burdick actabiomat 2019,8
+filament_diameter,Filament diameter,ref:soliman lim advhealthmat 2020,4
+filament_diameter,Filament diameter,ref:soltan chen acsbiomat 2019,9
+filament_diameter,Filament diameter,ref:tigner alge biomacromol 2020,12
+filament_diameter,Filament diameter,ref:yang zhao matsciengc 2018,6
+filament_diameter,Filament diameter,ref:yao 2019,1
+filament_diameter,Filament diameter,ref:yin suo appmatint 2018,9
+filament_diameter,Filament diameter,ref:yu ozbolat jbiomecheng 2013,18
+filament_diameter,Filament diameter,ref:zhang ozbolat biomatsci 2015,3
+filament_diameter,Filament diameter,ref:zhao 2014,4

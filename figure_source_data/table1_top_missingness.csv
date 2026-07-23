@@ -1,0 +1,21 @@
+dataset,feature,feature_label,data_type,include_core_physics,include_prospective_design,include_full_retrospective,missing_count,missing_percent,unique_nonmissing_values
+cell_viability,extrusion_rate_lengthwise_mm_or_s,Extrusion rate lengthwise (mm/s),numeric,False,True,True,509,83.7171052631579,15
+cell_viability,extrusion_rate_volume_wise_ml_or_s,Extrusion rate volume wise (ml/s),numeric,False,True,True,417,68.58552631578947,16
+cell_viability,nozzle_movement_speed_mm_or_s,Nozzle movement speed (mm/s),numeric,True,True,True,324,53.289473684210535,27
+cell_viability,extrusion_pressure_kpa,Extrusion pressure (kpa),numeric,True,True,True,257,42.26973684210527,54
+cell_viability,syringe_temperature_degc,Syringe temperature (°c),numeric,True,True,True,215,35.36184210526316,21
+cell_viability,physical_crosslinking_duration_s,Physical crosslinking duration s,numeric,True,True,True,134,22.039473684210524,14
+cell_viability,substrate_temperature_degc,Substrate temperature (°c),numeric,True,True,True,114,18.75,13
+cell_viability,cacl2_conc_mm,Cacl2 conc mm,numeric,True,True,True,34,5.592105263157895,15
+cell_viability,conical_or_straight_nozzle,Conical or straight nozzle,categorical,True,True,True,25,4.111842105263158,2
+cell_viability,outer_nozzle_inner_diameter_um,Outer nozzle inner diameter (µm),numeric,True,True,True,13,2.138157894736842,35
+filament_diameter,extrusion_rate_lengthwise_mm_or_s,Extrusion rate lengthwise (mm/s),numeric,False,True,True,217,75.87412587412588,13
+filament_diameter,extrusion_rate_volume_wise_ml_or_s,Extrusion rate volume wise (ml/s),numeric,False,True,True,174,60.83916083916085,13
+filament_diameter,nozzle_movement_speed_mm_or_s,Nozzle movement speed (mm/s),numeric,True,True,True,149,52.09790209790209,19
+filament_diameter,extrusion_pressure_kpa,Extrusion pressure (kpa),numeric,True,True,True,144,50.349650349650354,38
+filament_diameter,syringe_temperature_degc,Syringe temperature (°c),numeric,True,True,True,103,36.01398601398601,20
+filament_diameter,physical_crosslinking_duration_s,Physical crosslinking duration s,numeric,True,True,True,80,27.972027972027973,10
+filament_diameter,substrate_temperature_degc,Substrate temperature (°c),numeric,True,True,True,60,20.97902097902098,12
+filament_diameter,cacl2_conc_mm,Cacl2 conc mm,numeric,True,True,True,17,5.944055944055944,14
+filament_diameter,cell_density_cells_or_ml,Cell density (cells/ml),numeric,True,True,True,9,3.146853146853147,17
+filament_diameter,conical_or_straight_nozzle,Conical or straight nozzle,categorical,True,True,True,4,1.3986013986013985,2

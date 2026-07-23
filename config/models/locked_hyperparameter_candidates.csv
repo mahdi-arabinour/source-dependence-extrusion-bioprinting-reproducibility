@@ -1,0 +1,33 @@
+model_key,model_display_name,model_family,preprocessing_variant,candidate_order,candidate_id,complexity_tie_break_rank,parameters_json,parameter_alpha,parameter_l1_ratio,parameter_n_estimators,parameter_max_depth,parameter_min_samples_leaf,parameter_max_features,parameter_C,parameter_epsilon,parameter_gamma
+ridge,Ridge regression,linear_regularized,scaled,1,ridge_01,1,"{""alpha"": 100.0}",100.0,,,,,,,,
+ridge,Ridge regression,linear_regularized,scaled,2,ridge_02,2,"{""alpha"": 10.0}",10.0,,,,,,,,
+ridge,Ridge regression,linear_regularized,scaled,3,ridge_03,3,"{""alpha"": 1.0}",1.0,,,,,,,,
+ridge,Ridge regression,linear_regularized,scaled,4,ridge_04,4,"{""alpha"": 0.1}",0.1,,,,,,,,
+ridge,Ridge regression,linear_regularized,scaled,5,ridge_05,5,"{""alpha"": 0.01}",0.01,,,,,,,,
+elastic_net,Elastic Net,linear_regularized_sparse,scaled,1,elastic_net_01,1,"{""alpha"": 1.0, ""l1_ratio"": 0.9}",1.0,0.9,,,,,,,
+elastic_net,Elastic Net,linear_regularized_sparse,scaled,2,elastic_net_02,2,"{""alpha"": 1.0, ""l1_ratio"": 0.5}",1.0,0.5,,,,,,,
+elastic_net,Elastic Net,linear_regularized_sparse,scaled,3,elastic_net_03,3,"{""alpha"": 1.0, ""l1_ratio"": 0.1}",1.0,0.1,,,,,,,
+elastic_net,Elastic Net,linear_regularized_sparse,scaled,4,elastic_net_04,4,"{""alpha"": 0.1, ""l1_ratio"": 0.9}",0.1,0.9,,,,,,,
+elastic_net,Elastic Net,linear_regularized_sparse,scaled,5,elastic_net_05,5,"{""alpha"": 0.1, ""l1_ratio"": 0.5}",0.1,0.5,,,,,,,
+elastic_net,Elastic Net,linear_regularized_sparse,scaled,6,elastic_net_06,6,"{""alpha"": 0.1, ""l1_ratio"": 0.1}",0.1,0.1,,,,,,,
+elastic_net,Elastic Net,linear_regularized_sparse,scaled,7,elastic_net_07,7,"{""alpha"": 0.01, ""l1_ratio"": 0.9}",0.01,0.9,,,,,,,
+elastic_net,Elastic Net,linear_regularized_sparse,scaled,8,elastic_net_08,8,"{""alpha"": 0.01, ""l1_ratio"": 0.5}",0.01,0.5,,,,,,,
+elastic_net,Elastic Net,linear_regularized_sparse,scaled,9,elastic_net_09,9,"{""alpha"": 0.01, ""l1_ratio"": 0.1}",0.01,0.1,,,,,,,
+random_forest,Random Forest,tree_ensemble,unscaled,1,random_forest_01,1,"{""max_depth"": 8, ""max_features"": ""sqrt"", ""min_samples_leaf"": 5, ""n_estimators"": 300}",,,300.0,8.0,5.0,sqrt,,,
+random_forest,Random Forest,tree_ensemble,unscaled,2,random_forest_02,2,"{""max_depth"": 12, ""max_features"": ""sqrt"", ""min_samples_leaf"": 3, ""n_estimators"": 300}",,,300.0,12.0,3.0,sqrt,,,
+random_forest,Random Forest,tree_ensemble,unscaled,3,random_forest_03,3,"{""max_depth"": 12, ""max_features"": 0.5, ""min_samples_leaf"": 1, ""n_estimators"": 300}",,,300.0,12.0,1.0,0.5,,,
+random_forest,Random Forest,tree_ensemble,unscaled,4,random_forest_04,4,"{""max_depth"": 24, ""max_features"": 0.5, ""min_samples_leaf"": 3, ""n_estimators"": 300}",,,300.0,24.0,3.0,0.5,,,
+random_forest,Random Forest,tree_ensemble,unscaled,5,random_forest_05,5,"{""max_depth"": 24, ""max_features"": 0.5, ""min_samples_leaf"": 1, ""n_estimators"": 300}",,,300.0,24.0,1.0,0.5,,,
+random_forest,Random Forest,tree_ensemble,unscaled,6,random_forest_06,6,"{""max_depth"": null, ""max_features"": ""sqrt"", ""min_samples_leaf"": 1, ""n_estimators"": 300}",,,300.0,,1.0,sqrt,,,
+rbf_svr,RBF-SVR,kernel_nonlinear,scaled,1,rbf_svr_01,1,"{""C"": 1.0, ""epsilon"": 0.5, ""gamma"": ""scale""}",,,,,,,1.0,0.5,scale
+rbf_svr,RBF-SVR,kernel_nonlinear,scaled,2,rbf_svr_02,2,"{""C"": 1.0, ""epsilon"": 0.5, ""gamma"": 0.01}",,,,,,,1.0,0.5,0.01
+rbf_svr,RBF-SVR,kernel_nonlinear,scaled,3,rbf_svr_03,3,"{""C"": 1.0, ""epsilon"": 0.1, ""gamma"": ""scale""}",,,,,,,1.0,0.1,scale
+rbf_svr,RBF-SVR,kernel_nonlinear,scaled,4,rbf_svr_04,4,"{""C"": 1.0, ""epsilon"": 0.1, ""gamma"": 0.01}",,,,,,,1.0,0.1,0.01
+rbf_svr,RBF-SVR,kernel_nonlinear,scaled,5,rbf_svr_05,5,"{""C"": 10.0, ""epsilon"": 0.5, ""gamma"": ""scale""}",,,,,,,10.0,0.5,scale
+rbf_svr,RBF-SVR,kernel_nonlinear,scaled,6,rbf_svr_06,6,"{""C"": 10.0, ""epsilon"": 0.5, ""gamma"": 0.01}",,,,,,,10.0,0.5,0.01
+rbf_svr,RBF-SVR,kernel_nonlinear,scaled,7,rbf_svr_07,7,"{""C"": 10.0, ""epsilon"": 0.1, ""gamma"": ""scale""}",,,,,,,10.0,0.1,scale
+rbf_svr,RBF-SVR,kernel_nonlinear,scaled,8,rbf_svr_08,8,"{""C"": 10.0, ""epsilon"": 0.1, ""gamma"": 0.01}",,,,,,,10.0,0.1,0.01
+rbf_svr,RBF-SVR,kernel_nonlinear,scaled,9,rbf_svr_09,9,"{""C"": 100.0, ""epsilon"": 0.5, ""gamma"": ""scale""}",,,,,,,100.0,0.5,scale
+rbf_svr,RBF-SVR,kernel_nonlinear,scaled,10,rbf_svr_10,10,"{""C"": 100.0, ""epsilon"": 0.5, ""gamma"": 0.01}",,,,,,,100.0,0.5,0.01
+rbf_svr,RBF-SVR,kernel_nonlinear,scaled,11,rbf_svr_11,11,"{""C"": 100.0, ""epsilon"": 0.1, ""gamma"": ""scale""}",,,,,,,100.0,0.1,scale
+rbf_svr,RBF-SVR,kernel_nonlinear,scaled,12,rbf_svr_12,12,"{""C"": 100.0, ""epsilon"": 0.1, ""gamma"": 0.01}",,,,,,,100.0,0.1,0.01

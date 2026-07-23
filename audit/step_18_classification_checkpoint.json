@@ -1,0 +1,38 @@
+{
+  "step": "STEP_18_CLASSIFICATION_SENSITIVITY",
+  "step_version": "1.1.0",
+  "fresh_run_token": "step18_v1_1_validated_group_stratification_classification_sensitivity",
+  "completed_at_utc": "2026-07-21T22:14:17.336790+00:00",
+  "python_version": "3.12.13 (main, Mar  4 2026, 09:23:07) [GCC 11.4.0]",
+  "platform": "Linux-6.6.122+-x86_64-with-glibc2.35",
+  "numpy_version": "2.0.2",
+  "pandas_version": "2.2.2",
+  "scipy_version": "1.16.3",
+  "scikit_learn_version": "1.6.1",
+  "master_random_seed": 42,
+  "eligible_outcomes": [
+    "cell_viability",
+    "filament_diameter"
+  ],
+  "optional_outcomes_skipped": [],
+  "validation_designs": [
+    "random_rowwise",
+    "publication_grouped"
+  ],
+  "repeats": 5,
+  "folds": 5,
+  "classification_threshold": 0.5,
+  "cell_viability_acceptability_threshold": 80.0,
+  "publication_bootstrap_replicates": 10000,
+  "task_count": 20,
+  "prediction_rows": 8940,
+  "repeat_metric_rows": 20,
+  "consensus_prediction_rows": 1788,
+  "contrast_rows": 2,
+  "task_execution_elapsed_seconds": 262.728890184997,
+  "finalization_elapsed_seconds": 923.8259726999968,
+  "total_step_elapsed_seconds": 1186.5548628849938,
+  "analysis_complete": true,
+  "automatic_finalization_complete": true,
+  "all_quality_gates_passed": true
+}

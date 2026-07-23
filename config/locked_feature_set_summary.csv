@@ -1,0 +1,10 @@
+dataset,target_family,feature_set,feature_count
+cell_viability,raw_outcome,core_physics,15
+cell_viability,raw_outcome,prospective_design,44
+cell_viability,raw_outcome,full_retrospective,46
+filament_diameter,raw_outcome,core_physics,14
+filament_diameter,raw_outcome,prospective_design,38
+filament_diameter,raw_outcome,full_retrospective,40
+filament_diameter,filament_to_nozzle_ratio,core_physics,13
+filament_diameter,filament_to_nozzle_ratio,prospective_design,37
+filament_diameter,filament_to_nozzle_ratio,full_retrospective,39

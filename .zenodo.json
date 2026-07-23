@@ -1,0 +1,26 @@
+{
+  "title": "Source Dependence and Cross-Publication Transportability of Machine-Learning Models in Extrusion Bioprinting",
+  "upload_type": "software",
+  "description": "Journal-facing reproducibility repository containing code, locked configurations and validation splits, raw and processed datasets, consolidated model outputs, statistical analyses, tables, figure source data, and final figures for the associated article.",
+  "creators": [
+    {"name": "Arabinour, Mahdi", "affiliation": "University of Miami"},
+    {"name": "Sotudeh, Naser"},
+    {"name": "Sultani, Nargis", "affiliation": "Georgia Institute of Technology"},
+    {"name": "Ziebarth, Noel Marysa", "affiliation": "University of Miami"},
+    {"name": "Zhou, Xiangyang", "affiliation": "University of Miami"},
+    {"name": "Tayebi, Lobat", "affiliation": "Old Dominion University"}
+  ],
+  "access_right": "open",
+  "license": "MIT",
+  "version": "1.0.0",
+  "keywords": [
+    "extrusion bioprinting",
+    "machine learning",
+    "publication-aware validation",
+    "source dependence",
+    "cross-publication transportability",
+    "grouped cross-validation",
+    "SHAP",
+    "reproducibility"
+  ]
+}
