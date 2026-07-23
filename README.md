@@ -1,12 +1,28 @@
 # Source Dependence and Cross-Publication Transportability in Extrusion Bioprinting
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21517730.svg)](https://doi.org/10.5281/zenodo.21517730)
+
 ## Associated article
 
 **Source Dependence and Cross-Publication Transportability of Machine-Learning Models in Extrusion Bioprinting: A Hierarchical Reanalysis of Cell Viability and Filament Geometry**
 
 ## Repository purpose
 
-This is the journal-facing reproducibility repository for the associated article. The same tagged release is intended for GitHub and permanent archiving in Zenodo. It contains the data, locked analysis definitions, executable workflow, consolidated verification artifacts, tables, figure source data, and final figures needed to inspect and reproduce the reported analyses without exposing readers to caches, obsolete files, duplicate outputs, or thousands of internal task fragments.
+This is the journal-facing reproducibility repository for the associated article. The tagged GitHub releases are permanently archived in Zenodo. The repository contains the data, locked analysis definitions, executable workflow, consolidated verification artifacts, tables, figure source data, and final figures needed to inspect and reproduce the reported analyses without exposing readers to caches, obsolete files, duplicate outputs, or thousands of internal task fragments.
+
+## Permanent links
+
+- **GitHub repository:**  
+  https://github.com/mahdi-arabinour/source-dependence-extrusion-bioprinting-reproducibility
+
+- **Latest Zenodo record:**  
+  https://doi.org/10.5281/zenodo.21518625
+
+- **Concept DOI for all versions:**  
+  https://doi.org/10.5281/zenodo.21517730
+
+- **Current archived version:**  
+  `v1.0.2`
 
 ## Start here
 
@@ -45,8 +61,13 @@ The public repository intentionally omits software caches, temporary execution f
 
 ## Citation
 
-Use the metadata in [`CITATION.cff`](CITATION.cff). A Zenodo DOI badge and DOI citation will be added after the first clean GitHub release is archived.
+Please cite the archived software release as:
 
-## License
+> Arabinour, M., Sotudeh, N., Sultani, N., Ziebarth, N. M., Zhou, X., & Tayebi, L. (2026). *Source Dependence and Cross-Publication Transportability of Machine-Learning Models in Extrusion Bioprinting* (Version 1.0.2) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.21518625
 
-Code is released under the MIT License. Dataset reuse conditions are described in [`DATA_LICENSE.md`](DATA_LICENSE.md).
+For citation metadata, see [`CITATION.cff`](CITATION.cff).
+
+For references intended to resolve automatically to the latest archived version, use the concept DOI:
+
+```text
+10.5281/zenodo.21517730
